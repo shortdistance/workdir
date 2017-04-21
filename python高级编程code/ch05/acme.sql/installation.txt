@@ -1,0 +1,2 @@
+/usr/lib/python2.6/site-packages/acme.sql-0.1.1-py2.6.egg
+/usr/lib/python2.6/site-packages/pysqlite-2.6.3-py2.6-cygwin-1.7.5-i686.egg

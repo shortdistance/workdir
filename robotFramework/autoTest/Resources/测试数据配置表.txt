@@ -1,0 +1,9 @@
+*** Variables ***
+${strLoginName}    13681197396    # 登录用户名
+${strLoginPasswd}    1qaz2wsx    # 登录密码
+${strUrl}         http://eip.teamshub.com    # 测试Url地址
+${strBrowserType}    ie    # 测试所用浏览器类型。IE, Firefox...
+${strSecCertiError}    证书错误: 导航已阻止    # 证书错误: 导航已阻止(页面Title)
+${strTimeOut}     1 minute
+${strLoginPopWindowTitle}    安全警告
+${strMainPageWindowTitle}    移动办公门户

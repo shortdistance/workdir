@@ -1,0 +1,31 @@
+*** Settings ***
+Suite Teardown    Close All Browsers
+Test Teardown     Close Browser
+Resource          Resources/页面基本流程.txt
+
+*** Test Cases ***
+有效登录
+    [Tags]    login
+    登录[正常]    ${strUrl}    ${strBrowserType}    ${strLoginName}    ${strLoginPasswd}
+
+无效登录(用户名为空)
+    [Tags]    login
+    登录[异常]    ${strUrl}    ${strBrowserType}    \    ${strLoginPasswd}
+
+无效登录(密码为空)
+    [Tags]    login
+    登录[异常]    ${strUrl}    ${strBrowserType}    ${strLoginName}    ${EMPTY}
+
+无效登录(密码错误)
+    [Tags]    login
+    登录[异常]    ${strUrl}    ${strBrowserType}    ${strLoginName}    111
+
+SSHTEST
+    [Tags]    SSH
+    SSHTEST
+
+DBTest
+    [Tags]    DB
+    DatabaseTest    cx_Oracle    'bnms','bnms','172.16.9.216:1521/bnmsdb'    select sysdate from dull
+
+*** Keywords ***

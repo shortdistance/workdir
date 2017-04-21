@@ -1,0 +1,102 @@
+*** Settings ***
+Library           Selenium2Library
+Library           DatabaseLibrary
+
+*** Keywords ***
+登陆填写信息
+    [Arguments]    ${url}    ${unm}    ${pwd}    ${rdm}
+    Open Browser    ${url}
+    Input Text    username    ${unm}
+    Input Text    password    ${pwd}
+    Input Text    random    ${rdm}
+    Click Button    btn_submit
+
+选择菜单
+    [Arguments]    ${menu1}    ${menu2}    ${menu3}
+    Click Link    ${menu1}
+    Click Link    ${menu2}
+    Click Image    //div[p[@title='${menu3}']]/a/img
+
+动作管理--新增
+    [Arguments]    ${actName}
+    [Documentation]    点击添加，
+    ...    输入动作名称，
+    ...    点击确定，
+    ...    提示保存成功，
+    ...    检查提示信息，
+    ...    点击确定
+    Click Button    //input[@onclick='addinfo()']
+    Input Text    ACTION_NAMEADD    ${actName}
+    Click Button    //input[@onclick='addSaveAction()']
+    ${msg}    Get Text    //div[@class='messager-icon messager-info']/following-sibling::div[1]
+    Should Be Equal As Strings    ${msg}    添加成功
+    Click Element    //a[span/span[text()='确定']]
+
+动作管理--修改
+    [Arguments]    ${actName}
+    [Documentation]    输入动作名称，
+    ...    点击查询，
+    ...    获取动作名称，
+    ...    校验动作名称和查询名称是否一致，
+    ...    选择动作，
+    ...    点击修改，
+    ...    选择注销，
+    ...    点击确定，
+    ...    获取提示信息，
+    ...    验证提示信息，
+    ...    点击确定
+    Input Text    ACTION_NAME    ${actName}
+    Click Button    queryBtn
+    Sleep    2S
+    ${currentActName}    Get Text    //tr[@id='1']/td[@aria-describedby='selectList_actionName']
+    Should Be Equal As Strings    ${currentActName}    ${actName}
+    Select Checkbox    //input[@id='jqg_selectList_1']
+    Click Button    //input[@onclick='updata()']
+    Sleep    2S
+    Select Radio Button    updataSTS    P
+    Comment    Input Text    updataACTION_NAME    ${updateActName}
+    Click Button    //input[@onclick='updataSaveAction()']
+    ${msg}    Get Text    //div[@class='messager-icon messager-info']/following-sibling::div[1]
+    Should Be Equal As Strings    ${msg}    修改成功
+    Click Element    //a[span/span[text()='确定']]
+
+数据库校验
+    Connect To Database Using Custom Params    cx_Oracle    'iomadm','iomadm','iom'
+    @{rs}    Query    select so_work_area_name \ from tf_so where so_nbr = '1140404173523419666' \
+    Log    ${rs[0][0]}
+    ${a}    decode    ${rs[0][0]}
+    Log    ${a}
+    Disconnect from Database
+
+工单查询--查询
+    [Arguments]    ${woNbr}
+    Select Frame    810000301
+    Input Text    woNbrTxt    ${woNbr}
+    Click Button    queryBtn
+    Sleep    3s
+    ${nbr}    Get Text    xpath=//tr[@id='1']/td[@aria-describedby='woList_woNbr']
+    ${sts}    Get Text    xpath=//tr[@id='1']/td[@aria-describedby='woList_stepName']
+    Run Keyword If    ${nbr}==${woNbr}    log    ${sts}    ELSE    log    无对应定单记录
+    Unselect Frame
+    [Return]    ${sts}
+
+资源分配--资源配置
+    [Arguments]    ${nbr}
+    Select Frame    810000204
+    Input Text    woNbr    ${nbr}
+    Click Element    //span[input[@name='stepId']]/span/span
+    Sleep    2s
+    Click Element    //div[text()='配宽带']
+    Click Button    btn1
+    ${wAName}    Get Text    workAreaName
+    Run Keyword If    ${wAName}!=${aimWAName}    Click Element    //span[text()='我的工区']
+    ...    Input Text    workAreaName    测试
+    ...    log    123
+
+定单查询--查询
+    [Arguments]    ${no}
+    选择菜单    集成定单    统计查询    定单查询
+    sleep    2s
+    Select Frame    810000303
+    Input Text    soNbrTxt    ${no}
+    Click Button    queryBtn

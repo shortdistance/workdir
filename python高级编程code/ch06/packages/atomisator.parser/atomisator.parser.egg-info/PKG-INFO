@@ -1,0 +1,16 @@
+Metadata-Version: 1.0
+Name: atomisator.parser
+Version: 0.1.0
+Summary: atomisator parser
+Home-page: http://atomisator.ziade.org
+Author: Tarek Ziade
+Author-email: tarek@ziade.org
+License: GPL
+Description: my atomisator parser example
+Keywords: python best practices
+Platform: UNKNOWN
+Classifier: Framework :: Plone
+Classifier: Framework :: Zope2
+Classifier: Framework :: Zope3
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules

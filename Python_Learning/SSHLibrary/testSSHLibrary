@@ -1,0 +1,2 @@
+import AutoItLibrary
+print help(AutoItLibrary)

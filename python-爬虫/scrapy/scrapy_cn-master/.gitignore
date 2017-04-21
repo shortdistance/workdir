@@ -1,0 +1,10 @@
+*.pyc
+*.project
+*.pydevproject
+*.swo
+*.swp
+/.settings/
+*.iml
+/.idea/
+*~
+.DS_Storeßß

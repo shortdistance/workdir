@@ -1,0 +1,85 @@
+*** Settings ***
+Library           Collections
+Library           Telnet
+
+*** Test Cases ***
+数据类型
+    [Tags]    learn
+    ${intNum}    set variable    ${3}    # int
+    ${floatNum}    set variable    ${3.14}    # float
+    ${testTrue}    set variable    ${True}
+    ${testFalse}    set variable    ${False}
+    ${testNone}    set variable    ${None}
+    ${testNull}    set variable    ${null}
+    ${testString}    set variable    hello world
+    ${testTuple}    set variable    ${1,2,3,4}
+    @{testList}    Create List    1    a    b    c
+    ${testDictionary}    Create Dictionary    a    ${1,2,3,4}    b    2
+    ${test_space}    Set Variable    ${space}
+    ${test_4space}    Set Variable    ${space*4}
+
+控制流
+    [Tags]    learn
+    : FOR    ${i}    IN    1    2    3    4
+    \    Run keyword if    ${i}>2    log    'i'=${i}
+
+001_Call Method
+    [Tags]    builtin
+    ${list}    Create List    a    b    c
+    Call Method    ${list}    append    d
+    Log    ${list}
+    ${str}    set variable    hello.world
+    ${strList}    Call method    ${str}    split    .
+    ${newstr}    Call Method    .    join    ${strList}
+
+002_Catenate
+    [Tags]    builtin
+    ${retStr}    catenate    SEPARATOR=---    hello    word
+    ${retStr}    catenate    hello    \    word
+    ${retStr}    catenate    hello    word
+    @{list}    create list    A    B    c
+    ${retStr}    catenate    SEPARATOR=---    @{list}
+
+003_Comment
+    [Tags]    builtin
+    comment    hello world
+
+004_Continue For Loop
+    [Tags]    builtin
+    @{list}    Create List    1    2    3    4
+    : FOR    ${i}    IN    @{list}
+    \    Run Keyword if    '${i}'=='3'    Continue For Loop
+    \    Log    ${i}
+
+005_Continue For Loop If
+    [Tags]    builtin
+    @{list}    Create List    1    2    3    4
+    : FOR    ${i}    IN    @{list}
+    \    Continue For Loop If    '${i}'=='3'
+    \    ${res}    Evaluate    ${i}*(${i}+1)
+
+006_Convert To Binary
+    [Tags]    builtin
+    ${result}    Convert To Binary    10    prefix=0XX    length=10
+
+007_Convert To Boolean
+    [Tags]    builtin
+    ${ret1}    Convert To Boolean    100
+    ${ret2}    Convert To Boolean    ${EMPTY}
+    @{list}    create list    ${EMPTY}
+    ${ret3}    Convert To Boolean    @{list}
+
+008_Evaluate
+    [Tags]    builtin
+    ${i}    set variable    5
+    ${ret}    evaluate    ${i}>6
+
+009_FAIL
+    [Tags]    builtin
+    Comment    FAIL    os is not supported
+    fatal error    os is not supported too
+
+010_Get Count
+    [Tags]    builtin
+    ${str}=    set variable    hello hello
+    get count    ${str}    hello

@@ -1,0 +1,7 @@
+*** Variables ***
+${ele_login_username}    username
+${ele_login_password}    password1
+${ele_login_overridelink}    overridelink
+${ele_login_submit}    login
+${ele_login_form}    fm1
+${ele_login_errorpanel}    errorarea

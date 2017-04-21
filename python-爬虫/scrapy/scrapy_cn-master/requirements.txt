@@ -1,0 +1,11 @@
+celery
+billiard
+redis
+pymongo
+mongoengine
+motor
+tornado
+tornado-celery
+requests
+scrapy==0.24
+

@@ -1,0 +1,4 @@
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.8670522,151.1957362&radius=500&types=food&name=cruise&key=YOUR_API_KEY
+
+
+以“food”类型搜索澳大利亚悉尼某位置 500 米半径范围内其名称中包含“cruise”一词的地点：

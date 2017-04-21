@@ -1,0 +1,2277 @@
+2017-02-22 00:35:43,607 INFO SesameConnection starting up...
+2017-02-22 00:35:43,608 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,635 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,638 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/logout
+2017-02-22 00:35:43,644 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,647 INFO SesameConnection starting up...
+2017-02-22 00:35:43,647 INFO SesameConnection starting up...
+2017-02-22 00:35:43,648 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,648 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,654 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,654 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,654 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/logout
+2017-02-22 00:35:43,654 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/logout
+2017-02-22 00:35:43,661 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,661 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,665 INFO SesameConnection starting up...
+2017-02-22 00:35:43,665 INFO SesameConnection starting up...
+2017-02-22 00:35:43,665 INFO SesameConnection starting up...
+2017-02-22 00:35:43,665 DEBUG GET:http://localhost:8080/openrdf-sesame/servlets/listRepositories
+2017-02-22 00:35:43,665 DEBUG GET:http://localhost:8080/openrdf-sesame/servlets/listRepositories
+2017-02-22 00:35:43,665 DEBUG GET:http://localhost:8080/openrdf-sesame/servlets/listRepositories
+2017-02-22 00:35:43,673 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,673 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,673 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,674 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/logout
+2017-02-22 00:35:43,674 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/logout
+2017-02-22 00:35:43,674 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/logout
+2017-02-22 00:35:43,680 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,680 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,680 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,683 INFO SesameConnection starting up...
+2017-02-22 00:35:43,683 INFO SesameConnection starting up...
+2017-02-22 00:35:43,683 INFO SesameConnection starting up...
+2017-02-22 00:35:43,683 INFO SesameConnection starting up...
+2017-02-22 00:35:43,684 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,684 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,684 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,684 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,693 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,693 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,693 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,693 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,694 INFO SesameConnection starting up...
+2017-02-22 00:35:43,694 INFO SesameConnection starting up...
+2017-02-22 00:35:43,694 INFO SesameConnection starting up...
+2017-02-22 00:35:43,694 INFO SesameConnection starting up...
+2017-02-22 00:35:43,694 INFO SesameConnection starting up...
+2017-02-22 00:35:43,696 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,696 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,696 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,696 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,696 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,700 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,700 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,700 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,700 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,700 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,703 INFO SesameConnection starting up...
+2017-02-22 00:35:43,703 INFO SesameConnection starting up...
+2017-02-22 00:35:43,703 INFO SesameConnection starting up...
+2017-02-22 00:35:43,703 INFO SesameConnection starting up...
+2017-02-22 00:35:43,703 INFO SesameConnection starting up...
+2017-02-22 00:35:43,703 INFO SesameConnection starting up...
+2017-02-22 00:35:43,704 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,704 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,704 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,704 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,704 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,704 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,710 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,710 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,710 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,710 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,710 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,710 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,713 INFO SesameConnection starting up...
+2017-02-22 00:35:43,713 INFO SesameConnection starting up...
+2017-02-22 00:35:43,713 INFO SesameConnection starting up...
+2017-02-22 00:35:43,713 INFO SesameConnection starting up...
+2017-02-22 00:35:43,713 INFO SesameConnection starting up...
+2017-02-22 00:35:43,713 INFO SesameConnection starting up...
+2017-02-22 00:35:43,713 INFO SesameConnection starting up...
+2017-02-22 00:35:43,714 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,714 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,714 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,714 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,714 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,714 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,714 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,721 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,721 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,721 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,721 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,721 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,721 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,721 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,723 INFO SesameConnection starting up...
+2017-02-22 00:35:43,723 INFO SesameConnection starting up...
+2017-02-22 00:35:43,723 INFO SesameConnection starting up...
+2017-02-22 00:35:43,723 INFO SesameConnection starting up...
+2017-02-22 00:35:43,723 INFO SesameConnection starting up...
+2017-02-22 00:35:43,723 INFO SesameConnection starting up...
+2017-02-22 00:35:43,723 INFO SesameConnection starting up...
+2017-02-22 00:35:43,723 INFO SesameConnection starting up...
+2017-02-22 00:35:43,724 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,724 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,724 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,724 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,724 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,724 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,724 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,724 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,733 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,733 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,733 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,733 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,733 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,733 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,733 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,733 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,736 INFO SesameConnection starting up...
+2017-02-22 00:35:43,736 INFO SesameConnection starting up...
+2017-02-22 00:35:43,736 INFO SesameConnection starting up...
+2017-02-22 00:35:43,736 INFO SesameConnection starting up...
+2017-02-22 00:35:43,736 INFO SesameConnection starting up...
+2017-02-22 00:35:43,736 INFO SesameConnection starting up...
+2017-02-22 00:35:43,736 INFO SesameConnection starting up...
+2017-02-22 00:35:43,736 INFO SesameConnection starting up...
+2017-02-22 00:35:43,736 INFO SesameConnection starting up...
+2017-02-22 00:35:43,737 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,737 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,737 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,737 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,737 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,737 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,737 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,737 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,737 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,744 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,744 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,744 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,744 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,744 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,744 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,744 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,744 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,744 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,747 INFO SesameConnection starting up...
+2017-02-22 00:35:43,747 INFO SesameConnection starting up...
+2017-02-22 00:35:43,747 INFO SesameConnection starting up...
+2017-02-22 00:35:43,747 INFO SesameConnection starting up...
+2017-02-22 00:35:43,747 INFO SesameConnection starting up...
+2017-02-22 00:35:43,747 INFO SesameConnection starting up...
+2017-02-22 00:35:43,747 INFO SesameConnection starting up...
+2017-02-22 00:35:43,747 INFO SesameConnection starting up...
+2017-02-22 00:35:43,747 INFO SesameConnection starting up...
+2017-02-22 00:35:43,747 INFO SesameConnection starting up...
+2017-02-22 00:35:43,749 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,749 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,749 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,749 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,749 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,749 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,749 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,749 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,749 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,749 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,756 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,756 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,756 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,756 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,756 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,756 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,756 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,756 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,756 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,756 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,759 INFO SesameConnection starting up...
+2017-02-22 00:35:43,759 INFO SesameConnection starting up...
+2017-02-22 00:35:43,759 INFO SesameConnection starting up...
+2017-02-22 00:35:43,759 INFO SesameConnection starting up...
+2017-02-22 00:35:43,759 INFO SesameConnection starting up...
+2017-02-22 00:35:43,759 INFO SesameConnection starting up...
+2017-02-22 00:35:43,759 INFO SesameConnection starting up...
+2017-02-22 00:35:43,759 INFO SesameConnection starting up...
+2017-02-22 00:35:43,759 INFO SesameConnection starting up...
+2017-02-22 00:35:43,759 INFO SesameConnection starting up...
+2017-02-22 00:35:43,759 INFO SesameConnection starting up...
+2017-02-22 00:35:43,759 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,759 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,759 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,759 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,759 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,759 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,759 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,759 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,759 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,759 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,759 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,766 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,766 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,766 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,766 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,766 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,766 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,766 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,766 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,766 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,766 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,766 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,769 INFO SesameConnection starting up...
+2017-02-22 00:35:43,769 INFO SesameConnection starting up...
+2017-02-22 00:35:43,769 INFO SesameConnection starting up...
+2017-02-22 00:35:43,769 INFO SesameConnection starting up...
+2017-02-22 00:35:43,769 INFO SesameConnection starting up...
+2017-02-22 00:35:43,769 INFO SesameConnection starting up...
+2017-02-22 00:35:43,769 INFO SesameConnection starting up...
+2017-02-22 00:35:43,769 INFO SesameConnection starting up...
+2017-02-22 00:35:43,769 INFO SesameConnection starting up...
+2017-02-22 00:35:43,769 INFO SesameConnection starting up...
+2017-02-22 00:35:43,769 INFO SesameConnection starting up...
+2017-02-22 00:35:43,769 INFO SesameConnection starting up...
+2017-02-22 00:35:43,770 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,770 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,770 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,770 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,770 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,770 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,770 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,770 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,770 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,770 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,770 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,770 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,776 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,776 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,776 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,776 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,776 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,776 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,776 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,776 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,776 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,776 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,776 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,776 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,779 INFO SesameConnection starting up...
+2017-02-22 00:35:43,779 INFO SesameConnection starting up...
+2017-02-22 00:35:43,779 INFO SesameConnection starting up...
+2017-02-22 00:35:43,779 INFO SesameConnection starting up...
+2017-02-22 00:35:43,779 INFO SesameConnection starting up...
+2017-02-22 00:35:43,779 INFO SesameConnection starting up...
+2017-02-22 00:35:43,779 INFO SesameConnection starting up...
+2017-02-22 00:35:43,779 INFO SesameConnection starting up...
+2017-02-22 00:35:43,779 INFO SesameConnection starting up...
+2017-02-22 00:35:43,779 INFO SesameConnection starting up...
+2017-02-22 00:35:43,779 INFO SesameConnection starting up...
+2017-02-22 00:35:43,779 INFO SesameConnection starting up...
+2017-02-22 00:35:43,779 INFO SesameConnection starting up...
+2017-02-22 00:35:43,780 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,780 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,780 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,780 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,780 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,780 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,780 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,780 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,780 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,780 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,780 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,780 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,780 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,786 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,786 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,786 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,786 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,786 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,786 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,786 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,786 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,786 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,786 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,786 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,786 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,786 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,789 INFO SesameConnection starting up...
+2017-02-22 00:35:43,789 INFO SesameConnection starting up...
+2017-02-22 00:35:43,789 INFO SesameConnection starting up...
+2017-02-22 00:35:43,789 INFO SesameConnection starting up...
+2017-02-22 00:35:43,789 INFO SesameConnection starting up...
+2017-02-22 00:35:43,789 INFO SesameConnection starting up...
+2017-02-22 00:35:43,789 INFO SesameConnection starting up...
+2017-02-22 00:35:43,789 INFO SesameConnection starting up...
+2017-02-22 00:35:43,789 INFO SesameConnection starting up...
+2017-02-22 00:35:43,789 INFO SesameConnection starting up...
+2017-02-22 00:35:43,789 INFO SesameConnection starting up...
+2017-02-22 00:35:43,789 INFO SesameConnection starting up...
+2017-02-22 00:35:43,789 INFO SesameConnection starting up...
+2017-02-22 00:35:43,789 INFO SesameConnection starting up...
+2017-02-22 00:35:43,792 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,792 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,792 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,792 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,792 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,792 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,792 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,792 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,792 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,792 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,792 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,792 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,792 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,792 DEBUG POST:http://localhost:8080/openrdf-sesame/servlets/login
+2017-02-22 00:35:43,796 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,796 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,796 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,796 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,796 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,796 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,796 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,796 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,796 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,796 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,796 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,796 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,796 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:35:43,796 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:40:00,944 ERROR <urlopen error unknown url type: localhost>
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "C:\Python27\lib\urllib2.py", line 454, in _open
+    'unknown_open', req)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 1265, in unknown_open
+    raise URLError('unknown url type: %s' % type)
+URLError: <urlopen error unknown url type: localhost>
+2017-02-22 00:40:10,802 ERROR <urlopen error unknown url type: 127.0.0.1>
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "C:\Python27\lib\urllib2.py", line 454, in _open
+    'unknown_open', req)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 1265, in unknown_open
+    raise URLError('unknown url type: %s' % type)
+URLError: <urlopen error unknown url type: 127.0.0.1>
+2017-02-22 00:40:20,990 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:40:33,233 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:45:11,891 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 00:57:21,216 ERROR nonnumeric port: '8080my_openrdfservlets'
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "C:\Python27\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "C:\Python27\lib\urllib2.py", line 1166, in do_open
+    h = http_class(host, timeout=req.timeout, **http_conn_args)
+  File "C:\Python27\lib\httplib.py", line 751, in __init__
+    (self.host, self.port) = self._get_hostport(host, port)
+  File "C:\Python27\lib\httplib.py", line 793, in _get_hostport
+    raise InvalidURL("nonnumeric port: '%s'" % host[i+1:])
+InvalidURL: nonnumeric port: '8080my_openrdfservlets'
+2017-02-22 00:58:24,177 ERROR nonnumeric port: '8080openrdf-sesameservlets'
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "C:\Python27\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "C:\Python27\lib\urllib2.py", line 1166, in do_open
+    h = http_class(host, timeout=req.timeout, **http_conn_args)
+  File "C:\Python27\lib\httplib.py", line 751, in __init__
+    (self.host, self.port) = self._get_hostport(host, port)
+  File "C:\Python27\lib\httplib.py", line 793, in _get_hostport
+    raise InvalidURL("nonnumeric port: '%s'" % host[i+1:])
+InvalidURL: nonnumeric port: '8080openrdf-sesameservlets'
+2017-02-22 00:58:39,002 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 01:45:39,516 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+2017-02-22 01:46:09,073 ERROR HTTP Error 404: Not Found
+Traceback (most recent call last):
+  File "E:\__Proj\Python\workdir\python-semantic-web\sesame\pysesame\pySesame.py", line 91, in doRequest
+    response = urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "C:\Python27\lib\urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Python27\lib\urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "C:\Python27\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no"/>
+    <title>GIS开发利用html5获取经纬度并在google地图中查看</title>
+    <!--加载google map api-->
+</head>
+
+<body>
+<span id="support">将下面的经纬度输入谷歌地图：</span>
+<div id="show">
+    纬度：<span id="latitude"></span><br/>
+    经度：<span id="longitude"></span><br/>
+    准确度：<span id="accuracy"></span>
+</div>
+<!-- ClickDesk Live Chat Service for websites -->
+<script type='text/javascript'>
+    var _glc = _glc || [];
+    _glc.push('all_ag9zfmNsaWNrZGVza2NoYXRyEgsSBXVzZXJzGICAwJPCmpEJDA');
+    var glcpath = (('https:' == document.location.protocol) ? 'https://my.clickdesk.com/clickdesk-ui/browser/' :
+            'http://my.clickdesk.com/clickdesk-ui/browser/');
+    var glcp = (('https:' == document.location.protocol) ? 'https://' : 'http://');
+    var glcspt = document.createElement('script');
+    glcspt.type = 'text/javascript';
+    glcspt.async = true;
+    glcspt.src = glcpath + 'livechat-new.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(glcspt, s);
+</script>
+<!-- End of ClickDesk -->
+<script type="text/javascript">
+
+
+    function initMap() {
+    var map = new google.maps.Map(document.getElementById('map'), {
+      center: {lat: -34.397, lng: 150.644},
+      zoom: 15
+    });
+    var infoWindow = new google.maps.InfoWindow({map: map});
+    // Try HTML5 geolocation.
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(function(position) {
+            var pos = {
+                lat: position.coords.latitude,
+                lng: position.coords.longitude,
+                acc: position.coords.accuracy
+            };
+            document.getElementById("latitude").innerHTML=pos.lat;
+            document.getElementById("longitude").innerHTML=pos.lng;
+            document.getElementById("accuracy").innerHTML=pos.acc;
+            map.setCenter(pos);
+
+            var marker = new google.maps.Marker({
+                position: pos,
+                map: map,
+                title: 'Hello World!'
+            });
+
+            var service = new google.maps.places.PlacesService(map);
+            service.nearbySearch({
+                location: pos,
+                radius: 500,
+                types: ['food']
+            }, callback);
+
+        }, function() {
+            handleLocationError(true, infoWindow, map.getCenter());
+        });
+    } else {
+            // Browser doesn't support Geolocation
+            handleLocationError(false, infoWindow, map.getCenter());
+        }
+    }
+
+    function handleLocationError(browserHasGeolocation, infoWindow, pos) {
+        infoWindow.setPosition(pos);
+        infoWindow.setContent(browserHasGeolocation ?
+                              'Error: The Geolocation service failed.' :
+                              'Error: Your browser doesn\'t support geolocation.');
+    }
+
+    function callback(results, status) {
+        if (status === google.maps.places.PlacesServiceStatus.OK) {
+            for (var i = 0; i < results.length; i++) {
+                createMarker(results[i]);
+            }
+        }
+    }
+
+    function createMarker(place) {
+        var placeLoc = place.geometry.location;
+        var marker = new google.maps.Marker({
+            map: map,
+            position: place.geometry.location
+        });
+
+        google.maps.event.addListener(marker, 'click', function() {
+            infowindow.setContent(place.name);
+            infowindow.open(map, this);
+        });
+    }
+
+</script>
+<div id="map" style="width:500px; height:500px;"></div>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBBv9BRW94V6p8lRxrfqqKZKHExLXsLdys&libraries=places&callback=initMap" async defer></script>
+
+</body>
+</html>
+
+

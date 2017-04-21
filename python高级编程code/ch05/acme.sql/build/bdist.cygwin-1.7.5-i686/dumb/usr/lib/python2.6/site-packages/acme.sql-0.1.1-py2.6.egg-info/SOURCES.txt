@@ -1,0 +1,10 @@
+MANIFEST.in
+README.txt
+setup.cfg
+setup.py
+setup_107.py
+acme.sql.egg-info/PKG-INFO
+acme.sql.egg-info/SOURCES.txt
+acme.sql.egg-info/dependency_links.txt
+acme.sql.egg-info/requires.txt
+acme.sql.egg-info/top_level.txt

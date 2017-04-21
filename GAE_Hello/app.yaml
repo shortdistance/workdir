@@ -1,0 +1,22 @@
+runtime: python27
+api_version: 1
+threadsafe: yes
+handlers:
+- url: .*
+  script: hello.app
+
+- url: /favicon\.ico
+  static_files: favicon.ico
+  upload: favicon\.ico
+
+libraries:
+- name: ssl
+  version: 2.7
+
+skip_files:
+- ^(.*/)?#.*#$
+- ^(.*/)?.*\.py[co]$
+- ^(.*/)?\..*$
+- ^(.*/)?node_modules$
+- ^venv$
+- ^lib$ # <-- WTF??? ##

@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: package
+Version: 0.1dev
+Summary: my package
+Home-page: http://localhost
+Author: carlshen
+Author-email: xiangfeng.shen@gmail.com
+License: GPL
+Description: my package
+Keywords: package
+Platform: UNKNOWN

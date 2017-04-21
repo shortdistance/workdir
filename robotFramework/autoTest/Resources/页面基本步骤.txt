@@ -1,0 +1,63 @@
+*** Settings ***
+Library           Selenium2Library
+Resource          页面元素配置表.txt
+Resource          测试数据配置表.txt
+Library           String
+Library           XML
+Library           SudsLibrary
+Library           SSHLibrary
+Library           DatabaseLibrary
+
+*** Keywords ***
+截屏
+    Capture Page Screenshot
+
+关闭浏览器
+    Close Browser
+
+打开浏览器
+    [Arguments]    ${url}    ${browsertype}
+    Open Browser    ${url}    ${browsertype}
+
+获取标题和URL
+    ${Titile}=    Get Title
+    ${Url}    Get Location
+    [Return]    ${Titile}    ${Url}
+
+写日志
+    [Arguments]    ${message}
+    Log    ${message}    level=INFO
+
+模式对话框
+    [Arguments]    ${subWindowTitle}    ${mainWindowTitle}
+    Log    ${subWindowTitle}
+    Log    ${mainWindowTitle}
+    get selenium implicit wait
+    Select Window    ${subWindowTitle}
+    ${id_list}    get window identifiers
+    log    ${id_list}
+    Comment    Select Window    ${subWindowTitle}
+    Comment    Press Key    \    Keys.ENTER
+    Comment    Select Window    title=${subWindowTitle}
+    Comment    Execute Javascript    window.confirm()
+    Comment    Select Window    title=${mainWindowTitle}
+
+登录成功进入首页
+    set browser implicit wait    30
+    wait until page contains    首页
+    title should be    ${strMainPageWindowTitle}
+    ${currLocation}    Get Location
+
+登录失败提示错误
+    [Arguments]    ${username}    ${passwd}
+    [Documentation]    测试:\n用户名为空，提示“用户名不能为空。”\n密码为空，提示“密码不能为空。”\n用户名正确，密码错误，提示“用户名密码不正确。”
+    Run Keyword If    '${username}' ==""    Page Should Contain Element    id=${ele_login_errorpanel}
+    Run Keyword If    '${username}' !="" \ and '${passwd}' == ""    Page Should Contain Element    id=${ele_login_errorpanel}
+    Run Keyword If    '${username}'=='${strLoginName}' and '${passwd}'!='${strLoginPasswd}'    Page Should Contain Element    id=${ele_login_errorpanel}
+
+登录_输入用户名密码并提交
+    [Arguments]    ${loginName}    ${loginPasswd}
+    Maximize Browser Window
+    Run Keyword If    '${loginName}' !=""    Input Text    id=${ele_login_username}    ${loginName}
+    Run Keyword If    '${loginPasswd}' !=""    Input Text    id=${ele_login_password}    ${loginPasswd}
+    Submit Form    id=fm1

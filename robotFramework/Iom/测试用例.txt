@@ -1,0 +1,47 @@
+*** Settings ***
+Default Tags
+Library           Selenium2Library
+Library           MyL.py
+Resource          测试流程.txt
+
+*** Test Cases ***
+1-1错误密码登陆
+    [Tags]    a
+    登陆填写信息    http://172.21.1.72:7001/portalWeb/    super    123456    8888
+    Sleep    2s
+    ${errMsg}    Get Text    pwdErr
+    Should Be Equal As Strings    ${errMsg}    密码错误
+    Close All Browsers
+
+1-2正确用户名密码登陆
+    登陆填写信息    http://172.21.1.72:7001/portalWeb/    super    111111    8888
+    Sleep    5s
+    Select Window    name=施工管理
+    ${currentUserName}    Get Text    systemUserNameId
+    Should Be Equal As Strings    ${currentUserName}    super，您好!
+
+2-1动作管理新增修改
+    选择菜单    集成定单    产品管理    nresources/loginUI/images/choose/app_46.gif
+    Sleep    2S
+    Select Frame    123
+    动作管理--新增    test2
+    动作管理--修改    test2
+    Close All Browsers
+
+3-1普通电话（后付费）改制FTTH-普通电话后付
+    选择菜单    集成定单    统计查询    工单查询
+    Sleep    5s
+    ${sts}=    工单查询--查询    220140413000314
+    选择菜单    集成定单    工单管理    资源分配
+    Sleep    5s
+    资源分配--资源配置    123456
+
+流程001
+    定单查询--查询    120140514024682
+
+22
+    Set Name    aa
+    ${a}=    Get Name
+    hello    bb
+
+*** Keywords ***

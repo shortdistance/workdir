@@ -1,0 +1,32 @@
+curl -v -X OPTIONS http://comp6218.ecs.soton.ac.uk/publishers/1
+*   Trying 152.78.65.3...
+* Connected to comp6218.ecs.soton.ac.uk (152.78.65.3) port 80 (#0)
+&gt; OPTIONS /publishers/1 HTTP/1.1
+&gt; Host: comp6218.ecs.soton.ac.uk
+&gt; User-Agent: curl/7.42.1
+&gt; Accept: */*
+&gt;
+&lt; HTTP/1.1 200 OK
+&lt; Date: Fri, 18 Nov 2016 23:43:49 GMT
+&lt; Server: Apache/2.2.22 (Ubuntu)
+&lt; Vary: Accept
+&lt; X-Frame-Options: SAMEORIGIN
+&lt; Allow: GET, PUT, PATCH, DELETE, HEAD, OPTIONS
+&lt; Transfer-Encoding: chunked
+&lt; Content-Type: application/xml; charset=utf-8
+
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
+&lt;root&gt;
+    &lt;name&gt;Publisher Detail&lt;/name&gt;
+    &lt;description&gt;&lt;/description&gt;
+    &lt;renders&gt;
+        &lt;list-item&gt;application/xml&lt;/list-item&gt;
+        &lt;list-item&gt;application/json&lt;/list-item&gt;
+        &lt;list-item&gt;text/csv&lt;/list-item&gt;
+    &lt;/renders&gt;
+    &lt;parses&gt;
+        &lt;list-item&gt;application/xml&lt;/list-item&gt;
+        &lt;list-item&gt;application/json&lt;/list-item&gt;
+        &lt;list-item&gt;text/csv&lt;/list-item&gt;
+    &lt;/parses&gt;
+&lt;/root&gt;

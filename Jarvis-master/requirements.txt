@@ -1,0 +1,4 @@
+PyAudio==0.2.9
+SpeechRecognition==3.4.2
+wechat-sdk==0.6.4
+

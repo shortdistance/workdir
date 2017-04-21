@@ -1,0 +1,33 @@
+*** Settings ***
+Resource          页面基本步骤.txt
+Resource          测试数据配置表.txt
+
+*** Keywords ***
+登录[正常]
+    [Arguments]    ${url}    ${browsertype}    ${username}    ${passwd}
+    [Documentation]    测试正确的用户名，正确的密码，登录正常；\n
+    打开浏览器    ${url}    ${browsertype}
+    登录_输入用户名密码并提交    ${username}    ${passwd}
+    登录成功进入首页
+    获取标题和URL
+
+登录[异常]
+    [Arguments]    ${url}    ${browsertype}    ${username}    ${passwd}
+    打开浏览器    ${url}    ${browsertype}
+    登录_输入用户名密码并提交    ${username}    ${passwd}
+    登录失败提示错误    ${username}    ${passwd}
+    获取标题和URL
+
+SSHTest
+    Open Connection    host=172.16.9.105    prompt=#
+    ${output}    Login    root    1qaz2wsx
+    start command    ls -l
+    ${output}    read command output
+    Should Contain    ${output}    总用量
+
+DatabaseTest
+    [Arguments]    ${strModuleName}    ${connectStr}    ${strSqlStatement}
+    Connect To Database Using Custom Params    ${strModuleName}     ${connectStr}
+    @{queryResult}    Query    ${strSqlStatement}
+    Log Many    @{queryResult}
+    Disconnect From Database

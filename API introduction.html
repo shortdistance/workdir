@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<ul class="operations" collapse-when="path.$folded" style=""> <!----><!---->
+    <li class="get operation" scroll-into-view-when="isInFocus(['paths', pathName, operationName])"
+        ng-repeat="(operationName, operation) in path" ng-if="showOperation(operation, operationName)">
+        <header ng-click="
+      operation.$folded = !operation.$folded;
+      foldEditor(['paths', pathName, operationName], operation.$folded)
+    "><a class="focus-editor" ng-click="focusEdit($event, ['paths', pathName, operationName])" tooltip-placement="left"
+         uib-tooltip="Jump to YAML" tooltip-trigger="mouseenter"> </a>
+            <div class="http-method">GET /products</div> <!----> </header>
+        <div class="content" collapse-when="operation.$folded" style="">
+            <div class="tags"> <!----><span class="tag tag-color-0" ng-repeat="tag in operation.tags track by $index"> Products </span>
+                <!----> </div> <!---->
+            <section class="summary" ng-if="operation.summary"><h4>Summary</h4>
+                <p>Product Types</p></section><!----> <!---->
+            <section class="description" ng-if="operation.description"><h4>Description</h4>
+                <div marked="operation.description"><p>The Products endpoint returns information about the <em>Uber</em>
+                    products
+                    offered at a given location. The response includes the display name
+                    and other details about each product, and lists the products in the
+                    proper display order.</p>
+                </div>
+            </section><!----> <!---->
+            <section class="parameters" ng-if="getParameters().length"><h4>Parameters</h4>
+                <div>
+                    <table class="params">
+                        <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Located in</th> <!---->
+                            <th ng-if="hasAParameterWithDescription(getParameters())">Description</th><!---->
+                            <th>Required</th>
+                            <th>Schema</th>
+                        </tr>
+                        </thead>
+                        <tbody> <!---->
+                        <tr ng-repeat="parameter in getParameters() track by $index">
+                            <td><a ng-click="focusEdit($event, [
+                      'paths',
+                      pathName,
+                      operationName,
+                      'parameters',
+                      $index
+                    ])" tooltip-placement="top" uib-tooltip="Jump to YAML" tooltip-trigger="mouseenter"> <span
+                                    class="mono">latitude</span> </a></td>
+                            <td>query</td> <!---->
+                            <td ng-if="hasAParameterWithDescription(getParameters())" marked="parameter.description"><p>
+                                Latitude component of location.</p>
+                            </td><!---->
+                            <td>Yes</td>
+                            <td>
+                                <table class="schema-model" ng-class="{hidden: !schema}" schema="parameter.schema">
+                                    <tbody>
+                                    <tr>
+                                        <td><a class="toggle" ng-click="switchMode()" title="Switch to json"> ⇄ </a>
+                                        </td>
+                                        <td class="view json ng-hide" ng-show="mode === 'json'">
+                                            <div class="json-formatter-row json-formatter-open"><a
+                                                    class="json-formatter-toggler-link"><span
+                                                    class="json-formatter-toggler"></span><span
+                                                    class="json-formatter-value"><span><span
+                                                    class="json-formatter-constructor-name">Object</span></span></span></a>
+                                                <div class="json-formatter-children json-formatter-object">
+                                                    <div class="json-formatter-row"><a
+                                                            class="json-formatter-toggler-link"><span
+                                                            class="json-formatter-key">type:</span><span
+                                                            class="json-formatter-string">"number"</span></a>
+                                                        <div class="json-formatter-children"></div>
+                                                    </div>
+                                                    <div class="json-formatter-row"><a
+                                                            class="json-formatter-toggler-link"><span
+                                                            class="json-formatter-key">format:</span><span
+                                                            class="json-formatter-string">"double"</span></a>
+                                                        <div class="json-formatter-children"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td class="view schema" ng-show="mode === 'schema'">
+                                            <div class="json-schema-view">
+                                                <div class="primitive">
+                                                    <span class="type">number</span>
+                                                    <span class="format">(double)</span>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr><!---->
+                        <tr ng-repeat="parameter in getParameters() track by $index">
+                            <td><a ng-click="focusEdit($event, [
+                      'paths',
+                      pathName,
+                      operationName,
+                      'parameters',
+                      $index
+                    ])" tooltip-placement="top" uib-tooltip="Jump to YAML" tooltip-trigger="mouseenter"> <span
+                                    class="mono">longitude</span> </a></td>
+                            <td>query</td> <!---->
+                            <td ng-if="hasAParameterWithDescription(getParameters())" marked="parameter.description"><p>
+                                Longitude component of location.</p>
+                            </td><!---->
+                            <td>Yes</td>
+                            <td>
+                                <table class="schema-model" ng-class="{hidden: !schema}" schema="parameter.schema">
+                                    <tbody>
+                                    <tr>
+                                        <td><a class="toggle" ng-click="switchMode()" title="Switch to json"> ⇄ </a>
+                                        </td>
+                                        <td class="view json ng-hide" ng-show="mode === 'json'">
+                                            <div class="json-formatter-row json-formatter-open"><a
+                                                    class="json-formatter-toggler-link"><span
+                                                    class="json-formatter-toggler"></span><span
+                                                    class="json-formatter-value"><span><span
+                                                    class="json-formatter-constructor-name">Object</span></span></span></a>
+                                                <div class="json-formatter-children json-formatter-object">
+                                                    <div class="json-formatter-row"><a
+                                                            class="json-formatter-toggler-link"><span
+                                                            class="json-formatter-key">type:</span><span
+                                                            class="json-formatter-string">"number"</span></a>
+                                                        <div class="json-formatter-children"></div>
+                                                    </div>
+                                                    <div class="json-formatter-row"><a
+                                                            class="json-formatter-toggler-link"><span
+                                                            class="json-formatter-key">format:</span><span
+                                                            class="json-formatter-string">"double"</span></a>
+                                                        <div class="json-formatter-children"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td class="view schema" ng-show="mode === 'schema'">
+                                            <div class="json-schema-view">
+                                                <div class="primitive">
+                                                    <span class="type">number</span>
+                                                    <span class="format">(double)</span>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr><!----> </tbody>
+                    </table>
+                </div>
+            </section><!----> <!---->
+            <section class="responses" ng-if="operation"><h4>Responses</h4>
+                <div>
+                    <table class="respns">
+                        <thead>
+                        <tr>
+                            <th>Code</th>
+                            <th>Description</th> <!----> <!---->
+                            <th ng-if="hasAResponseWithSchema(operation.responses)">Schema</th><!----> <!----> </tr>
+                        </thead>
+                        <tbody> <!---->
+                        <tr ng-repeat="(responseCode, response) in operation.responses">
+                            <td><a ng-click="focusEdit($event, [
+                    'paths',
+                    pathName,
+                    operationName,
+                    'responses',
+                    responseCode])" tooltip-placement="top" uib-tooltip="Jump to YAML" tooltip-trigger="mouseenter">
+                                <span class="resp-code green"> 200 </span> </a></td>
+                            <td marked="response.description"><p>An array of products</p>
+                            </td> <!----> <!---->
+                            <td ng-if="hasAResponseWithSchema(operation.responses)"> <!---->
+                                <table class="schema-model" ng-class="{hidden: !schema}" ng-if="response.schema"
+                                       schema="response.schema">
+                                    <tbody>
+                                    <tr>
+                                        <td><a class="toggle" ng-click="switchMode()" title="Switch to json"> ⇄ </a>
+                                        </td>
+                                        <td class="view json ng-hide" ng-show="mode === 'json'">
+                                            <div class="json-formatter-row json-formatter-open"><a
+                                                    class="json-formatter-toggler-link"><span
+                                                    class="json-formatter-toggler"></span><span
+                                                    class="json-formatter-value"><span><span
+                                                    class="json-formatter-constructor-name">Object</span></span></span></a>
+                                                <div class="json-formatter-children json-formatter-object">
+                                                    <div class="json-formatter-row"><a
+                                                            class="json-formatter-toggler-link"><span
+                                                            class="json-formatter-key">type:</span><span
+                                                            class="json-formatter-string">"array"</span></a>
+                                                        <div class="json-formatter-children"></div>
+                                                    </div>
+                                                    <div class="json-formatter-row"><a
+                                                            class="json-formatter-toggler-link"><span
+                                                            class="json-formatter-toggler"></span><span
+                                                            class="json-formatter-key">items:</span><span
+                                                            class="json-formatter-value"><span><span
+                                                            class="json-formatter-constructor-name">Object</span></span></span></a>
+                                                        <div class="json-formatter-children json-formatter-object"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td class="view schema" ng-show="mode === 'schema'">
+                                            <div class="json-schema-view">
+                                                <div class="array">
+                                                    <a class="title"><span class="toggle-handle"></span><span
+                                                            class="opening bracket">[</span></a>
+                                                    <div class="inner">
+                                                        <div class="json-schema-view collapsed">
+                                                            <div class="object">
+                                                                <a class="title"><span class="toggle-handle"></span>Product
+                                                                    <span class="opening brace">{</span>
+                                                                    <span class="closing brace"
+                                                                          ng-if="isCollapsed">}</span>
+                                                                </a>
+                                                                <div class="inner">
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <span class="closing bracket">]</span>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                                </table><!----> </td><!----> <!----> </tr><!---->
+                        <tr ng-repeat="(responseCode, response) in operation.responses">
+                            <td><a ng-click="focusEdit($event, [
+                    'paths',
+                    pathName,
+                    operationName,
+                    'responses',
+                    responseCode])" tooltip-placement="top" uib-tooltip="Jump to YAML" tooltip-trigger="mouseenter">
+                                <span class="resp-code default"> default </span> </a></td>
+                            <td marked="response.description"><p>Unexpected error</p>
+                            </td> <!----> <!---->
+                            <td ng-if="hasAResponseWithSchema(operation.responses)"> <!---->
+                                <table class="schema-model" ng-class="{hidden: !schema}" ng-if="response.schema"
+                                       schema="response.schema">
+                                    <tbody>
+                                    <tr>
+                                        <td><a class="toggle" ng-click="switchMode()" title="Switch to json"> ⇄ </a>
+                                        </td>
+                                        <td class="view json ng-hide" ng-show="mode === 'json'">
+                                            <div class="json-formatter-row json-formatter-open"><a
+                                                    class="json-formatter-toggler-link"><span
+                                                    class="json-formatter-toggler"></span><span
+                                                    class="json-formatter-value"><span><span
+                                                    class="json-formatter-constructor-name">Object</span></span></span></a>
+                                                <div class="json-formatter-children json-formatter-object">
+                                                    <div class="json-formatter-row"><a
+                                                            class="json-formatter-toggler-link"><span
+                                                            class="json-formatter-key">type:</span><span
+                                                            class="json-formatter-string">"object"</span></a>
+                                                        <div class="json-formatter-children"></div>
+                                                    </div>
+                                                    <div class="json-formatter-row"><a
+                                                            class="json-formatter-toggler-link"><span
+                                                            class="json-formatter-toggler"></span><span
+                                                            class="json-formatter-key">properties:</span><span
+                                                            class="json-formatter-value"><span><span
+                                                            class="json-formatter-constructor-name">Object</span></span></span></a>
+                                                        <div class="json-formatter-children json-formatter-object"></div>
+                                                    </div>
+                                                    <div class="json-formatter-row"><a
+                                                            class="json-formatter-toggler-link"><span
+                                                            class="json-formatter-key">title:</span><span
+                                                            class="json-formatter-string">"Error"</span></a>
+                                                        <div class="json-formatter-children"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td class="view schema" ng-show="mode === 'schema'">
+                                            <div class="json-schema-view">
+                                                <div class="object">
+                                                    <a class="title"><span class="toggle-handle"></span>Error <span
+                                                            class="opening brace">{</span></a>
+                                                    <div class="inner">
+
+                                                        <div class="property">
+                                                            <span class="name">code:</span>
+                                                            <div class="json-schema-view collapsed">
+                                                                <div class="primitive">
+                                                                    <span class="type">integer</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="property">
+                                                            <span class="name">message:</span>
+                                                            <div class="json-schema-view collapsed">
+                                                                <div class="primitive">
+                                                                    <span class="type">string</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="property">
+                                                            <span class="name">fields:</span>
+                                                            <div class="json-schema-view collapsed">
+                                                                <div class="primitive">
+                                                                    <span class="type">string</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <span class="closing brace">}</span>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                                </table><!----> </td><!----> <!----> </tr><!----> </tbody>
+                    </table>
+                </div>
+            </section><!----> <!----> <!---->
+            <section class="try-operation" ng-if="enableTryIt"> <!---->
+                <button class="border-only try-it" ng-class="{trying: isTryOpen}" ng-click="toggleTry()"
+                        ng-if="!isTryOpen" track-event="try-operation"> Try this operation
+                </button><!----> <!----> <!----> </section><!----> </div>
+    </li><!----><!----> </ul>
+</body>
+</html>

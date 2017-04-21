@@ -1,0 +1,12 @@
+setup.cfg
+setup.py
+trying/__init__.py
+trying.it.egg-info/PKG-INFO
+trying.it.egg-info/SOURCES.txt
+trying.it.egg-info/dependency_links.txt
+trying.it.egg-info/entry_points.txt
+trying.it.egg-info/namespace_packages.txt
+trying.it.egg-info/requires.txt
+trying.it.egg-info/top_level.txt
+trying.it.egg-info/zip-safe
+trying/it/__init__.py

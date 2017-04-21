@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:love="http://love.com#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://love.com/lovers/mary#">
+    <love:loves rdf:resource="http://love.com/lovers/john#"/>
+    <love:hasName>Mary</love:hasName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://love.com/lovers/john#">
+    <love:hasName>John</love:hasName>
+  </rdf:Description>
+</rdf:RDF>

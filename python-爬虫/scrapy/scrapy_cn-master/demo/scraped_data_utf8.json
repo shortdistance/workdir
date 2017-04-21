@@ -1,0 +1,1168 @@
+{"title": ["算法导论"], "img": ["http://img5.douban.com/mpic/s1959967.jpg"], "desc": ["这本书深入浅出，全面地介绍了计算机算法。对每一个算法的分析既易于理解又十分有趣，并保持了数学严谨性。本书的设计目标全面，适用于多种用途。涵盖的内容有：算法在... "]}
+{"title": ["计算机程序的构造和解释"], "img": ["http://img5.douban.com/mpic/s1113106.jpg"], "desc": ["《计算机程序的构造和解释(原书第2版)》1984年出版，成型于美国麻省理工学院(MIT)多年使用的一本教材，1996年修订为第2版。在过去的二十多年里，《计... "]}
+{"title": ["深入理解计算机系统"], "img": ["http://img3.douban.com/mpic/s1436460.jpg"], "desc": ["从程序员的视角，看计算机系统！
+本书适用于那些想要写出更快、更可靠程序的程序员。通过掌握程序是如何映射到系统上，以及程序是如何执行的，读者能够更好的理解程序... "]}
+{"title": ["代码大全（第2版）"], "img": ["http://img5.douban.com/mpic/s1495029.jpg"], "desc": ["第2版的《代码大全》是著名IT畅销书作者史蒂夫·迈克康奈尔11年前的经典著作的全新演绎：第2版不是第一版的简单修订增补，而是完全进行了重写；增加了很多与时俱... "]}
+{"title": ["C程序设计语言"], "img": ["http://img3.douban.com/mpic/s1106934.jpg"], "desc": ["在计算机发展的历史上，没有哪一种程序设计语言像C语言这样应用广泛。本书原著即为C语言的设计者之一Dennis M.Ritchie和著名计算机科学家Brian... "]}
+{"title": ["编程珠玑"], "img": ["http://img3.douban.com/mpic/s4687321.jpg"], "desc": ["本书是计算机科学方面的经典名著。书的内容围绕程序设计人员面对的一系列实际问题展开。作者Jon Bentley 以其独有的洞察力和创造力，引导读者理解这些问题... "]}
+{"title": ["UNIX环境高级编程"], "img": ["http://img3.douban.com/mpic/s4436543.jpg"], "desc": ["本书是被誉为UNIX编程“圣经”的Advanced Programming in the UNIX Environment一书的更新版。在本书第1版出版后的... "]}
+{"title": ["C++ Primer中文版"], "img": ["http://img3.douban.com/mpic/s1638975.jpg"], "desc": ["本书是久负盛名的C++经典教程，其内容是C++大师Stanley B. Lippman丰富的实践经验和C++标准委员会原负责人Josée Lajoie对C+... "]}
+{"title": ["黑客与画家"], "img": ["http://img3.douban.com/mpic/s4669554.jpg"], "desc": ["本书是硅谷创业之父Paul Graham 的文集，主要介绍黑客即优秀程序员的爱好和动机，讨论黑客成长、黑客对世界的贡献以及编程语言和黑客工作方法等所有对计算... "]}
+{"title": ["编码的奥秘"], "img": ["http://img5.douban.com/mpic/s1227627.jpg"], "desc": ["渴望交流是大多数人的天性。在本书中，“编码”通常指一种在人和机器之间进行信息转换的系统。换句话说、编码即是交流。有时我们将编码看得很神秘，其实大多数编码并非... "]}
+{"title": ["程序员修炼之道"], "img": ["http://img3.douban.com/mpic/s3957204.jpg"], "desc": ["《程序员修炼之道》由一系列的独立的部分组成，涵盖的主题从个人责任、职业发展，直到用于使代码保持灵活、并且易于改编和复用的各种架构技术。利用许多富有娱乐性的奇... "]}
+{"title": ["Java编程思想 （第4版）"], "img": ["http://img5.douban.com/mpic/s2553047.jpg"], "desc": ["本书赢得了全球程序员的广泛赞誉，即使是最晦涩的概念，在Bruce Eckel的文字亲和力和小而直接的编程示例面前也会化解于无形。从Java的基础语法到最高级... "]}
+{"title": ["UNIX编程艺术"], "img": ["http://img3.douban.com/mpic/s1631790.jpg"], "desc": ["本书主要介绍了Unix系统领域中的设计和开发哲学、思想文化体系、原则与经验，由公认的Unix编程大师、开源运动领袖人物之一Eric S. Raymond倾力... "]}
+{"title": ["编程之美"], "img": ["http://img5.douban.com/mpic/s9233126.jpg"], "desc": ["这本书收集了约60道算法和程序设计题目，这些题目大部分在近年的笔试、面试中出现过，或者是被微软员工热烈讨论过。作者试图从书中各种有趣的问题出发，引导读者发现... "]}
+{"title": ["程序员的自我修养"], "img": ["http://img3.douban.com/mpic/s3724604.jpg"], "desc": ["这本书主要介绍系统软件的运行机制和原理，涉及在Windows和Linux两个系统平台上，一个应用程序在编译、链接和运行时刻所发生的各种事项，包括：代码指令是... "]}
+{"title": ["集体智慧编程"], "img": ["http://img3.douban.com/mpic/s3350961.jpg"], "desc": ["本书以机器学习与计算统计为主题背景，专门讲述如何挖掘和分析Web上的数据和资源，如何分析用户体验、市场营销、个人品味等诸多信息，并得出有用的结论，通过复杂的... "]}
+{"title": ["JavaScript高级程序设计"], "img": ["http://img5.douban.com/mpic/s1888787.jpg"], "desc": ["JavaScript最新经典教程 * Amazon超级畅销书 * AJAX程序员必备
+
+  随着国内的计算机图书市场越来越细化，各类引进版和原创图书在各... "]}
+{"title": ["计算机程序设计艺术（第1卷）"], "img": ["http://img3.douban.com/mpic/s9773641.jpg"], "desc": ["第1卷首先介绍编程的基本概念和技术，然后详细讲解信息结构方面的内容，包括信息在计算机内部的表示方法、数据元素之间的结构关系，以及有效的信息处理方法。此外，书... "]}
+{"title": ["程序员的思维修炼"], "img": ["http://img5.douban.com/mpic/s4548399.jpg"], "desc": ["本书解释了为什么软件开发是一种精神活动，思考如何解决问题，并就开发人员如何能更好地开发软件进行了评论。书中不仅给出了一些理论上的答案，同时提供了大量实践技术... "]}
+{"title": ["软件随想录"], "img": ["http://img3.douban.com/mpic/s6103451.jpg"], "desc": ["《软件随想录:程序员部落酋长Joel谈软件》是一部关于软件技术、人才、创业和企业管理的随想文集，作者以诙谐幽默的笔触将自己在软件行业的亲身感悟娓娓道来，观点... "]}
+{"title": ["重构"], "img": ["http://img3.douban.com/mpic/s1669771.jpg"], "desc": ["Martin Fowler和《重构:改善既有代码的设计》(中文版)另几位作者清楚揭示了重构过程，他们为面向对象软件开发所做的贡献，难以衡量。《重构:改善既有... "]}
+{"title": ["UNIX网络编程"], "img": ["http://img3.douban.com/mpic/s1613283.jpg"], "desc": ["《UNIX网络编程》(第1卷)(套接口API第3版)第1版和第2版由已故UNIX网络专家W. Richard Stevens博士独自编写。《UNIX网络编程... "]}
+{"title": ["JavaScript语言精粹"], "img": ["http://img3.douban.com/mpic/s3651235.jpg"], "desc": ["本书通过对JavaScript语言的分析，甄别出好的和坏的特性，从而提取出相对这门语言的整体而言具有更好的可靠性、可读性和可维护性的JavaScript的子... "]}
+{"title": ["C Primer Plus"], "img": ["http://img3.douban.com/mpic/s1308874.jpg"], "desc": ["《C Primer Plus（第5版）（中文版）》共17章。第1、2章学习C语言编程所需的预备知识。第3到15章介绍了C语言的相关知识，包括数据类型、格式化... "]}
+{"title": ["算法（第4版）"], "img": ["http://img5.douban.com/mpic/s24409638.jpg"], "desc": ["本书全面讲述算法和数据结构的必备知识，具有以下几大特色。
+     算法领域的经典参考书
+Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算... "]}
+{"title": ["Head First 设计模式"], "img": ["http://img5.douban.com/mpic/s2686916.jpg"], "desc": ["《Head First设计模式》(中文版)共有14章，每章都介绍了几个设计模式，完整地涵盖了四人组版本全部23个设计模式。前言先介绍这本书的用法；第1章到第... "]}
+{"title": ["深入浅出Node.js"], "img": ["http://img5.douban.com/mpic/s27269296.jpg"], "desc": ["本书从不同的视角介绍了 Node 内在的特点和结构。由首章Node 介绍为索引，涉及Node 的各个方面，主要内容包含模块机制的揭示、异步I/O 实现原理的... "]}
+{"title": ["设计模式"], "img": ["http://img3.douban.com/mpic/s1074361.jpg"], "desc": ["这本书结合设计实作例从面向对象的设计中精选出23个设计模式，总结了面向对象设计中最有价值的经验，并且用简洁可复用的形式表达出来。书中分类描述了一组设计良好、... "]}
+{"title": ["Python源码剖析"], "img": ["http://img3.douban.com/mpic/s3435132.jpg"], "desc": ["作为主流的动态语言，Python不仅简单易学、移植性好，而且拥有强大丰富的库的支持。此外，Python强大的可扩展性，让开发人员既可以非常容易地利用C/C+... "]}
+{"title": ["高效程序的奥秘"], "img": ["http://img5.douban.com/mpic/s1119156.jpg"], "desc": ["本书适合程序库、编译器开发者及追求优美程序设计的人员阅读，适合用作计算机专业高年级学生及研究生的参考用书。　　本书直观明了地讲述了计算机算术的更深层次的、更... "]}
+{"title": ["C专家编程"], "img": ["http://img5.douban.com/mpic/s2846868.jpg"], "desc": ["《C专家编程》展示了最优秀的C程序员所使用的编码技巧，并专门开辟了一章对C++的基础知识进行了介绍。
+书中C的历史、语言特性、声明、数组、指针、链接、运行时... "]}
+{"title": ["编写可读代码的艺术"], "img": ["http://img3.douban.com/mpic/s10328621.jpg"], "desc": ["细节决定成败，思路清晰、言简意赅的代码让程序员一目了然；而格式凌乱、拖沓冗长的代码让程序员一头雾水。除了可以正确运行以外，优秀的代码必须具备良好的可读性，编... "]}
+{"title": ["七周七语言"], "img": ["http://img3.douban.com/mpic/s9046771.jpg"], "desc": ["内容简介：
+从计算机发展史早期的Cobol、Fortran到后来的C、Java，编程语言的家族不断壮大。除了这些广为人知的语言外，还涌现了Erlang、Ru... "]}
+{"title": ["精通正则表达式"], "img": ["http://img3.douban.com/mpic/s2697984.jpg"], "desc": ["随着互联网的迅速发展，几乎所有工具软件和程序语言都支持的正则表达式也变得越来越强大和易于使用。本书是讲解正则表达式的经典之作。本书主要讲解了正则表达式的特性... "]}
+{"title": ["30天自制操作系统"], "img": ["http://img5.douban.com/mpic/s11138117.jpg"], "desc": ["自己编写一个操作系统，是许多程序员的梦想。也许有人曾经挑战过，但因为太难而放弃了。其实你错了，你的失败并不是因为编写操作系统太难，而是因为没有人告诉你那其实... "]}
+{"title": ["代码整洁之道"], "img": ["http://img3.douban.com/mpic/s4103991.jpg"], "desc": ["软件质量，不但依赖于架构及项目管理，而且与代码质量紧密相关。这一点，无论是敏捷开发流派还是传统开发流派，都不得不承认。《代码整洁之道》提出一种观念：代码质量... "]}
+{"title": ["深度探索C++对象模型"], "img": ["http://img3.douban.com/mpic/s3301634.jpg"], "desc": ["这本书探索“对象导向程序所支持的C++对象模型”下的程序行为。对于“对象导向性质之基础实现技术”以及“各种性质背后的隐含利益交换”提供一个清楚的认识。检验由... "]}
+{"title": ["松本行弘的程序世界"], "img": ["http://img5.douban.com/mpic/s11290956.jpg"], "desc": ["《松本行弘的程序世界》是探索程序设计思想和方法的经典之作。作者从全局的角度，利用大量的程序示例及图表，深刻阐述了Ruby编程语言的设计理念，并以独特的视角考... "]}
+{"title": ["编程人生"], "img": ["http://img3.douban.com/mpic/s4549954.jpg"], "desc": ["界顶尖的程序员是怎么走上编程道路的？
+他们的编程工作创造和改变了人类历史，在这一过程中都有哪些经验和教训？
+他们对计算机软件行业的过去、现在和未来有什么独到... "]}
+{"title": ["Python基础教程"], "img": ["http://img3.douban.com/mpic/s4387251.jpg"], "desc": ["本书是经典教程的全新改版，作者根据Python 3.0版本的种种变化，全面改写了书中内容，做到既能“瞻前”也能“顾后”。本书层次鲜明、结构严谨、内容翔实，特... "]}
+{"title": ["Effective C++中文版"], "img": ["http://img3.douban.com/mpic/s1441361.jpg"], "desc": ["Effective C++是世界顶级C++大师Scott Meyers的成名之作，初版于1991年。在国际上，这本书所引起的反响之大，波及整个计算机技术出版... "]}
+{"title": ["STL源码剖析"], "img": ["http://img5.douban.com/mpic/s1092076.jpg"], "desc": ["学习编程的人都知道，阅读、剖析名家代码乃是提高水平的捷径。源码之前，了无秘密。大师们的缜密思维、经验结晶、技术思路、独到风格，都原原本本体现在源码之中。
+这... "]}
+{"title": ["Ruby元编程"], "img": ["http://img5.douban.com/mpic/s7014167.jpg"], "desc": ["《Ruby元编程》以案例形式循序渐进讲解Ruby对象模型原理和高级应用技巧，堪称动态语言的设计模式。书中讲述的各种Ruby编程模式，完全可以应用于其他动态语... "]}
+{"title": ["编译原理"], "img": ["http://img3.douban.com/mpic/s3392161.jpg"], "desc": ["《编译原理》全面、深入地探讨了编译器设计方面的重要主题，包括词法分析、语法分析、语法制导定义和语法制导翻译、运行时刻环境、目标代码生成、代码优化技术、并行性... "]}
+{"title": ["C和指针"], "img": ["http://img5.douban.com/mpic/s2996168.jpg"], "desc": ["本书提供与C语言编程相关的全面资源和深入讨论。本书通过对指针的基础知识和高级特性的探讨，帮助程序员把指针的强大功能融入到自己的程序中去。
+全书共18章，覆盖... "]}
+{"title": ["数据结构与算法分析"], "img": ["http://img3.douban.com/mpic/s1106991.jpg"], "desc": ["《数据结构与算法分析:C语言描述(原书第2版)》内容简介：书中详细介绍了当前流行的论题和新的变化，讨论了算法设计技巧，并在研究算法的性能、效率以及对运行时间... "]}
+{"title": ["JAVA并发编程实践"], "img": ["http://img3.douban.com/mpic/s2764832.jpg"], "desc": ["《JAVA并发编程实践》随着多核处理器的普及，使用并发成为构建高性能应用程序的关键。Java 5以及6在开发并发程序中取得了显著的进步，提高了Java虚拟机... "]}
+{"title": ["程序设计实践"], "img": ["http://img3.douban.com/mpic/s24431930.jpg"], "desc": ["这本书从排错、测试、性能、可移植性、设计、界面、风格和记法等方面，讨论了程序设计中实际的、又是非常深刻和具有广泛意义的思想、技术和方法。 "]}
+{"title": ["代码的未来"], "img": ["http://img5.douban.com/mpic/s26393136.jpg"], "desc": ["《代码的未来》是Ruby之父松本行弘的又一力作。作者对云计算、大数据时代下的各种编程语言以及相关技术进行了剖析，并对编程语言的未来发展趋势做出预测，内容涉及... "]}
+{"title": ["Effective Java 中文版"], "img": ["http://img5.douban.com/mpic/s2008079.jpg"], "desc": ["本书介绍了在Java编程中57条极具实用价值的经验规则，这些经验规则涵盖了大多数开发人员每天所面临的问题的解决方案。通过对Java平台设计专家所使用的技术的... "]}
+{"title": ["The Little Schemer - 4th Edition"], "img": ["http://img5.douban.com/mpic/s4567387.jpg"], "desc": ["This delightful book leads you through the basic elements of programming in Sc... "]}
+{"title": ["编程珠玑II"], "img": ["http://img3.douban.com/mpic/s3304504.jpg"], "desc": ["本书是计算机科学方面的经典名著《编程珠玑》的姊妹篇，讲述了对于程序员有共性的知识。书中涵盖了程序员操纵程序的技术、程序员取舍的技巧、输入和输出设计以及算法示... "]}
+{"title": ["与孩子一起学编程"], "img": ["http://img3.douban.com/mpic/s4518521.jpg"], "desc": ["一本老少咸宜的编程入门奇书！一册在手，你完全可以带着自己的孩子，跟随Sande父子组合在轻松的氛围中熟悉那些编程概念，如内存、循环、输入和输出、数据结构和图... "]}
+{"title": ["挑战程序设计竞赛（第2版）"], "img": ["http://img3.douban.com/mpic/s26710684.jpg"], "desc": ["世界顶级程序设计高手的经验总结
+【ACM-ICPC全球总冠军】巫泽俊主译
+日本ACM-ICPC参赛者人手一册
+本书对程序设计竞赛中的基础算法和经典问题进行了... "]}
+{"title": ["Head First Java（中文版）"], "img": ["http://img5.douban.com/mpic/s2171906.jpg"], "desc": ["《Head First Java》是本完整的面向对象（object-oriented，OO）程序设计和Java的学习指导。此书是根据学习理论所设计的，让你可... "]}
+{"title": ["C++程序设计语言（特别版）"], "img": ["http://img5.douban.com/mpic/s4115109.jpg"], "desc": ["《C++程序设计语言》介绍了标准C++以及由C++所支持的关键性编程技术和设计技术。标准C++较以前的版本功能更强大，其中许多新的语言特性，如名字空间、异常... "]}
+{"title": ["大话设计模式"], "img": ["http://img5.douban.com/mpic/s6908318.jpg"], "desc": ["《大话设计模式》通篇都是以情景对话的形式，用多个小故事或编程示例来组织讲解GoF（设计模式的经典名著——Design Patterns: Elements ... "]}
+{"title": ["Unix/Linux编程实践教程"], "img": ["http://img5.douban.com/mpic/s1164759.jpg"], "desc": ["Unix/Linux编程实践教程：国外经典教材，ISBN：9787302096139，作者：（美）Bruce Molay著；杨宗源，黄海涛译；杨宗源译 "]}
+{"title": ["冒号课堂"], "img": ["http://img5.douban.com/mpic/s3976237.jpg"], "desc": ["《冒号课堂》以课堂对话的形式，借六位师生之口讲述编程要义。上篇对编程范式作了入门性的介绍，并对一些流行的编程语言进行了简评；下篇侧重阐发软件设计思想，其中在... "]}
+{"title": ["汇编语言"], "img": ["http://img3.douban.com/mpic/s3094691.jpg"], "desc": ["《汇编语言(第2版)》是各种CPU提供的机器指令的助记符的集合，人们可以用汇编语言直接控制硬件系统进行工作。汇编语言是很多相关课程(如数据结构、操作系统、微... "]}
+{"title": ["C陷阱与缺陷"], "img": ["http://img3.douban.com/mpic/s2870233.jpg"], "desc": ["作者以自己1985年在Bell实验室时发表的一篇论文为基础，结合自己的工作经验扩展成为这本对C程序员具有珍贵价值的经典著作。写作本书的出发点不是要批判C语言... "]}
+{"title": ["高效程序员的45个习惯"], "img": ["http://img5.douban.com/mpic/s4073509.jpg"], "desc": ["“书中‘切身感受’的内容非常有价值——通过它我们可以做到学有所思，思有所悟，悟有所行。”
+——Nathaniel T. Schutta，《Ajax基础教程》... "]}
+{"title": ["Linux C编程一站式学习"], "img": ["http://img5.douban.com/mpic/s24562068.jpg"], "desc": ["本书有两条线索，一条线索是以Linux平台为载体全面深入地介绍C语言的语法和程序的工作原理，另一条线索是介绍程序设计的基本思想和开发调试方法。本书分为两部分... "]}
+{"title": ["Orange'S:一个操作系统的实现"], "img": ["http://img3.douban.com/mpic/s3788445.jpg"], "desc": ["《Orange S:一个操作系统的实现》从只有二十行的引导扇区代码出发，一步一步地向读者呈现一个操作系统框架的完成过程。书中不仅关注代码本身，同时关注完成这... "]}
+{"title": ["啊哈!算法"], "img": ["http://img3.douban.com/mpic/s27345094.jpg"], "desc": ["这不过是一本有趣的算法书而已。和别的算法书比较，如果硬要说它有什么特点的话，那就是你能看懂它。
+这是一本充满智慧和趣味的算法入门书。没有枯燥的描述，没有难懂... "]}
+{"title": ["程序员的数学"], "img": ["http://img3.douban.com/mpic/s20811702.jpg"], "desc": ["如果数学不好，是否可以成为一名程序员呢？答案是肯定的。 本书最适合：数学糟糕但又想学习编程的你。
+没有晦涩的公式，只有好玩的数学题。
+帮你掌握编程所需的“数... "]}
+{"title": ["Cracking the Coding Interview, Fourth Edition"], "img": ["http://img5.douban.com/mpic/s10835059.jpg"], "desc": ["Now in the 4th edition, Cracking the Coding Interview gives you the interview ... "]}
+{"title": ["梦断代码"], "img": ["http://img3.douban.com/mpic/s10403125.jpg"], "desc": ["软件乃是人类自以为最有把握，实则最难掌控的技术。本书作者罗森伯格对OSAF主持的Chandler项目进行田野调查，跟踪经年，试图借由Chandler的开发过... "]}
+{"title": ["DOOM启世录"], "img": ["http://img3.douban.com/mpic/s1488795.jpg"], "desc": ["由David Kushner 撰写之著作 《Master of DOOM》在 Amazon 和 eBook上的销售喜人。本书的中文版权由我公司拿到，将在20... "]}
+{"title": ["Practical Vim"], "img": ["http://img3.douban.com/mpic/s9046784.jpg"], "desc": ["Vim, a vast improvement over its classic ancestor vi, is a serious tool for pr... "]}
+{"title": ["深入Java虚拟机(原书第2版)"], "img": ["http://img5.douban.com/mpic/s1106498.jpg"], "desc": ["本书作者曾因本书荣获专业技术杂志《Java Report》评选的优秀作者奖，细心的读者可以从网上找到许多对本书第1版的赞誉。作者以易于理解的方式深入揭示了J... "]}
+{"title": ["深入理解Nginx"], "img": ["http://img5.douban.com/mpic/s26036498.jpg"], "desc": ["本书是阿里巴巴资深Nginx技术专家呕心沥血之作，是作者多年的经验结晶，也是目前市场上唯一一本通过还原Nginx设计思想，剖析Nginx架构来帮助读者快速高... "]}
+{"title": ["编写高质量代码：改善Python程序的91个建议"], "img": ["http://img3.douban.com/mpic/s27307891.jpg"], "desc": ["在通往“Python技术殿堂”的路上，本书将为你编写健壮、优雅、高质量的Python代码提供切实帮助！内容全部由Python编码的最佳实践组成，从基本原则、... "]}
+{"title": ["自制编程语言"], "img": ["http://img3.douban.com/mpic/s27093931.jpg"], "desc": ["★ 只需编程基础
+★ 从零开始自制编程语言
+★ 支持面向对象、异常处理等高级机制
+本书手把手地教读者用C语言制作两种编程语言：crowbar与Diksam。... "]}
+{"title": ["C++标准程序库"], "img": ["http://img5.douban.com/mpic/s1092079.jpg"], "desc": ["这本包含最新资料的完整书籍，反映出被ANSI/ISO C++语言标准规格书纳入的C++标准程序库的最新组成。更明确地说，这本书将焦点放在标准模板库身上，检验... "]}
+{"title": ["PHP和MySQL Web开发(原书第4版)"], "img": ["http://img3.douban.com/mpic/s3773304.jpg"], "desc": ["本书将PHP开发与MySQL应用相结合，分别对PHP和MySQL做了深入浅出的分析，不仅介绍PHP和MySQL的一般概念，而且对PHP和MySQL的Web应... "]}
+{"title": ["剑指Offer"], "img": ["http://img5.douban.com/mpic/s7038106.jpg"], "desc": ["《剑指Offer:名企面试官精讲典型编程题》剖析了50个典型的程序员面试题，从基础知识、代码质量、解题思路、优化效率和综合能力五个方面系统整理了影响面试的5... "]}
+{"title": ["A Byte of Python"], "img": ["http://img3.douban.com/mpic/s4612135.jpg"], "desc": ["'A Byte of Python' is a book on programming using the Python language. It serv... "]}
+{"title": ["Python Cookbook"], "img": ["http://img3.douban.com/mpic/s4357883.jpg"], "desc": ["本书介绍了Python应用在各个领域中的一些使用技巧和方法，从最基本的字符、文件序列、字典和排序，到进阶的面向对象编程、数据库和数据持久化、 XML处理和W... "]}
+{"title": ["编程语言实现模式"], "img": ["http://img5.douban.com/mpic/s7661036.jpg"], "desc": ["《编程语言实现模式》旨在传授开发语言应用（工具）的经验和理念，帮助读者构建自己的语言应用。这里的语言应用并非特指用编译器或解释器实现编程语言，而是泛指任何处... "]}
+{"title": ["Python核心编程（第二版）"], "img": ["http://img5.douban.com/mpic/s3140466.jpg"], "desc": ["本书是Python开发者的完全指南——针对 Python 2.5全面升级
+·学习专业的Python风格、最佳实践和好的编程习惯；
+·加强对Python对象、... "]}
+{"title": ["Python学习手册"], "img": ["http://img5.douban.com/mpic/s3952568.jpg"], "desc": ["《Python学习手册(第3版)》讲述了：Python可移植、功能强大、易于使用，是编写独立应用程序和脚本应用程序的理想选择。无论你是刚接触编程或者刚接触P... "]}
+{"title": ["Objective-C编程"], "img": ["http://img3.douban.com/mpic/s22704633.jpg"], "desc": ["《Objective-C编程》讲述Objective-C编程语言和基本的iOS/Mac开发知识。作者首先从基本的编程概念讲起（变量、条件语句、循环结构等），... "]}
+{"title": ["正则指引"], "img": ["http://img3.douban.com/mpic/s9039272.jpg"], "desc": ["《正则指引》针对作者在开发中遇到的实际问题，以及其他开发人员咨询的问题，总结出一套使用正则表达式解题的办法，并通过具体的例子指导读者拆解、分析问题。全书分为... "]}
+{"title": ["CLR via C#"], "img": ["http://img3.douban.com/mpic/s4476524.jpg"], "desc": ["本书针对CLR和.NET Framework 4.0进行深入、全面的探讨，并结合实例介绍了如何利用它们进行设计、开发和调试。全书5部分29章。第Ⅰ部分介绍C... "]}
+{"title": ["卓有成效的程序员"], "img": ["http://img5.douban.com/mpic/s3668809.jpg"], "desc": ["《卓有成效的程序员》就是讲述如何在开发软件的过程中变得更加高效。同时，《卓有成效的程序员》的讲述将会跨语言和操作系统：很多技巧的讲述都会伴随多种程序语言的例... "]}
+{"title": ["The Linux Programming Interface"], "img": ["http://img5.douban.com/mpic/s9029069.jpg"], "desc": ["The Linux Programming Interface describes the Linux API (application programmi... "]}
+{"title": ["高效能程序员的修炼"], "img": ["http://img3.douban.com/mpic/s27292170.jpg"], "desc": ["jeff atwood于2004年创办coding horror博客(http://www.codinghorror.com)，记录其在软件开发经历中的所思... "]}
+{"title": ["C++语言的设计和演化"], "img": ["http://img3.douban.com/mpic/s1081652.jpg"], "desc": ["这本书是C++的设计者关于C++语言的最主要著作之一。作者综合性地论述了C++的历史和发展，C++中各种重要机制的本质意义和设计背景，这些机制的基本用途和使... "]}
+{"title": ["Linux就是这个范儿"], "img": ["http://img5.douban.com/mpic/s27314569.jpg"], "desc": ["本书内容源自淘宝技术大学的培训实战。由来自阿里巴巴集团的资深Linux系统专家赵鑫磊和同样来自阿里巴巴集团的支付宝网络技术有限公司的高级专家Jie Zhan... "]}
+{"title": ["软件开发者路线图"], "img": ["http://img3.douban.com/mpic/s27179973.jpg"], "desc": ["作为一名软件开发者，你在奋力推进自己的职业生涯吗？面对今天日新月异和不断拓展的技术，取得成功需要的不仅仅是技术专长。为了增强专业性，你还需要一些软技能以及高... "]}
+{"title": ["算法竞赛入门经典"], "img": ["http://img5.douban.com/mpic/s6092408.jpg"], "desc": ["《算法竞赛入门经典》是一本算法竞赛的入门教材，把C/C++语言、算法和解题有机地结合在了一起，淡化理论，注重学习方法和实践技巧。全书内容分为11章，包括程序... "]}
+{"title": ["程序员的呐喊"], "img": ["http://img3.douban.com/mpic/s27279823.jpg"], "desc": ["《程序员的呐喊》的作者是业界知名的程序员—来自google的steve yegge，他写过很多颇富争议的文章，其中有不少就收录在这本书中。本书是他的精彩文章... "]}
+{"title": ["Game Engine Architecture"], "img": ["http://img5.douban.com/mpic/s3793677.jpg"], "desc": ["This book covers both the theory and practice of game engine software developm... "]}
+{"title": ["代码之美"], "img": ["http://img3.douban.com/mpic/s3337523.jpg"], "desc": ["《代码之美》介绍了人类在一个奋斗领域中的创造性和灵活性：计算机系统的开发领域。在每章中的漂亮代码都是来自独特解决方案的发现，而这种发现是来源于作者超越既定边... "]}
+{"title": ["敏捷软件开发"], "img": ["http://img3.douban.com/mpic/s1671095.jpg"], "desc": ["《敏捷软件开发：原则模式与实践》由享誉全球的软件开发专家和软件工程大师Robert C.Martin将向您展示如何解决软件开发人员、项目经理及软件项目领导们... "]}
+{"title": ["修改代码的艺术"], "img": ["http://img3.douban.com/mpic/s2690732.jpg"], "desc": ["我们都知道，即使是最训练有素的开发团队，也不能保证始终编写出清晰高效的代码。如果不积极地修改、挽救，随着时间流逝，所有软件都会不可避免地渐渐变得复杂、难以理... "]}
+{"title": ["Head First Python（中文版）"], "img": ["http://img3.douban.com/mpic/s27262723.jpg"], "desc": ["Head First Python（中文版），ISBN：9787512322233，作者：（美）巴里 著，林琪 等译 "]}
+{"title": ["Android开发精要"], "img": ["http://img5.douban.com/mpic/s11184539.jpg"], "desc": ["《Android开发精要》如何才能写出贴近Android设计理念、能够更加高效和可靠运行的Android应用？通过Android的源代码去了解其底层实现细节... "]}
+{"title": ["算法艺术与信息学竞赛"], "img": ["http://img3.douban.com/mpic/s5693985.jpg"], "desc": ["《算法艺术与信息学竞赛》较为系统和全面地介绍了算法学最基本的知识。这些知识和技巧既是高等院校“算法与数据结构”课程的主要内容，也是国际青少年信息学奥林匹克（... "]}
+{"title": ["改变未来的九大算法"], "img": ["http://img3.douban.com/mpic/s27271263.jpg"], "desc": ["Google得出的搜索结果是如何产生的？
+百度为何会陷入“搜索门”，又是什么机制使然？
+身处在大数据时代的我们，究竟该如何应对变化莫测的世界？
+……
+没有满... "]}
+{"title": ["算法引论"], "img": ["http://img3.douban.com/mpic/s9986810.jpg"], "desc": ["算法引论：一种创造性方法 a creative approach，ISBN：9787121016653，作者：（美）Udi Manber著；黄林鹏，谢瑾奎，... "]}
+{"title": ["Windows核心编程"], "img": ["http://img3.douban.com/mpic/s1874860.jpg"], "desc": ["Windows核心编程，ISBN：9787111079453，作者：（美）Jeffrey Richter（J.理查特）著；王建华[等]译；王建华译 "]}
+{"title": ["Learn Python The Hard Way, 1st Edition"], "img": ["http://img5.douban.com/mpic/s4537256.jpg"], "desc": ["Learn Python The Hard Way is a book I wrote to teach programming to people who... "]}
+{"title": ["C++设计新思维"], "img": ["http://img3.douban.com/mpic/s1617593.jpg"], "desc": ["本书从根本上展示了generic patterns(泛型模式)或pattern templates（模式模板），并将它们视之为“在C++中创造可扩充设计”的... "]}
+{"title": ["迷茫的旅行商"], "img": ["http://img5.douban.com/mpic/s27028577.jpg"], "desc": ["假设一名旅行商打算拜访一张城市列表中的所有城市，每座城市只去一次，最后回到出发地。要怎么走才能让路线最短呢？这就是旅行商问题，乍一听很简单，在应用数学界却是... "]}
+{"title": ["编程精粹"], "img": ["http://img5.douban.com/mpic/s3529626.jpg"], "desc": ["编写高质量的、没有bug的程序，是每位程序员所追求的目标。但随着软件规模越来越大，功能日趋复杂，这一目标变得越来越困难。
+本书揭示了微软公司应对质量挑战、开... "]}
+{"title": ["算法帝国"], "img": ["http://img5.douban.com/mpic/s27277427.jpg"], "desc": ["人类正在步入与机器共存的科幻世界？看《纽约时报》畅销书作者讲述算法和机器学习技术如何悄然接管人类社会，带我们走进一个算法统治的世界。
+今天，算法涉足的领域已... "]}
+{"title": ["Linux设备驱动程序"], "img": ["http://img5.douban.com/mpic/s27318527.jpg"], "desc": ["Linux设备驱动程序，ISBN：9787508338637，作者：（美）科波特（Corbet, J.）著；魏永明等译 "]}
+{"title": ["Java Performance"], "img": ["http://img3.douban.com/mpic/s7673571.jpg"], "desc": [""The definitive master class in performance tuning Java applications!if you lo... "]}
+{"title": ["Learn You a Haskell for Great Good!"], "img": ["http://img5.douban.com/mpic/s6418677.jpg"], "desc": ["It's all in the name: Learn You a Haskell for Great Good!  is a hilarious, ill... "]}
+{"title": ["Linux/Unix设计思想"], "img": ["http://img3.douban.com/mpic/s9022362.jpg"], "desc": ["《Linux\Unix设计思想/图灵程序设计丛书》内容简介：将Linux的开发方式与Unix的原理有效地结合起来，总结出Linux与Unix软件开发中的设计... "]}
+{"title": ["Linux命令行与shell脚本编程大全"], "img": ["http://img5.douban.com/mpic/s11171426.jpg"], "desc": ["《Linux命令行与shell脚本编程大全(第2版)》是一本关于Linux命令行与shell脚本编程的全面教程。本书主要内容包括：在命令行上工作并学习基本的... "]}
+{"title": ["Erlang 程序设计"], "img": ["http://img5.douban.com/mpic/s3468558.jpg"], "desc": ["书是讲述下一代编程语言Erlang 的权威著作，主要涵盖顺序型编程、异常处理、编译和运行代码、并发编程、并发编程中的错误处理、分布式编程、多核编程等内容。本... "]}
+{"title": ["On Lisp"], "img": ["http://img5.douban.com/mpic/s1446646.jpg"], "desc": ["On Lisp is a comprehensive study of advanced Lisp techniques, with bottom-up p... "]}
+{"title": ["游戏之旅"], "img": ["http://img3.douban.com/mpic/s24444264.jpg"], "desc": ["这是一本非常有特色的计算机编程学习书籍。其特色就在于它将作者十余年来对游戏编程的所思、所感、所悟与编程理论知识相结合，褪去了纯理论的教学理念，使读者在前人的... "]}
+{"title": ["领域特定语言"], "img": ["http://img5.douban.com/mpic/s25812589.jpg"], "desc": ["本书是DSL领域的丰碑之作，由世界级软件开发大师和软件开发“教父”Martin Fowler历时多年写作而成，ThoughtWorks中国翻译。全面详尽地讲... "]}
+{"title": ["JAVA 2核心技术 卷Ⅰ"], "img": ["http://img3.douban.com/mpic/s1815135.jpg"], "desc": ["本书是Java技术经典参考书，多年畅销不衰，第7版在保留以前版本风格的基础上，涵盖Java2开发平台标准版J2SE5.0的基础知识，主要内容包括面各对象程序... "]}
+{"title": ["Python科学计算"], "img": ["http://img5.douban.com/mpic/s7025859.jpg"], "desc": ["本书介绍如何用Python开发科学计算的应用程序，除了介绍数值计算之外，还着重介绍如何制作交互式的2D、3D图像，如何设计精巧的程序界面，如何与C语言编写的... "]}
+{"title": ["Ruby编程语言"], "img": ["http://img3.douban.com/mpic/s11352335.jpg"], "desc": ["《Ruby编程语言》详细介绍了Ruby 1.8和1.9版本各方面的内容。在对Ruby进行了简要的综述之后，《Ruby编程语言》详细介绍了以下内容：Ruby的... "]}
+{"title": ["软件调试"], "img": ["http://img3.douban.com/mpic/s3106841.jpg"], "desc": ["围绕如何实现高效调试这一主题，本书深入系统地介绍了以调试器为核心的各种软件调试技术。本书共30章，分为6篇。第1篇介绍了软件调试的概况和简要历史。第2篇以英... "]}
+{"title": ["程序设计语言"], "img": ["http://img5.douban.com/mpic/s3349717.jpg"], "desc": ["★列为全球上百所大学标准教材和首席参考书！ 
+ ★图书馆必备典藏,作者Michael L.Scott 是计算机领域的著名学者，译者是北京大学的裘宗燕教授，他... "]}
+{"title": ["C语言程序设计"], "img": ["http://img3.douban.com/mpic/s6139041.jpg"], "desc": ["时至今日， C语言仍然是计算机领域的通用语言之一，但今天的 C语言已经和最初的时候大不相同了。本书最主要的一个目的就是通过一种“现代方法”来介绍 C语言，书... "]}
+{"title": ["算法设计与分析基础"], "img": ["http://img3.douban.com/mpic/s2019521.jpg"], "desc": ["作者基于丰富的教学经验，开发了一套对算法进行分类的新方法。这套方法站在通用问题求解策略的高度，能对现有的大多数算法都能进行准确分类，从而使本书的读者能够沿着... "]}
+{"title": ["ANSI Common LISP"], "img": ["http://img5.douban.com/mpic/s1471966.jpg"], "desc": ["For use as a core text supplement in any course covering common LISP such as A... "]}
+{"title": ["程序员的职业素养"], "img": ["http://img3.douban.com/mpic/s11194203.jpg"], "desc": ["本书是编程大师Bob 大叔40 余年编程生涯的心得体会, 讲解成为真正专业的程序员需要什么样的态度、原则，需要采取什么样的行动。作者以自己以及身边的同事走过... "]}
+{"title": ["How to Design Programs"], "img": ["http://img3.douban.com/mpic/s2577325.jpg"], "desc": ["This introduction to programming places computer science in the core of a libe... "]}
+{"title": ["Programming Ruby中文版"], "img": ["http://img5.douban.com/mpic/s3294468.jpg"], "desc": ["《Programming Rudy》(中文版)(第2版)是它的第2版，其中包括超过200页的新内容，以及对原有内容的修订，涵盖了Ruby 1．8中新的和改进... "]}
+{"title": ["C++程序设计原理与实践"], "img": ["http://img5.douban.com/mpic/s4386189.jpg"], "desc": ["本书是经典程序设计思想与C++开发实践的完美结合，是C++之父回归校园后对C++编程原理和技巧的全新阐述。书中全面地介绍了程序设计基本原理，包括基本概念、设... "]}
+{"title": ["LUA程序设计(第2版)"], "img": ["http://img3.douban.com/mpic/s24638264.jpg"], "desc": ["周惟迪（www.zhouweidi.name），在少年时由于喜好计算机游戏而喜爱上计算机编程，对各类开发技术皆有涉猎。曾从事过2年游戏程序设计专业的教育工作... "]}
+{"title": ["编程ING"], "img": ["http://img3.douban.com/mpic/s11161943.jpg"], "desc": ["现在是 IT的时代，工作与生活都离不开IT。许多人都想了解软件原理，甚至编写一些简单的软件。通过《编程 ING：人人都能学会程序设计》一书，你就能拥有这样的... "]}
+{"title": ["C++沉思录"], "img": ["http://img3.douban.com/mpic/s1085982.jpg"], "desc": ["《C++ 沉思录》集中反映了C++的关键思想和编程技术，不仅告诉你如何编程，还告诉你为什么要这样编程。本书曾出现在众多的C++专家推荐书目中。 这将是C++... "]}
+{"title": ["基于MVC的JavaScript Web富应用开发"], "img": ["http://img5.douban.com/mpic/s27269298.jpg"], "desc": ["《JavaScript Web 富应用开发》Developing JavaScript Web Applications是 Alex MacCaw 的新作（... "]}
+{"title": ["Dive Into Python"], "img": ["http://img3.douban.com/mpic/s4180565.jpg"], "desc": ["Dive Into Python 是为有经验的程序员编写的一本 Python 书。 "]}
+{"title": ["SQL反模式"], "img": ["http://img5.douban.com/mpic/s8846357.jpg"], "desc": ["《SQL反模式》是一本广受好评的SQL图书。它介绍了如何避免在SQL的使用和开发中陷入一些常见却经常被忽略的误区。它通过讲述各种具体的案例，以及开发人员和使... "]}
+{"title": ["编程的本质"], "img": ["http://img3.douban.com/mpic/s4239554.jpg"], "desc": ["本书提供了有关编程的一种与众不同的理解。其主旨是，实际的编程也应像其他科学和工程领域一样基于坚实的数学基础。本书展示了在实际编程语言(如C++)中实现的算法... "]}
+{"title": ["The Algorithm Design Manual"], "img": ["http://img3.douban.com/mpic/s10347625.jpg"], "desc": ["....The most comprehensive guide to designing practical and efficient algorith... "]}
+{"title": ["The Linux Command Line"], "img": ["http://img5.douban.com/mpic/s7056078.jpg"], "desc": ["You've experienced the shiny, point-and-click surface of your Linux computer-n... "]}
+{"title": ["Practical Common Lisp"], "img": ["http://img3.douban.com/mpic/s1471961.jpg"], "desc": ["Lisp is often thought of as an academic language, but it need not be. This is ... "]}
+{"title": ["R语言编程艺术"], "img": ["http://img5.douban.com/mpic/s26540607.jpg"], "desc": ["【编辑推荐】
+这本书涵盖了R语言编程的诸多方面，尤其在面向对象编程、程序调试、提升程序运行速度以及并行计算等方面，填补了同类图书的空白。关于程序调试的章节更... "]}
+{"title": ["UNIX网络编程第2卷"], "img": ["http://img5.douban.com/mpic/s9809609.jpg"], "desc": ["UNIX网络编程：第2版（第2卷 进程间通信），ISBN：9787302038153，作者：（美）[W.R.史蒂文斯]W.Richard Stevens著；... "]}
+{"title": ["C语言入门经典"], "img": ["http://img5.douban.com/mpic/s5889598.jpg"], "desc": ["《C语言入门经典(第4版)》的目标是使你在C语言程序设计方面由一位初学者成为一位称职的程序员。读者基本不需要具备任何编程知识，即可通过《C语言入门经典(第4... "]}
+{"title": ["啊哈C！思考快你一步"], "img": ["http://img3.douban.com/mpic/s27035682.jpg"], "desc": ["这是一本非常有趣的编程启蒙书，全书从中小学生的角度来讲述，没有生涩的内容，取而代之的是生动活泼的漫画和风趣幽默的文字。并配合超萌的编程软件，从开始学习与计算... "]}
+{"title": ["The Science of Programming (Monographs in Computer Science)"], "img": ["http://img5.douban.com/mpic/s2812798.jpg"], "desc": ["This is the very first book to discuss the theory and principles of computer p... "]}
+{"title": ["汇编语言程序设计"], "img": ["http://img3.douban.com/mpic/s1581632.jpg"], "desc": ["《汇编语言程序设计》讲述每种高级语言程序在连接为可执行程序之前，都必须被编译为汇编语言程序，因此对于高级语言程序设计者来说，了解编译器如何生成汇编语言代码十... "]}
+{"title": ["TCP/IP详解 卷2：实现"], "img": ["http://img3.douban.com/mpic/s2414170.jpg"], "desc": ["《TCP/IP详解·卷2：实现》完整而详细地介绍了TCP/IP协议是如何实现的。书中给出了约500个图例，15000行实际操作的C代码，采用举例教学的方法帮... "]}
+{"title": ["我编程，我快乐"], "img": ["http://img5.douban.com/mpic/s6378707.jpg"], "desc": ["要在当今的IT职场取得成功，必须像经营企业那样对待你的事业。在本书中，你将学到如何规划自己的职业生涯，让它向着你选择的目标前进，使人生更快乐、更美好。
+作者... "]}
+{"title": ["C++Primer Plus"], "img": ["http://img3.douban.com/mpic/s10266053.jpg"], "desc": ["C++ Primer Plus（第五版）中文版，ISBN：9787115134165，作者：（美）Stephen Prata著；孙建春，韦强译 "]}
+{"title": ["C语言接口与实现"], "img": ["http://img3.douban.com/mpic/s9846104.jpg"], "desc": ["
+       "]}
+{"title": ["iOS编程"], "img": ["http://img5.douban.com/mpic/s25011757.jpg"], "desc": ["《iOS编程（第3版）》获21届Jolt生产力大奖。第3版更新了iOS5和Xcode4.3的内容。全书涵盖了开发iOS应用的方方面面。从Objective-... "]}
+{"title": ["黑客"], "img": ["http://img3.douban.com/mpic/s6951030.jpg"], "desc": ["黑客文化和伦理的奠基之作，计算机专业人士必读。
+二十五周年新版，涵盖比尔·盖茨、马克·扎克伯格、理查德·斯托曼、史蒂夫·沃兹尼克等著名黑客的最新资料。
+多年... "]}
+{"title": ["C++编程规范"], "img": ["http://img5.douban.com/mpic/s9101106.jpg"], "desc": ["《C++编程规范:101条规则准则与最佳实践》中，两位知名的C++专家将全球C++界20年的集体智慧和经验凝结成一套编程规范。这些规范可以作为每一个开发团队... "]}
+{"title": ["Linux程序设计"], "img": ["http://img3.douban.com/mpic/s4360010.jpg"], "desc": ["时至今日，Linux系统已经从一个个人作品发展为可以用于各种关键任务的成熟、高效和稳定的操作系统，因为具备跨平台、开源、支持众多应用软件和网络协议等优点，它... "]}
+{"title": ["软件框架设计的艺术"], "img": ["http://img5.douban.com/mpic/s4656028.jpg"], "desc": ["本书帮助你解决API 设计方面的问题，共分3 个部分，分别指出学习API 设计是需要进行科学的训练的、Java 语言在设计方面的理论及设计和维护API 时的... "]}
+{"title": ["Perl语言入门"], "img": ["http://img3.douban.com/mpic/s4031355.jpg"], "desc": ["《Perl语言入门(第5版)》也就是大家所称道的“小骆驼书”，是Perl程序设计人员最为仰赖的启蒙读物之一。自1993年以来，这本《Perl语言入门(第5版... "]}
+{"title": ["自己动手写操作系统"], "img": ["http://img3.douban.com/mpic/s1435462.jpg"], "desc": ["本书在详细分析操作系统原理的基础上，用丰富的实例代码，一步一步地指导读者用C语言和汇编语言编写出一个具备操作系统基本功能的操作系统框架。本书不同于其他的理论... "]}
+{"title": ["Windows 程序设计：第5版"], "img": ["http://img3.douban.com/mpic/s1074981.jpg"], "desc": ["
+       "]}
+{"title": ["编程之魂"], "img": ["http://img3.douban.com/mpic/s4305983.jpg"], "desc": ["本书是27位杰出的设计师与你分享他们的智慧和经验。书中以问答方式告诉为什么要创建某种编程语言、它在技术上如何开发、如何教授和学习，以及它如何顺应时代发展等。... "]}
+{"title": ["精通JavaScript"], "img": ["http://img3.douban.com/mpic/s25000520.jpg"], "desc": ["本书是目前最深入的 JavaScript 图书，讲述了现代 JavaScript 的所有知识，展现了这门技术将能给网站建设带来如何丰富的体验。本书言简意赅，... "]}
+{"title": ["程序员的修炼"], "img": ["http://img3.douban.com/mpic/s27275890.jpg"], "desc": ["《程序员的修炼——从优秀到卓越》是《高效能程序员的修炼》的姊妹篇，包含了Coding Horror博客中的精华文章。全书分为8章，涵盖了时间管理、编程方法、... "]}
+{"title": ["Think Python"], "img": ["http://img3.douban.com/mpic/s11363793.jpg"], "desc": ["Think Python is an introduction to Python programming for students with no pro... "]}
+{"title": ["Python高级编程"], "img": ["http://img3.douban.com/mpic/s4163751.jpg"], "desc": ["《Python高级编程》通过大量的实例，介绍了Python语言的最佳实践和敏捷开发方法，并涉及整个软件生命周期的高级主题，诸如持续集成、版本控制系统、包的发... "]}
+{"title": ["深入理解LINUX内核"], "img": ["http://img5.douban.com/mpic/s24505667.jpg"], "desc": ["为了彻底理解是什么使得Linux能正常运行以及其为何能在各种不同的系统中运行良好，你需要深入研究内核最本质的部分。内核处理CPU与外界间的所有交互，并且决定... "]}
+{"title": ["C标准库"], "img": ["http://img3.douban.com/mpic/s3820140.jpg"], "desc": ["本书是由世界级C语言专家编写的C标准库经典著作。英文版已经重印十多次，影响了几代程序员。
+本书结合C标准的相关部分，精辟地讲述了每一个库函数的使用方法和实现... "]}
+{"title": ["Clojure编程"], "img": ["http://img3.douban.com/mpic/s25803832.jpg"], "desc": ["Clojure是一种实用的通用语言，它是传奇语言LISP的方言，可与Ruby、Python等动态语言相媲美，更以无缝Java库、服务，以及拥有JVM系统得天... "]}
+{"title": ["C++ Concurrency in Action"], "img": ["http://img5.douban.com/mpic/s8951347.jpg"], "desc": ["HIGHLIGHT  C++ Concurrency in Action is the first book to market to show how t... "]}
+{"title": ["Building Machine Learning Systems with Python"], "img": ["http://img5.douban.com/mpic/s27163799.jpg"], "desc": []}
+{"title": ["Processing"], "img": ["http://img5.douban.com/mpic/s4533937.jpg"], "desc": ["It has been more than twenty years since desktop publishing reinvented design,... "]}
+{"title": ["Types and Programming Languages"], "img": ["http://img3.douban.com/mpic/s4242680.jpg"], "desc": ["A type system is a syntactic method for automatically checking the absence of ... "]}
+{"title": ["The Swift Programming Language"], "img": ["http://img5.douban.com/mpic/s27296746.jpg"], "desc": ["Swift is a new programming language for creating iOS and OS X apps. Swift buil... "]}
+{"title": ["JAVASCRIPT权威指南(第四版)"], "img": ["http://img3.douban.com/mpic/s1504052.jpg"], "desc": ["《JavaScript权威指南》全面介绍了JavaScript语言的核心，以及Web浏览器中实现的遗留和标准的DOM。它运用了一些复杂的例子，说明如何处理验... "]}
+{"title": ["Shell脚本学习指南"], "img": ["http://img5.douban.com/mpic/s3801638.jpg"], "desc": ["《Shell脚本学习指南》将告诉你这些有关UNIX主流工具的知识。除此之外，《Shell脚本学习指南》还会帮助你解决UNIX命令与标准的差异。
+作者熟知UN... "]}
+{"title": ["Android系统源代码情景分析"], "img": ["http://img3.douban.com/mpic/s27280265.jpg"], "desc": ["Android系统源代码情景分析，ISBN：9787121181085，作者：罗升阳 著 "]}
+{"title": ["Real World Haskell"], "img": ["http://img3.douban.com/mpic/s12295281.jpg"], "desc": ["This easy-to-use, fast-moving tutorial introduces you to functional programmin... "]}
+{"title": ["深入理解Java虚拟机"], "img": ["http://img3.douban.com/mpic/s6564370.jpg"], "desc": ["《深入理解Java虚拟机:JVM高级特性与最佳实践》内容简介：作为一位Java程序员，你是否也曾经想深入理解Java虚拟机，但是却被它的复杂和深奥拒之门外？... "]}
+{"title": ["七周七数据库"], "img": ["http://img3.douban.com/mpic/s27130764.jpg"], "desc": ["如今，我们要面对和使用的数据正在变得越来越庞大和复杂。如果说数据是新的石油。那么数据库就是油田、炼油厂、钻井和油泵。作为一名现代的软件开发者，我们需要了解数... "]}
+{"title": ["大话数据结构"], "img": ["http://img3.douban.com/mpic/s6382631.jpg"], "desc": ["本书为超级畅销书《大话设计模式》作者程杰潜心三年推出的扛鼎之作！以一个计算机教师教学为场景，讲解数据结构和相关算法的知识。通篇以一种趣味方式来叙述，大量引用... "]}
+{"title": ["C++编程思想（第1卷）"], "img": ["http://img5.douban.com/mpic/s1085408.jpg"], "desc": ["《C++编程思考》第2版与第1版相比，在章节安排上有以下改变。增加了两章：“对象的创建与使用”和“C++中的C”，前者与“对象导言”实际上是第1版“对象的演... "]}
+{"title": ["可爱的Python"], "img": ["http://img5.douban.com/mpic/s3901817.jpg"], "desc": ["本书的内容主要来自CPyUG社区的邮件列表，由Python的行者根据自身经验组织而成，是为从来没有听说过Python的其他语言程序员准备的一份实用的导学性质... "]}
+{"title": ["Debug Hacks中文版"], "img": ["http://img5.douban.com/mpic/s6879007.jpg"], "desc": ["《Debug Hacks中文版—深入调试的技术和工具》是Miracle Linux的创始人吉冈弘隆和几位工程师们多年从事内核开发的经验积累。从调试器的基本使... "]}
+{"title": ["Effective STL中文版"], "img": ["http://img5.douban.com/mpic/s1669748.jpg"], "desc": []}
+{"title": ["Maven实战"], "img": ["http://img3.douban.com/mpic/s4524240.jpg"], "desc": ["你是否早已厌倦了日复一日的手工构建工作？你是否对各个项目风格迥异的构建系统感到恐惧？Maven——这一Java社区事实标准的项目管理工具，能帮你从琐碎的手工... "]}
+{"title": ["编写可维护的JavaScript"], "img": ["http://img3.douban.com/mpic/s26615195.jpg"], "desc": ["《编写可维护的JavaScript》向开发人员阐述了如何在团队开发中编写具备高可维护性的JavaScript代码，书中详细说明了作为团队一分子，应该怎么写J... "]}
+{"title": ["编程大师访谈录"], "img": ["http://img5.douban.com/mpic/s24509127.jpg"], "desc": ["《编程大师访谈录》是对19位计算机行业先驱的采访实录，采访对象包括查尔斯•西蒙尼、比尔•盖茨、安迪•赫兹菲尔德、雷•奥奇、杰夫•拉斯金等。访谈涉及他们软件创... "]}
+{"title": ["算法竞赛入门经典"], "img": ["http://img3.douban.com/mpic/s23009613.jpg"], "desc": ["《算法竞赛入门经典:训练指南》是《算法竞赛入门经典》的重要补充，旨在补充原书中没有涉及或者讲解得不够详细的内容，从而构建一个较完整的知识体系，并且用大量有针... "]}
+{"title": ["你必须知道的495个C语言问题"], "img": ["http://img3.douban.com/mpic/s25140521.jpg"], "desc": ["“本书是Summit以及C FAQ在线列表的许多参与者多年心血的结晶，是C语言界最为珍贵的财富之一。我向所有C语言程序员推荐本书。”
+——Francis G... "]}
+{"title": ["深入浅出 MFC 第二版"], "img": ["http://img3.douban.com/mpic/s1499931.jpg"], "desc": ["深入浅出MFC是一本介绍 MFC（Microsoft Foundation Classes）程式设计技术的书籍。对於 Windows 应用软体的开发感到兴趣... "]}
+{"title": ["Elemental Design Patterns"], "img": ["http://img3.douban.com/mpic/s24810261.jpg"], "desc": ["2012 Jolt Award Finalist! Even experienced software professionals find it diff... "]}
+{"title": ["Go语言编程"], "img": ["http://img5.douban.com/mpic/s11162016.jpg"], "desc": ["这本书从整体的写作风格来说，会以介绍 Go 语言特性为主，示例则尽量采用作者平常的实践，而不是一个没有太大实际意义的语法示范样例。
+本书作者背景极强，许式伟... "]}
+{"title": ["Node.js开发指南"], "img": ["http://img5.douban.com/mpic/s10307479.jpg"], "desc": ["Node.js是一种方兴未艾的新技术，诞生于2009年。经过两年的快速变化，Node.js生态圈已经逐渐走向稳定。Node.js采用了以往类似语言和框架中非... "]}
+{"title": ["UNIX编程环境"], "img": ["http://img3.douban.com/mpic/s1075305.jpg"], "desc": ["
+       "]}
+{"title": ["Linux多线程服务端编程"], "img": ["http://img5.douban.com/mpic/s24522799.jpg"], "desc": ["本书主要讲述采用现代C++ 在x86-64 Linux 上编写多线程TCP 网络服务程序的
+主流常规技术，重点讲解一种适应性较强的多线程服务器的编程模型，即... "]}
+{"title": ["可视化数据"], "img": ["http://img5.douban.com/mpic/s3720888.jpg"], "desc": ["这是一本关于计算信息设计的书籍。从如何获取原始数据开始，到如何理解原始数据，本书都作了非常详尽的介绍。书中使用由作者开发的开源编程环境Processing编... "]}
+{"title": ["Processing互动编程艺术"], "img": ["http://img5.douban.com/mpic/s6514269.jpg"], "desc": ["内容简介
+本书将引领你进入编程艺术的世界。本书揭示了运用Processing创建高质量互动艺术作品的奥秘，你将感受到Processing的敏捷性和艺术性，内... "]}
+{"title": ["The Elements of Programming Style"], "img": ["http://img5.douban.com/mpic/s2578176.jpg"], "desc": []}
+{"title": ["Head First Servlets&JSP（中文版）"], "img": ["http://img3.douban.com/mpic/s1990800.jpg"], "desc": ["《Head First Servlets·JSP》(中文版)结合SCWCD考试大纲讲述了关于如何编写servlets和JSP代码，如何使用JSP表达式语言，... "]}
+{"title": ["Let Over Lambda"], "img": ["http://img5.douban.com/mpic/s3885759.jpg"], "desc": ["Let Over Lambda is one of the most hardcore computer programming books out the... "]}
+{"title": ["Android编程权威指南"], "img": ["http://img5.douban.com/mpic/s27240339.jpg"], "desc": ["权威、全面、实用、易懂，是本书最大的特色。本书根据美国大名鼎鼎的Big Nerd Ranch训练营的Android培训讲义编写而成，已经为微软、谷歌、Fac... "]}
+{"title": ["Land of Lisp"], "img": ["http://img5.douban.com/mpic/s3758189.jpg"], "desc": ["Lisp is a uniquely powerful programming language that, despite its academic re... "]}
+{"title": ["C语言编程：一本全面的C语言入门教程（第三版）"], "img": ["http://img3.douban.com/mpic/s26387712.jpg"], "desc": ["本书是极负盛名的C语言入门经典教材，其第一版发行至今已有20年的历史。本书内容详实全面，由浅入深，示例丰富，并在每个章节后面附有部分习题，非常适合读者自学使... "]}
+{"title": ["Java解惑"], "img": ["http://img5.douban.com/mpic/s1491187.jpg"], "desc": ["本书特写了95个有关Java或其类库的陷阱和缺陷的谜题，其中大多数谜题都采用了短程序的方式，这些程序的行为与其看似的大相径庭。在每个谜题之后都给出了详细的解... "]}
+{"title": ["OpenGL编程指南（原书第7版）"], "img": ["http://img3.douban.com/mpic/s6143451.jpg"], "desc": ["《Open GL编程指南(原书第7版)》对OpenGL以及OpenGL实用函数库进行了全面而又权威的介绍，素有“OpenGL红宝书”之誉。《Open GL编... "]}
+{"title": ["Objective-C基础教程"], "img": ["http://img5.douban.com/mpic/s3885296.jpg"], "desc": ["Objective-C 是创建 Mac OS X 应用和 iPhone 应用的主要语言，优雅的面向对象编程环境与快速而普及的 C 语言珠联璧合，造就了它的不... "]}
+{"title": ["Essential of Programming Languages, 3rd Edition"], "img": ["http://img5.douban.com/mpic/s3221129.jpg"], "desc": ["This textbook offers a deep understanding of the essential concepts of program... "]}
+{"title": ["爱上Processing"], "img": ["http://img3.douban.com/mpic/s26017534.jpg"], "desc": ["Processing最初是面向艺术家和设计师开发的程序。由Casey Reas和Ben Fry编著的《爱上Processing》适合零基础的初学者。《爱上P... "]}
+{"title": ["算法技术手册"], "img": ["http://img5.douban.com/mpic/s6144917.jpg"], "desc": ["《算法技术手册》内容简介：开发健壮的软件需要高效的算法，然后程序员们往往直至问题发生之时，才会去求助于算法。《算法技术手册》讲解了许多现有的算法，可用于解决... "]}
+{"title": ["算法精解"], "img": ["http://img3.douban.com/mpic/s11351454.jpg"], "desc": ["本书是数据结构和算法领域的经典之作，十余年来，畅销不衰！全书共分为三部分：第一部分首先介绍了数据结构和算法的概念，以及使用它们的原因和意义，然后讲解了数据结... "]}
+{"title": ["两周自制脚本语言"], "img": ["http://img5.douban.com/mpic/s27306068.jpg"], "desc": ["《两周自制脚本语言》是一本优秀的编译原理入门读物。全书穿插了大量轻松风趣的对话，读者可以随书中的人物一起从最简单的语言解释器开始，逐步添加新功能，最终完成一... "]}
+{"title": ["JavaScript编程精解"], "img": ["http://img3.douban.com/mpic/s11431224.jpg"], "desc": ["如果你只想阅读一本关于JavaScript的图书，那么本书应该是你的首选。本书由世界级JavaScript程序员撰写，JavaScript之父和多位Java... "]}
+{"title": ["Java语言程序设计"], "img": ["http://img5.douban.com/mpic/s6520557.jpg"], "desc": ["本书是Java语言的经典教材，多年来畅销不衰。本书全面整合了Java 6的特性，采用“基础优先，问题驱动”的教学方式，循序渐进地介绍了程序设计基础、解决问题... "]}
+{"title": ["Python灰帽子"], "img": ["http://img3.douban.com/mpic/s4676930.jpg"], "desc": ["《Python灰帽子》是由知名安全机构Immunity Inc的资深黑帽Justin Seitz主笔撰写的一本关于编程语言Python如何被广泛应用于黑客与... "]}
+{"title": ["学习OpenCV（中文版）"], "img": ["http://img3.douban.com/mpic/s4018970.jpg"], "desc": ["学习OpenCV（中文版），ISBN：9787302209935，作者：（美）布拉德斯基（Bradski，G.），（美）克勒（Kaehler，A.） 著，于... "]}
+{"title": ["RESTful Web APIs中文版"], "img": ["http://img5.douban.com/mpic/s27306659.jpg"], "desc": ["《RESTful Web APIs中文版》是针对RESTful API的实用指南，通过展示各种用来创建高可用应用的强大工具，讲解REST的深层原理，以及介绍... "]}
+{"title": ["Programming From The Ground Up"], "img": ["http://img3.douban.com/mpic/s1659283.jpg"], "desc": ["Programming from the Ground Up is an introduction to programming using assembl... "]}
+{"title": ["系统程序员成长计划"], "img": ["http://img5.douban.com/mpic/s4342419.jpg"], "desc": ["在学习程序开发的过程中，你是否总是为自己遇到的一些问题头疼不已，你是否还在为写不出代码而心急如焚？作为软件开发人员，你是否时时为自己如何成为一名合格的程序员... "]}
+{"title": ["Parsing Techniques"], "img": ["http://img5.douban.com/mpic/s6964789.jpg"], "desc": ["This second edition of Grune and Jacobs' brilliant work presents new developme... "]}
+{"title": ["Concepts, Techniques, and Models of Computer Programming"], "img": ["http://img3.douban.com/mpic/s4567393.jpg"], "desc": ["This innovative text presents computer programming as a unified discipline in ... "]}
+{"title": ["HTTP权威指南"], "img": ["http://img3.douban.com/mpic/s9109250.jpg"], "desc": ["超文本传输协议（Hypertext Transfer Protocol，HTTP）是在万维网上进行通信时所使用的协议方案。HTTP有很多应用，但最著名的是用... "]}
+{"title": ["The Healthy Programmer"], "img": ["http://img3.douban.com/mpic/s24595163.jpg"], "desc": ["Small changes to your habits can improve your health—without getting in the wa... "]}
+{"title": ["正则表达式必知必会"], "img": ["http://img3.douban.com/mpic/s2794811.jpg"], "desc": ["正则表达式是一种威力无比强大的武器，几乎在所有的程序设计语言里和计算机平台上都可以用它来完成各种复杂的文本处理工作。本书从简单的文本匹配开始，循序渐进地介绍... "]}
+{"title": ["More Effective C++中文版"], "img": ["http://img3.douban.com/mpic/s1483794.jpg"], "desc": ["MoreEffectiveC++的重点包括：
+　　·经过验证的一些用来改善程序效率的方法，包括尖锐而犀利地检验C++语言特性所带来的时间和空间上的成本
+　　... "]}
+{"title": ["编程之道"], "img": ["http://img5.douban.com/mpic/s1877368.jpg"], "desc": ["本书出自美国一位资深的程序设计师Geoffrey James之手。他以一种幽默、辛辣的眼光审视着发生在程序设计室里的各种故事，并运用东方的哲学思想进行深层次... "]}
+{"title": ["代码阅读方法与实践"], "img": ["http://img3.douban.com/mpic/s1114890.jpg"], "desc": ["代码阅读有自身的一套技能，重要的是能够确定什么时候使用哪项技术。本书中，作者使用600多个现实的例子，向读者展示如何区分好的（和坏的）代码，如何阅读，应该注... "]}
+{"title": ["疯狂Java讲义"], "img": ["http://img5.douban.com/mpic/s6862076.jpg"], "desc": ["《疯狂Java讲义》2000年至今，Java语言一直是应用最广的开发语言，并拥有最广泛的开发人群。如今，Java已经不再简单地是一门语言，它更像一个完整的体... "]}
+{"title": ["Python开发实战"], "img": ["http://img3.douban.com/mpic/s27275170.jpg"], "desc": ["作者从Python的环境搭建开始讲起，介绍了Web应用开发方法、任务管理，以及评审、测试及高效部署、服务器调试等内容，尽可能网罗了Python开发流程中的方... "]}
+{"title": ["Essential C++中文版"], "img": ["http://img3.douban.com/mpic/s2502373.jpg"], "desc": ["书中以4个面向来表现C++的本质：procedural（程序性的）、generic（泛型的）、object-based（个别对象的）、object-orie... "]}
+{"title": ["sed与awk"], "img": ["http://img5.douban.com/mpic/s24516209.jpg"], "desc": ["本书在一开始就给出一个概述和指南，论述了从grep到sed再到awk不断改进的功能。sed和awk具有相同的命令行语法，以脚本的形式接收用户的命令。因为所有... "]}
+{"title": ["Microsoft.NET框架程序设计"], "img": ["http://img3.douban.com/mpic/s1497283.jpg"], "desc": ["《Microsoft.NET框架程序设计》(修订版)是《微软.NET程序员系列》丛书之一，主要介绍如何开发面向Microsoft.NET框架的各种应用程序。... "]}
+{"title": ["Programming in Scala"], "img": ["http://img5.douban.com/mpic/s6971606.jpg"], "desc": ["Programming in Scala is the definitive book on Scala, the new language for the... "]}
+{"title": ["分布式Java应用"], "img": ["http://img3.douban.com/mpic/s4372843.jpg"], "desc": ["本书介绍了编写分布式Java应用涉及的众多知识点，分为了基于Java实现网络通信、RPC；基于SOA实现大型分布式Java应用；编写高性能Java应用；构建... "]}
+{"title": ["高性能JavaScript"], "img": ["http://img3.douban.com/mpic/s4538004.jpg"], "desc": ["如果你使用JavaScript构建交互丰富的Web应用，那么JavaScript代码可能是造成你的Web应用速度变慢的主要原因。《高性能JavaScript... "]}
+{"title": ["Learning Processing"], "img": ["http://img3.douban.com/mpic/s3177453.jpg"], "desc": ["Book Description
+Teaches graphic artists the fundamentals of computer programm... "]}
+{"title": ["软件故事"], "img": ["http://img3.douban.com/mpic/s27308495.jpg"], "desc": ["“本书语言流畅细腻，读起来如沐春风。它犹如一部波澜壮阔的计算机史诗，讲述了软件革命的恢弘历史，以及中流砥柱们的光辉事迹。故事并不是断断续续的，因为作者采用了... "]}
+{"title": ["iOS开发指南"], "img": ["http://img5.douban.com/mpic/s27255846.jpg"], "desc": ["内 容 提 要
+本书共4 部分：第一部分为基础篇，介绍了iOS 的一些基础知识；第二部分为网络篇，介绍了iOS 网络开发相关的知识；第三部分为进阶篇，介绍了... "]}
+{"title": ["Objective-C 2.0程序设计"], "img": ["http://img3.douban.com/mpic/s3957362.jpg"], "desc": ["本书是Objective-C领域的经典著作，对Objective-C进行了系统而全面的阐述，权威性毋庸置疑。全书共分为四大部分：第一部分全面讲解了Objec... "]}
+{"title": ["垃圾收集"], "img": ["http://img3.douban.com/mpic/s9874573.jpg"], "desc": ["书围绕着动态内存自动回收的话题，介绍了垃圾收集机制，详细分析了各种算法和相关技术。
+   本书共12章。第1章首先介绍计算机存储器管理的演化和自动内存回收的... "]}
+{"title": ["Purely Functional Data Structures"], "img": ["http://img5.douban.com/mpic/s2413338.jpg"], "desc": ["Most books on data structures assume an imperative language such as C or C++. ... "]}
+{"title": ["理解专业程序员"], "img": ["http://img5.douban.com/mpic/s1805438.jpg"], "desc": ["《理解专业程序员》通过行内专家的独特视角，介绍了如何成为优秀程序员，如何提高工作绩效等问题。全书由多篇讨论程序员职业的短文组成，内容精彩绝伦，是一部任何在这... "]}
+{"title": ["Is Parallel Programming Hard, And, If So, What Can You Do About It?"], "img": ["http://img5.douban.com/mpic/s26696787.jpg"], "desc": ["The purpose of this book is to help you understand how to program shared-memor... "]}
+{"title": ["网络游戏核心技术与实战"], "img": ["http://img3.douban.com/mpic/s27242284.jpg"], "desc": ["本书围绕实时通信、大数据量通信的多人网络游戏开发，详细介绍了普通开发者如何在不使用昂贵的中间件或者特殊开发环境的基础上，独自从零开始实现有趣的多人网络游戏系... "]}
+{"title": ["The Seasoned Schemer"], "img": ["http://img3.douban.com/mpic/s7412483.jpg"], "desc": ["drawings by Duane Bibbyforeword and afterword by Guy L. Steele Jr.The notion t... "]}
+{"title": ["深入理解Android"], "img": ["http://img3.douban.com/mpic/s11171603.jpg"], "desc": ["《深入理解Android：卷I》是一本以情景方式对Android的源代码进行深入分析的书。内容广泛，以对Framework层的分析为主，兼顾Native层和... "]}
+{"title": ["高质量程序设计指南"], "img": ["http://img5.douban.com/mpic/s2660317.jpg"], "desc": ["《高质量程序设计指南:C++、C语言》(第3版)以轻松幽默的笔调向读者论述了高质量软件开发方法与C++/C编程规范。它是作者多年从事软件开发工作的经验总结。... "]}
+{"title": ["高等应用数学问题的MATLAB求解"], "img": ["http://img5.douban.com/mpic/s3380616.jpg"], "desc": ["薛定宇和陈阳泉编著的《高等应用数学问题的MATLAB求解》首先介绍了MATLAB语言程序设计的基本内容，在此基础上系统介绍了各个应用数学领域的问题求解，如基... "]}
+{"title": ["JAVA核心技术卷2"], "img": ["http://img5.douban.com/mpic/s5970236.jpg"], "desc": ["《JAVA核心技术卷2:高级特征》是Java技术权威指南，全面覆盖Java技术的高级主题，包括流与文件、XML、网络、数据库编程、高级Swing、高级 AW... "]}
+{"title": ["JavaScript异步编程"], "img": ["http://img3.douban.com/mpic/s26700273.jpg"], "desc": ["《JavaScript异步编程：设计快速响应的网络应用》讲述基本的异步处理技巧，包括PubSub、事件模式、Promises等，通过这些技巧，可以更好地应对... "]}
+{"title": ["深入理解C#（第2版）"], "img": ["http://img3.douban.com/mpic/s24400680.jpg"], "desc": ["《深入理解C#(第2版)》是C#领域不可多得的经典著作。作者Jon Skeet在详尽地展示C#各个知识点的同时，更注重从现象中挖掘本质。本书深入探索了C#的... "]}
+{"title": ["Erlang/OTP并发编程实战"], "img": ["http://img3.douban.com/mpic/s10457041.jpg"], "desc": ["内容简介：
+通过提高CPU时钟频率来制造更快的单核芯片的技术已经到达了极限。多核、并发、分布式等概念和技术也随之走出象牙塔，成为每个一线开发者的必备技能。由... "]}
+{"title": ["Linux System Programming"], "img": ["http://img3.douban.com/mpic/s2690060.jpg"], "desc": ["Book Description
+This book is about writing software that makes the most effec... "]}
+{"title": ["征服C指针"], "img": ["http://img5.douban.com/mpic/s25799849.jpg"], "desc": ["《图灵程序设计丛书:征服C指针》被称为日本最有营养的C参考书。作者是日本著名的“毒舌程序员”，其言辞犀利，观点鲜明，往往能让读者迅速领悟要领。书中结合了作者... "]}
+{"title": ["R语言实战"], "img": ["http://img3.douban.com/mpic/s24576400.jpg"], "desc": ["数据时代已经到来，但数据分析、数据挖掘人才却十分短缺。由于“大数据”对每个领域的决定性影响，　相对于经验和直觉，在商业、经济及其他领域中基于数据和分析去发现... "]}
+{"title": ["算法设计"], "img": ["http://img5.douban.com/mpic/s2349297.jpg"], "desc": ["算法设计，ISBN：9787302143352，作者：（美）克林伯格（Kleinberg，J.），（）塔多斯（Tardos，E.） 著，张立昂，屈婉玲 译 "]}
+{"title": ["HotSpot实战"], "img": ["http://img3.douban.com/mpic/s27239513.jpg"], "desc": ["《HotSpot实战》深入浅出地讲解了HotSpot虚拟机的工作原理，将隐藏在它内部的本质内容逐一呈现在读者面前，包括OpenJDK与HotSpot项目、编... "]}
+{"title": ["深入理解C++11"], "img": ["http://img3.douban.com/mpic/s26689304.jpg"], "desc": ["《深入理解C++11:C++11新特性解析与应用》内容简介：国内首本全面深入解读C++11新标准的专著，由C++标准委员会代表和IBM XL编译器中国开发团... "]}
+{"title": ["C语言程序设计"], "img": ["http://img5.douban.com/mpic/s1150876.jpg"], "desc": ["《C语言程序》功能丰富，使用灵活，可移植性好，既具有高级语言的优点，又具有低级语言的许多特点，现可以用为编写系统软件，又可用于编写应用软件，是国内外广泛使用... "]}
+{"title": ["Linux Shell脚本攻略"], "img": ["http://img5.douban.com/mpic/s22702207.jpg"], "desc": ["《Linux Shell脚本攻略》通过细致剖析实际应用中的110多个案例，使许多看似复杂的Linux shell脚本任务迎刃而解。《Linux Shell脚... "]}
+{"title": ["Perl语言编程"], "img": ["http://img3.douban.com/mpic/s4246875.jpg"], "desc": ["这不仅仅是一本关于Perl的书籍，更是一本独一无二的开发者自己介绍该语言及其文化的书籍。Larry Wall是Perl的开发者，他就这种语言的未来发展方向提... "]}
+{"title": ["Python Algorithms"], "img": ["http://img3.douban.com/mpic/s6999960.jpg"], "desc": ["Python Algorithms explains the Python approach to algorithm analysis and desig... "]}
+{"title": ["老码识途"], "img": ["http://img5.douban.com/mpic/s21580616.jpg"], "desc": ["《老"码"识途:从机器码到框架的系统观逆向修炼之路》以逆向反汇编为线索，自底向上，从探索者的角度，原生态地刻画了对系统机制的学习，以及相关问题的猜测、追踪和... "]}
+{"title": ["高性能MySQL"], "img": ["http://img3.douban.com/mpic/s4141593.jpg"], "desc": ["本书荣获2009年Jolt图书大奖，是不可多得的分享MySQL实用经验的图书。它不但可以帮助MySQL初学者提高使用技巧，更为有经验的MySQL DBA指出... "]}
+{"title": ["统计思维"], "img": ["http://img5.douban.com/mpic/s26539958.jpg"], "desc": ["代码跑出来的概率统计问题；
+程序员的概率统计开心辞典；
+开放数据集，全代码攻略。
+现实工作中，人们常被要求用数据说话。可是，数据自己是不能说话的，只有对它进... "]}
+{"title": ["Python网络编程基础"], "img": ["http://img5.douban.com/mpic/s2604186.jpg"], "desc": []}
+{"title": ["深入理解LINUX网络内幕"], "img": ["http://img5.douban.com/mpic/s2008439.jpg"], "desc": ["本书系统地阐述了网络的基本概念，并指导你如何用C语言实现。同时描述了Linux网络的全貌，解释了Linux代码是如何工作的，主要网络特性的目的，网络通信的主... "]}
+{"title": ["计算机程序设计艺术(第3卷)-排序和查找(英文影印版)"], "img": ["http://img3.douban.com/mpic/s10384105.jpg"], "desc": ["《计算机程序设计艺术排序和查找(第3卷)(第2版)》内容简介：这是对第3卷的头一次修订，不仅是对经典计算机排序和查找技术的最全面介绍，而且还对第1卷中的数据... "]}
+{"title": ["Go Web编程"], "img": ["http://img3.douban.com/mpic/s26590964.jpg"], "desc": ["《Go Web编程》介绍如何使用Go语言编写Web，包含了Go语言的入门、Web相关的一些知识、Go中如何处理Web的各方面设计（表单、session、co... "]}
+{"title": ["应用Rails进行敏捷Web开发"], "img": ["http://img3.douban.com/mpic/s1796943.jpg"], "desc": ["这是第一本关于Ruby on Rails的著作。
+全书主要内容分为两大部分。在“构建应用程序”部分中，读者将看到一个完整的“在线购书网站” 示例。在演示的... "]}
+{"title": ["The AWK Programming Language"], "img": ["http://img3.douban.com/mpic/s3252374.jpg"], "desc": ["Originally developed by Alfred Aho, Brian Kernighan, and Peter Weinberger in 1... "]}
+{"title": ["Head First Object-Oriented Analysis and Design"], "img": ["http://img3.douban.com/mpic/s4567980.jpg"], "desc": [""Head First Object Oriented Analysis and Design" is a refreshing look at subje... "]}
+{"title": ["程序员应该知道的97件事"], "img": ["http://img5.douban.com/mpic/s4472747.jpg"], "desc": ["本书是一线程序员的经验荟萃，他们根据各自在软件工程各环节里的实践经历，现身说法，提出了自己的真知灼见，这些经验涵盖了用户需求、系统分析设计、编码实践、编码风... "]}
+{"title": ["编程匠艺"], "img": ["http://img5.douban.com/mpic/s3432749.jpg"], "desc": ["内容介绍：
+如果你可以编写出合格的代码，但是想更进一步、创作出组织良好而且易于理解的代码，并希望成为一名真正的编程专家或提高现有的职业技能，那么《编程匠艺—... "]}
+{"title": ["MySQL必知必会"], "img": ["http://img5.douban.com/mpic/s5968156.jpg"], "desc": ["《MySQL必知必会》MySQL是世界上最受欢迎的数据库管理系统之一。书中从介绍简单的数据检索开始，逐步深入一些复杂的内容，包括联结的使用、子查询、正则表达... "]}
+{"title": ["架构之美"], "img": ["http://img3.douban.com/mpic/s4018061.jpg"], "desc": ["本书围绕5个主题领域来组织本书的内容：概述、企业应用、系统、最终用户应用和编程语言。本书让最优秀的设计师和架构师来描述他们选择的软件架构，剥开架构的各层，展... "]}
+{"title": ["程序员面试逻辑题解析"], "img": ["http://img5.douban.com/mpic/s24581936.jpg"], "desc": ["《程序员面试逻辑题解析》共分为3个部分。第一部分从有趣且锻炼头脑的谜题入手，继而给出解题思路和详细答案，更有“热身问题”给大家提供充分的思考空间。第二部分综... "]}
+{"title": ["Python Tutorial"], "img": ["http://img3.douban.com/mpic/s4251645.jpg"], "desc": ["最权威的 Python 教程，由 Python 作者 Guido van Rossum 主笔，有少许学院味道。中文电子版由刘鑫、李梦夷翻译。英文原稿网址：h... "]}
+{"title": ["Linkers and Loaders"], "img": ["http://img3.douban.com/mpic/s3667213.jpg"], "desc": ["Whatever your programming language, whatever your platform, you probably tap i... "]}
+{"title": ["C++GUI Qt4编程"], "img": ["http://img3.douban.com/mpic/s5934624.jpg"], "desc": ["《C++GUIQt4编程》(第2版)详细讲述了用最新的Qt版本进行图形用户界面应用程序开发的各个方面。前5章主要涉及Qt基础知识，后两个部分主要讲解Qt的中... "]}
+{"title": ["Android 4高级编程"], "img": ["http://img5.douban.com/mpic/s26343747.jpg"], "desc": ["《Android 4高级编程(第3版)》由Android权威专家编写，涵盖了所有最新的内容，是学习使用Android 4 SDK开发移动应用程序的理想指南。... "]}
+{"title": ["算法I～IV（C++实现）――基础、数据结构、排序和搜索（第三版）"], "img": ["http://img3.douban.com/mpic/s1693791.jpg"], "desc": ["Robert Sedgewick完全重写了他的著作，对它进行了充分的扩展和更新，涵盖了目前重要的算法和数据结构。Christopher Van Wyk和Se... "]}
+{"title": ["Paradigms of Artificial Intelligence Programming"], "img": ["http://img3.douban.com/mpic/s4295582.jpg"], "desc": ["Paradigms of AI Programming is the first text to teach advanced Common Lisp te... "]}
+{"title": ["CPU自制入门"], "img": ["http://img5.douban.com/mpic/s27160217.jpg"], "desc": ["一直以来CPU内部是绝大多数IT工程师难以触及的领域。纵使学习过计算机架构相关课程，自己动手实现CPU也始终遥不可及，因为这涉及计算机系统的最底层——芯片设... "]}
+{"title": ["COM本质论"], "img": ["http://img3.douban.com/mpic/s1645411.jpg"], "desc": ["自1993年COM首次发布以来，COM本身经历了重大的变化，但是它的基本思想和结构一直保持相对稳定，这也正说明了COM思想的魅力所在。尽管如此，由于COM的... "]}
+{"title": ["深入解析Windows操作系统"], "img": ["http://img3.douban.com/mpic/s4047771.jpg"], "desc": ["本书是著名的操作系统内核专家Mark Russinovich和David Solomon撰写的Windows操作系统原理的最新版著作，全面和深入地阐述了Wi... "]}
+{"title": ["编程卓越之道"], "img": ["http://img3.douban.com/mpic/s1654414.jpg"], "desc": ["各位程序员一定希望自己编写的代码是能让老板赞赏、满意的代码；是能让客户乐意掏钱购买的代码；是能让使用者顺利使用的代码；是能让同行欣赏赞誉的代码；是能让自己引... "]}
+{"title": ["格蠹汇编"], "img": ["http://img3.douban.com/mpic/s26249670.jpg"], "desc": ["《格蠹汇编:软件调试案例集锦》以案例形式讨论了使用调试技术解决复杂软件问题的工具和方法。全书共36章，分为四篇。前两篇每章讲述一个有代表性的真实案例。第三篇... "]}
+{"title": ["算法：C语言实现"], "img": ["http://img3.douban.com/mpic/s6083105.jpg"], "desc": ["《算法:C语言实现(第1-4部分)基础知识、数据结构、排序及搜索(原书第3版)》细腻讲解计算机算法的C语言实现。全书分为四部分，共16章。包括基本算法分析原... "]}
+{"title": ["The Nature of Code"], "img": ["http://img3.douban.com/mpic/s24515412.jpg"], "desc": ["How can we capture the unpredictable evolutionary and emergent properties of n... "]}
+{"title": ["疯狂Android讲义"], "img": ["http://img5.douban.com/mpic/s6641009.jpg"], "desc": ["计算机便携化是未来的发展趋势，而Android作为最受欢迎的手机、平
+板电脑操作之一，其发展的上升势头是势不可当的。而Android应用选择了
+Java作为... "]}
+{"title": ["深度探索Linux操作系统"], "img": ["http://img5.douban.com/mpic/s27086347.jpg"], "desc": ["《深度探索linux操作系统：系统构建和原理解析》是探索linux操作系统原理的里程碑之作，在众多的同类书中独树一帜。它颠覆和摒弃了传统的从阅读linux内... "]}
+{"title": ["游戏编程中的人工智能技术"], "img": ["http://img3.douban.com/mpic/s1722354.jpg"], "desc": ["《游戏编程中的人工智能技术》是人工智能游戏编程的一本指南性读物，介绍在游戏开发中怎样应用遗传算法和人工神经网络来创建电脑游戏中所需要的人工智能。书中包含了许... "]}
+{"title": ["C程序设计（第三版）"], "img": ["http://img5.douban.com/mpic/s1512029.jpg"], "desc": ["《C语言设计(第3版)》的第一版于1991年出版，第二版于1999年出版。由于《C语言设计(第3版)》作者具有丰富的教学经验和编写教材的经验，并针对初学者的... "]}
+{"title": ["WINDOWS游戏编程大师技巧<第2版>(附光盘)"], "img": ["http://img3.douban.com/mpic/s1270644.jpg"], "desc": ["《WINDOWS游戏编程大师技巧》(第2版）介绍了在Windows环境下进行游戏编程所需用到的各方面知识，作者是著名的游戏开发大师Andrè LaMothe... "]}
+{"title": ["泛型编程与STL"], "img": ["http://img3.douban.com/mpic/s1832300.jpg"], "desc": ["《泛型编程与STL》阐述了泛型编程的中心思想：concepts、modeling、refinement,并为你展示这些思想如何导出STL的基础概念：iter... "]}
+{"title": ["JavaScript面向对象编程指南"], "img": ["http://img3.douban.com/mpic/s26097721.jpg"], "desc": ["《JavaScript面向对象编程指南》内容包括：JavaScript作为一门浏览器语言的核心思想；面向对象编程的基础知识及其在JavaScript中的运用... "]}
+{"title": ["JAVASCRIPT语言精髓与编程实践"], "img": ["http://img3.douban.com/mpic/s2970031.jpg"], "desc": ["《JAVASCRIPT语言精髓与编程实践》讲述了JavaScript的语言实现与扩展，主要包括以下三个方面的内容：（1）动态、函数式语言，以及其它语言特性在... "]}
+{"title": ["Linux程序设计"], "img": ["http://img3.douban.com/mpic/s8886970.jpg"], "desc": ["《Linux 程序设计(第3版)》讲述在Linux系统及其他UNIX风格的操作系统上进行的程序开发，主要内容包括标准Linux C语言函数库和由不同的Lin... "]}
+{"title": ["Effective JavaScript"], "img": ["http://img5.douban.com/mpic/s27274299.jpg"], "desc": ["Effective 系列丛书经典著作，亚马逊五星级畅销书，Ecma 的JavaScript 标准化委员会著名专家撰写，JavaScript 语言之父、Moz... "]}
+{"title": ["数据结构与算法JavaScript描述"], "img": ["http://img5.douban.com/mpic/s27371758.jpg"], "desc": ["通过本书的学习，读者将能自如地选择最合适的数据结构与算法，并在JavaScript开发中懂得权衡使用。此外，本书也概述了与数据结构与算法相关的JavaScr... "]}
+{"title": ["Head First SQL"], "img": ["http://img3.douban.com/mpic/s4813861.jpg"], "desc": ["Head First SQL is about RDBMS (databases) specifically mySQL (version 5.0 or n... "]}
+{"title": ["R Cookbook"], "img": ["http://img5.douban.com/mpic/s4678116.jpg"], "desc": ["With more than 200 practical recipes, this book helps you perform data analysi... "]}
+{"title": ["C++模板元编程"], "img": ["http://img3.douban.com/mpic/s6092793.jpg"], "desc": ["C++模板元编程，ISBN：9787111267423，作者：（美）大卫 等著，荣耀 译 "]}
+{"title": ["Web开发秘方"], "img": ["http://img3.douban.com/mpic/s26538195.jpg"], "desc": ["猜猜硅谷的前端工程师怎么折腾JS的？想知道无限下拉的列表怎么做吗？你知道DropBox可以当Web服务器用吗？你知道怎么做出跨平台的幻灯片效果吗？不借助插件... "]}
+{"title": ["复杂性思考"], "img": ["http://img3.douban.com/mpic/s26523313.jpg"], "desc": ["本书的灵感来源于无聊与迷恋的感觉：对常规的数据结构与算法介绍的无聊，对复杂系统的迷恋。数据结构的问题在于教师在教授这门课程的时候通常不会调动起学生的积极性；... "]}
+{"title": ["C#本质论"], "img": ["http://img5.douban.com/mpic/s4459588.jpg"], "desc": ["《C#本质论(第3版)》是一部好评如潮的语言参考书，作者用一种非常合理的方式来组织《C#本质论(第3版)》的内容，由浅人深地介绍了C#语言的各个方面。全书共... "]}
+{"title": ["人月神话"], "img": ["http://img3.douban.com/mpic/s1973562.jpg"], "desc": ["作者为人们管理复杂项目提供了颇具洞察力的见解，既有很多发人深省的观点，也有大量的软件工程实践。书中的内容来自布鲁克斯在IBM公司System 360家族和O... "]}
+{"title": ["写给大家看的面向对象编程书"], "img": ["http://img5.douban.com/mpic/s3772179.jpg"], "desc": ["《写给大家看的面向对象编程书(第3版)》是一部独具特色的面向对象技术著作。书中结合代码示例生动透彻地讲述了面向对象思想的精髓，让读者真正学会以对象方式进行思... "]}
+{"title": ["Processing: Creative Coding and Computational Art"], "img": ["http://img5.douban.com/mpic/s2659678.jpg"], "desc": ["Create code art, visualizations, and interactive applications with this powerf... "]}
+{"title": ["游戏开发中的人工智能"], "img": ["http://img5.douban.com/mpic/s1877566.jpg"], "desc": ["你的游戏是否有角色不能任意走动？是否有角色走进障碍物？是否有非玩家角色不能按照团队运动？现在你就可以掌握高级人工智能（AI）技术以解决这些问题。不管你是编程... "]}
+{"title": ["Python编程（第三版·英文影印版）"], "img": ["http://img5.douban.com/mpic/s2396946.jpg"], "desc": ["《Python编程 第三版》已经成为Python用户的行业标准，且更加完善。第三版进行的更新反映了当前的最佳实践以及在语言的最新版本Python 2.5中引... "]}
+{"title": ["Java程序员修炼之道"], "img": ["http://img3.douban.com/mpic/s26812781.jpg"], "desc": ["本书分为四部分，第一部分全面介绍Java 7 的新特性，第二部分探讨Java 关键编程知识和技术，第三部分讨论JVM 上的新语言和多语言编程，第四部分将平台... "]}
+{"title": ["Go语言程序设计"], "img": ["http://img5.douban.com/mpic/s26853447.jpg"], "desc": ["国外最经典的Go语言著作，Go语言编程的先驱者Mark Summerfield的实践经验总结。
+这是一本Go语言实战指南，帮你了解Go语言，按Go语言的方式... "]}
+{"title": ["iPhone开发基础教程"], "img": ["http://img5.douban.com/mpic/s3664046.jpg"], "desc": ["Apple公司的iPhone已经开创了移动平台新纪元！它与App Store的绝配也为全世界的程序员提供了一个施展才华的全新大舞台。只要有新奇的创意，你完全... "]}
+{"title": ["实现模式"], "img": ["http://img3.douban.com/mpic/s3413220.jpg"], "desc": ["在这本新书《实现模式》里面， Kent Beck将自己多年形成的编程习惯以及阅读既有代码的体验凝练成了编程中的价值观、原则和77种实现模式。
+沟通、简单和灵... "]}
+{"title": ["ppk谈JavaScript"], "img": ["http://img5.douban.com/mpic/s2984236.jpg"], "desc": ["本书全方位介绍了JavaScript，主要讨论了浏览器兼容性、可访问性、底层语法以及与HTML结构层的协同等问题。书中既包括理论性的讲解，又给出了相关的示例... "]}
+{"title": ["API Design for C++"], "img": ["http://img5.douban.com/mpic/s4669087.jpg"], "desc": ["The design of application programming interfaces can affect the behavior, capa... "]}
+{"title": ["Redis入门指南"], "img": ["http://img3.douban.com/mpic/s26559363.jpg"], "desc": ["《Redis入门指南》是一本Redis的入门指导书籍，以通俗易懂的方式介绍了Redis基础与实践方面的知识，包括历史与特性、在开发和生产环境中部署运行Red... "]}
+{"title": ["大规模C++程序设计"], "img": ["http://img5.douban.com/mpic/s1459617.jpg"], "desc": ["在本书中，Lakos介绍了将大型系统分解成较小且较好管理的组件层次结构（不是继承）的过程。这种具有非循环物理依赖的系统的维护、测试和重用从根本上比相互紧密依... "]}
+{"title": ["iOS 6编程实战"], "img": ["http://img3.douban.com/mpic/s25933771.jpg"], "desc": ["iOS开发如日中天，iOS 6又为我们带来了大量的高级特性，从事移动开发的你，还等什么？
+本书急开发者之所急，揭秘了多数开发类图书未曾展示过的iOS 6高级... "]}
+{"title": ["代码优化"], "img": ["http://img5.douban.com/mpic/s9996117.jpg"], "desc": ["
+       "]}
+{"title": ["计算机程序设计艺术（第2卷）"], "img": ["http://img3.douban.com/mpic/s1973465.jpg"], "desc": ["本书是国内外业界广泛关注的7卷本《计算机程序设计艺术》第2卷的最新版。本卷对半数值算法领域做了全面介绍，分“随机数”和“算术”两章。本卷总结了主要算法范例及... "]}
+{"title": ["How to Think Like a Computer Scientist: Learning with Python"], "img": ["http://img5.douban.com/mpic/s1498716.jpg"], "desc": ["""How to Think Like a Computer Scientist"" is an introduction to programming u... "]}
+{"title": ["JavaScript DOM编程艺术"], "img": ["http://img3.douban.com/mpic/s1958902.jpg"], "desc": ["本书讲述了JavaScript和DOM的基础知识，但重点放在DOM编程技术背后的思路和原则：预留退路、循序渐进和以用户为中心等，这些概念对于任何前端Web开... "]}
+{"title": ["Intel汇编语言程序设计"], "img": ["http://img3.douban.com/mpic/s9000435.jpg"], "desc": ["《国外计算机科学教材系列•Intel汇编语言程序设计(第5版)》全面细致地讲述了汇编语言程序设计的各个方面。从微处理器体系结构、工作机制到指令集；从最基本的... "]}
+{"title": ["Writing Efficient Programs"], "img": ["http://img3.douban.com/mpic/s3780111.jpg"], "desc": []}
+{"title": ["软件调试的艺术"], "img": ["http://img3.douban.com/mpic/s6094220.jpg"], "desc": ["调试对于软件的成败至关重要，正确使用恰当的调试工具可以提高发现和改正错误的效率。《软件调试的艺术》详细介绍了3种调试器，GDB用于逐行跟踪程序、设置断点、检... "]}
+{"title": ["SciPy and NumPy"], "img": ["http://img5.douban.com/mpic/s8985158.jpg"], "desc": ["SciPy is open-source software for mathematics, science, and engineering. The S... "]}
+{"title": ["Functional JavaScript"], "img": ["http://img3.douban.com/mpic/s25996532.jpg"], "desc": ["While some web developers dismiss JavaScript as a flawed language, this succin... "]}
+{"title": ["Effective Objective-C 2.0"], "img": ["http://img5.douban.com/mpic/s25790597.jpg"], "desc": ["Write Truly Great iOS and OS X Code with Objective-C 2.0! Effective Objective-... "]}
+{"title": ["Objective-C 程序设计"], "img": ["http://img3.douban.com/mpic/s22783480.jpg"], "desc": ["《Objective-C程序设计(第4版)》是一本Objective—C编程领域最畅销的书籍，内容涵盖Xcode 4.2和自动引用计数（ARC）。《Obje... "]}
+{"title": ["MATLAB数值计算"], "img": ["http://img3.douban.com/mpic/s1765824.jpg"], "desc": ["《MATLAB数值计算》是关于数值方法、MATLAB软件和工程计算的教材，着重介绍数学软件的熟练使用及其内在的高效率算法。主要内容包括：MATLAB介绍、线... "]}
+{"title": ["Python参考手册（第4版）"], "img": ["http://img3.douban.com/mpic/s4568752.jpg"], "desc": ["本书是权威的Python语言参考指南，内容涉及核心Python语言和Python库的最重要部分。本书内容简洁扼要、可读性强，书中还包括了一些没有在Pytho... "]}
+{"title": ["程序员实用算法"], "img": ["http://img5.douban.com/mpic/s6058499.jpg"], "desc": ["《程序员实用算法》重点关注的是实用、立即可用的代码，并且广泛讨论了可移植性和特定于实现的细节。《程序员实用算法》作者介绍了一些有用但很少被讨论的算法，它们可... "]}
+{"title": ["Dive Into Python 3"], "img": ["http://img3.douban.com/mpic/s4059293.jpg"], "desc": ["Mark Pilgrim's Dive Into Python 3 is a hands-on guide to Python 3 (the latest ... "]}
+{"title": ["Android应用性能优化"], "img": ["http://img5.douban.com/mpic/s22718876.jpg"], "desc": ["内容简介：
+今天的Android应用开发者经常要想尽办法来提升程序性能。由于应用越来越复杂，这个问题也变得越来越棘手。本书主要介绍如何快速高效地优化应用，让... "]}
+{"title": ["游戏编程全接触"], "img": ["http://img5.douban.com/mpic/s9076436.jpg"], "desc": ["本书从游戏是怎样一个行业到游戏业中形形色色的人；从细琐的技巧和算法，到游戏的结构和架构；从调试技巧到进度里程碑的创建和项目进度的管理，共15章，分成四大部分... "]}
+{"title": ["编程的修炼（中英双语）"], "img": ["http://img5.douban.com/mpic/s27059638.jpg"], "desc": ["本书是图灵奖获得者Edsger W. Dijkstra在编程领域里的经典著作中的经典。作者基于其敏锐的洞察力和长期的实际编程经验，对基本顺序程序的描述和开发... "]}
+{"title": ["明解C语言"], "img": ["http://img3.douban.com/mpic/s26705644.jpg"], "desc": ["《明解C语言》图文并茂，示例丰富，设有190段代码和164幅图表，对C语言的基础知识进行了彻底剖析，内容涉及数组、函数、指针、文件操作等。对于C语言语法以及... "]}
+{"title": ["Learning Android"], "img": ["http://img5.douban.com/mpic/s7022689.jpg"], "desc": ["If you're new to the Android mobile operating system,  Learning Android  is th... "]}
+{"title": ["了不起的Node.js"], "img": ["http://img3.douban.com/mpic/s27132823.jpg"], "desc": ["本书是一本经典的 Learning by Doing的书籍。它由 Node社区著名的 Socket.IO作者—— Guillermo Rauch，通过大量的... "]}
+{"title": ["如何求解问题"], "img": ["http://img5.douban.com/mpic/s1408357.jpg"], "desc": ["《如何求解问题:现代启发式方法》通过一系列贯穿于章节间的有趣难题，《如何求解问题:现代启发式方法》深入浅出地阐述了如何利用计算机来求解问题的一些现代启发式方... "]}
+{"title": ["Accelerated C++中文版"], "img": ["http://img3.douban.com/mpic/s1157890.jpg"], "desc": ["《Accelerated C++中文版》给人的印象会如此深刻呢?这是因为： 
+　　●它一开始就向读者教导那些最有用的概念，而不是那些简单的注释 读者很快就能... "]}
+{"title": ["C++高级编程"], "img": ["http://img3.douban.com/mpic/s1514435.jpg"], "desc": []}
+{"title": ["Python入门经典"], "img": ["http://img5.douban.com/mpic/s23111469.jpg"], "desc": ["《Python入门经典:以解决计算问题为导向的Python编程实践》是一本系统而科学的Python入门教程，美国密歇根州立大学等多所美国知名高校采用其作为编... "]}
+{"title": ["The Definitive Guide to Django"], "img": ["http://img3.douban.com/mpic/s3021613.jpg"], "desc": ["Django, the Python-based equivalent to the Ruby on Rails web development frame... "]}
+{"title": ["HTTP Developer's Handbook"], "img": ["http://img5.douban.com/mpic/s11284009.jpg"], "desc": ["The largest group with an unsatisfied demand for a good book on HTTP is the wo... "]}
+{"title": ["编程卓越之道"], "img": ["http://img3.douban.com/mpic/s24637474.jpg"], "desc": ["《编程卓越之道第二卷:运用底层语言思想编写高级语言代码》是《编程卓越之道》系列书的第二卷，将探讨怎样用高级语言（而非汇编语言）编程得到高效率机器代码。在书中... "]}
+{"title": ["调试九法"], "img": ["http://img5.douban.com/mpic/s4546989.jpg"], "desc": ["硬件缺陷和软件错误是“技术侦探”的劲敌，它们负隅顽抗，见缝插针。本书提出的九条简单实用的规则，适用于任何软件应用程序和硬件系统，可以帮助软硬件调试工程师检测... "]}
+{"title": ["Windows内核原理与实现"], "img": ["http://img3.douban.com/mpic/s4339253.jpg"], "desc": ["本书从操作系统原理的角度，详细解析了Windows如何实现现代操作系统的各个关键部件，包括进程、线程、物理内存和虚拟内存的管理，Windows中的同步和并发... "]}
+{"title": ["UNIX超级工具 （第二版，上下卷）"], "img": ["http://img3.douban.com/mpic/s7033840.jpg"], "desc": ["UNIX操作系统自20世纪70年代由贝尔实验室推出以来，20世纪80年代经过一些大学、研究所、工业实验室的应用和发展，现已成为全世界计算机网络通信、工作站系... "]}
+{"title": ["C语言的科学和艺术"], "img": ["http://img3.douban.com/mpic/s5668324.jpg"], "desc": ["《C语言的科学和艺术》是计算机科学的经典教材，介绍了计算机科学的基础知识和程序设计的专门知识。《C语言的科学和艺术》以介绍ANSI C为主线，不仅涵盖C语言... "]}
+{"title": ["凌波微步(软件开发警戒案例集)"], "img": ["http://img5.douban.com/mpic/s1458547.jpg"], "desc": ["本书是面向程序员的“天龙八部”，真正的编程高手是在千锤百炼之后诞生的。其中的酸甜苦辣均凝结在本书的字里行间，尤为珍贵的是文中的“秘笈”将会是无名小卒脱胎换骨... "]}
+{"title": ["Android的设计与实现"], "img": ["http://img5.douban.com/mpic/s27267639.jpg"], "desc": ["本书是Android应用开发工程师和Android系统工程师进阶修炼的必读之作。它由资深Android内核专家亲自执笔，从源代码角度，系统、深入、透彻剖析A... "]}
+{"title": ["Objective-C高级编程"], "img": ["http://img5.douban.com/mpic/s27266266.jpg"], "desc": ["本书在苹果公司公开的源代码基础上，深入剖析了对应用于内存管理的ARC 以及应用于多线程开发的Blocks 和GCD。这些新技术看似简单，实则非常容易成为技术... "]}
+{"title": ["琢石成器"], "img": ["http://img5.douban.com/mpic/s3831356.jpg"], "desc": ["Windows环境下32位汇编语言是一种全新的编程语言。它使用与C++语言相同的API接口，不仅可以开发出大型的软件，而且是了解操作系统运行细节的最佳方式。... "]}
+{"title": ["DirectX 9.0 3D游戏开发编程基础"], "img": ["http://img5.douban.com/mpic/s5819437.jpg"], "desc": ["《DirectX 9.0 3D游戏开发编程基础》主要介绍如何使用DirectX 9.0开发交互式3D图形程序，重点是游戏开发。全书首先介绍了必要的数学工具，... "]}
+{"title": ["Head First JavaScript"], "img": ["http://img3.douban.com/mpic/s4813892.jpg"], "desc": ["Want to make the leap from writing HTML and CSS web pages and create dynamic w... "]}
+{"title": ["智能Web算法"], "img": ["http://img5.douban.com/mpic/s6570389.jpg"], "desc": ["本书涵盖了五类重要的智能算法：搜索、推荐、聚类、分类和分类器组合，并结合具体的案例讨论了它们在Web应用中的角色及要注意的问题。除了第1章的概要性介绍以及第... "]}
+{"title": ["Java Nio"], "img": ["http://img5.douban.com/mpic/s27298846.jpg"], "desc": ["Many serious Java programmers, especially enterprise Java programmers, conside... "]}
+{"title": ["Release It!"], "img": ["http://img3.douban.com/mpic/s4280015.jpg"], "desc": ["“Feature complete” is not the same as “production ready.”
+Whether it’s in Java... "]}
+{"title": ["程序开发心理学"], "img": ["http://img3.douban.com/mpic/s1280051.jpg"], "desc": ["
+       "]}
+{"title": ["VC++深入详解"], "img": ["http://img5.douban.com/mpic/s8446897.jpg"], "desc": ["《VC++深入详解》主要从程序内部运行的机制和MFC程序的组织脉络入手，使读者在学习VC++编程知识时，既能够知其然，又能知其所以然，从而帮助读者从根本上理... "]}
+{"title": ["Elements of Programming Interviews"], "img": ["http://img5.douban.com/mpic/s27150016.jpg"], "desc": []}
+{"title": ["简约之美"], "img": ["http://img3.douban.com/mpic/s24642460.jpg"], "desc": ["《简约之美:软件设计之道》将软件设计作为一门严谨的科学，阐述了开发出优雅简洁的代码所应该遵循的基本原则。作者从为什么以前软件设计没有像数学等学科一样成为一门... "]}
+{"title": ["C#入门经典"], "img": ["http://img3.douban.com/mpic/s25791815.jpg"], "desc": ["《C#入门经典》(第3版)将全面介绍C#编程的所有知识，共分为5篇：第1篇是C#语言：介绍了C#语言的所有内容，从基础知识到面向对象的技术，应有尽有。第2篇... "]}
+{"title": ["C++Templates中文版"], "img": ["http://img3.douban.com/mpic/s24550563.jpg"], "desc": ["本书是C++模板编程的完全指南，旨在通过基本概念、常用技巧和应用实例3方面的有用资料，为读者打下C++模板知识的坚实基础。
+全书共22章。第1章全面介绍了本... "]}
+{"title": ["高级Bash 脚本编程指南"], "img": ["http://img5.douban.com/mpic/s24938826.jpg"], "desc": ["此书是开源的，html版本：http://www.tldp.org/LDP/abs/html/ PDF版本：http://www.tldp.org/LDP/... "]}
+{"title": ["Python UNIX 和Linux 系统管理指南"], "img": ["http://img3.douban.com/mpic/s6072862.jpg"], "desc": ["《Python UNIX和Linux系统管理指南》介绍了Python语言如何为管理uNIx和Linux服务器提供各种更加有效的任务处理方式。书中各章都提出了... "]}
+{"title": ["Linux命令、编辑器与Shell编程"], "img": ["http://img5.douban.com/mpic/s2338599.jpg"], "desc": ["1. 它是Pearson、Amazon、Bames&Noble 计算机畅销书！
+2. 知名Linux专家Mark Sobell 编写的这本书，为系统管理员、... "]}
+{"title": ["Exceptional C++ Style中文版"], "img": ["http://img5.douban.com/mpic/s10354779.jpg"], "desc": ["软件“风格”所要讨论的主题是如何在开销与功能之间、优雅与可维护性之间、灵活。性与过分灵活之间寻找完美的平街点。在本书中，著名的C++大师Herb Sutte... "]}
+{"title": ["Ruby on Rails Tutorial"], "img": ["http://img3.douban.com/mpic/s27285655.jpg"], "desc": [""Ruby on Rails(TM) Tutorial by Michael Hartl has become a must-read for develo... "]}
+{"title": ["苹果开发之Cocoa编程"], "img": ["http://img3.douban.com/mpic/s3890550.jpg"], "desc": ["从零开始学习Cocoa的首选图书.
+涵盖了最新的Mac编程技术
+高级Mac OS X开发者们联手强烈推荐..
+Mac OS X编程图书的标杆
+Aaron H... "]}
+{"title": ["面向对象分析与设计"], "img": ["http://img3.douban.com/mpic/s6052824.jpg"], "desc": ["《面向对象分析与设计(第3版)》是UML创始人Grady Booch的代表作之一，书中介绍的概念都基于牢固的理论基础。同时，《面向对象分析与设计(第3版)》... "]}
+{"title": ["Head First PHP & MySQL（中文版）"], "img": ["http://img3.douban.com/mpic/s6301934.jpg"], "desc": ["通过《深入浅出PHP&MySQL(影印版)》，你将学习：准备好把你的静态HTML网页提升到下一个层次并使用PHP和MySQL建立数据库驱动的网站了吗？《深入... "]}
+{"title": ["Boost程序库完全开发指南"], "img": ["http://img5.douban.com/mpic/s6221009.jpg"], "desc": ["《Boost程序库完全开发指南:深入C++"准"标准库》内容简介：Boost是一个功能强大、构造精巧、跨平台、开源并且完全免费的C++程序库，有着“C++‘... "]}
+{"title": ["程序员的数学思维修炼（趣味解读）"], "img": ["http://img3.douban.com/mpic/s27247453.jpg"], "desc": ["本书是一本专门为程序员而写的数学书，介绍了程序设计中常用的数学知识。本书门槛不高，不需要读者精通很多高深的数学知识，只需要读者具备基本的四则运算、乘方等数学... "]}
+{"title": ["Understanding Computation"], "img": ["http://img3.douban.com/mpic/s26742101.jpg"], "desc": ["Finally, you can learn computation theory and programming language design in a... "]}
+{"title": ["Eloquent Ruby"], "img": ["http://img5.douban.com/mpic/s4683957.jpg"], "desc": ["It's easy to write correct Ruby code, but to gain the fluency needed to write ... "]}
+{"title": ["Operating Systems"], "img": ["http://img5.douban.com/mpic/s22714667.jpg"], "desc": ["A book about modern operating systems. Topics are broken down into three major... "]}
+{"title": ["C语言参考手册(原书第5版)"], "img": ["http://img3.douban.com/mpic/s9839421.jpg"], "desc": []}
+{"title": ["Linux高性能服务器编程"], "img": ["http://img3.douban.com/mpic/s26684904.jpg"], "desc": ["本书是Linux服务器编程领域的经典著作，由资深Linux软件开发工程师撰写，从网络协议、服务器编程核心要素、原理机制、工具框架等多角度全面阐释了编写高性能... "]}
+{"title": ["会说话的代码——书写自表达代码之道"], "img": ["http://img3.douban.com/mpic/s26835874.jpg"], "desc": ["写得不好的代码有各种各样的问题，会给读者带来不好的阅读体验，并且如果代码写得不够好，文档和代码不一致，注释和代码不一致，那么对维护人员来说，理解代码和进入项... "]}
+{"title": ["从问题到程序"], "img": ["http://img5.douban.com/mpic/s1448558.jpg"], "desc": ["本书以C作为讨论程序设计的语言，讨论了基本程序设计的各方面问题。书中给出程序实例时没有采用常见的提出问题，给出解答，再加些解释的简单三步形式，而是增加了许多... "]}
+{"title": ["Git权威指南"], "img": ["http://img3.douban.com/mpic/s6523000.jpg"], "desc": ["《Git权威指南》是Git领域的集大成之作，是一本关于Git的百科全书，在广度、深度和实战性上让同类作品望尘莫及。作者是国内顶尖的版本控制专家和咨询顾问之一... "]}
+{"title": ["More Exceptional C++中文版"], "img": ["http://img3.douban.com/mpic/s9788441.jpg"], "desc": ["More Exceptional C++是Exceptional C++的续篇。根据多年程序开发的实践经验、Herb Sutter向C++程序员提供了久经考... "]}
+{"title": ["C语言核心技术"], "img": ["http://img3.douban.com/mpic/s3395381.jpg"], "desc": ["C程序员在编写程序时手头一定要有这本书。在这本书中，C 语言专家 Peter Prinz和Tony Crawford为你提供大量的编程参考信息。全书叙述清晰... "]}
+{"title": ["计算机程序设计艺术"], "img": ["http://img3.douban.com/mpic/s5745084.jpg"], "desc": ["生成所有元组和排列：计算机程序设计艺术（第4卷 第2册 双语版），ISBN：9787111177739，作者：苏运霖 "]}
+{"title": ["寒江独钓"], "img": ["http://img3.douban.com/mpic/s3824812.jpg"], "desc": ["本书从Windows内核编程出发，全面系统地介绍了串口、键盘、磁盘、文件系统、网络等相关的Windows内核模块的编程技术，以及基于这些技术实现的输入密码保... "]}
+{"title": ["理解Unix进程"], "img": ["http://img5.douban.com/mpic/s26592239.jpg"], "desc": ["《理解Unix进程》从Unix编程的基础概念着手，采用循序渐进的方法，详细介绍了Unix进程的内部工作原理。《理解Unix进程》提供的许多简单而强大的技术，... "]}
+{"title": ["JavaScript编程全解"], "img": ["http://img3.douban.com/mpic/s27133074.jpg"], "desc": ["本书全方位地介绍了JavaScript开发中的各个主题，无论是前端还是后端的JavaScript开发者都可以在本书中找到自己需要的内容。本书对HTML5、W... "]}
+{"title": ["PHP核心技术与最佳实践"], "img": ["http://img3.douban.com/mpic/s27276430.jpg"], "desc": ["《PHP核心技术与最佳实践》是一本致力于为希望成为中高级PHP程序员的读者提供高效而有针对性指导的经典著作。系统归纳和深刻解读了PHP开发中的编程思想、底层... "]}
+{"title": ["挑战编程"], "img": ["http://img3.douban.com/mpic/s6050343.jpg"], "desc": ["《挑战编程:程序设计竞赛训练手册》分为14章，分别介绍在线评测系统的基本使用方法、数据结构、字符串、排序、算术与代数、组合数学、数论、回溯法、图遍历、图算法... "]}
+{"title": ["Windows高级调试"], "img": ["http://img3.douban.com/mpic/s3824924.jpg"], "desc": ["本书主要讲解Windows高级调试思想和工具，并涉及一些高级调试主题。本书内容主要包括：工具简介、调试器简介、调试器揭密、符号文件与源文件的管理、栈内存破坏... "]}
+{"title": ["GNU Emacs Lisp 编程入门"], "img": ["http://img3.douban.com/mpic/s26011650.jpg"], "desc": ["本书的作者罗伯特·卡塞尔是自由软 "]}
+{"title": ["图解HTTP"], "img": ["http://img3.douban.com/mpic/s27283822.jpg"], "desc": ["本书对互联网基盘——HTTP协议进行了全面系统的介绍。作者由HTTP协议的发展历史娓娓道来，严谨细致地剖析了HTTP协议的结构，列举诸多常见通信场景及实战案... "]}
+{"title": ["提高C++性能的编程技术"], "img": ["http://img3.douban.com/mpic/s4682141.jpg"], "desc": ["很多程序员及软件设计师都认为，用c++开发意味着放弃程序性能提升的可能。在很多人眼里，使用c++来开发那些效率至上的应用无疑将导致一场空前的浩劫。因此，在许... "]}
+{"title": ["C#与.NET 3.5高级程序设计"], "img": ["http://img5.douban.com/mpic/s3633229.jpg"], "desc": ["《C#与.NET 3.5高级程序设计》(第4版)是C#领域久负盛名的经典著作，深入全面地叙述了C#编程语言和.NET平台核心，并以大量示例剖析相关概念。书中... "]}
+{"title": ["TCP/IP高效编程"], "img": ["http://img5.douban.com/mpic/s4685889.jpg"], "desc": ["作为网络程序员，你是否发现自己的应用程序远远不够健壮？那么，你需要了解编写高效TCP/IP程序所需的各种知识。本书正是这么一本经典著作，它专注于协议族中那些... "]}
+{"title": ["Rapid GUI Programming with Python and Qt"], "img": ["http://img3.douban.com/mpic/s3936330.jpg"], "desc": ["The Insider's Best-Practice Guide to Rapid PyQt 4 GUI Development  Whether you... "]}
+{"title": ["程序员面试攻略"], "img": ["http://img5.douban.com/mpic/s2833948.jpg"], "desc": ["《程序员面试攻略》介绍程序员在求职过程所面临的求职沟通和程序设计技能两个方面的问题。在程序设计技能方面，《程序员面试攻略》介绍了作为一名程序员必须具备的一些... "]}
+{"title": ["代码之道"], "img": ["http://img5.douban.com/mpic/s3316626.jpg"], "desc": ["本书总共有49个栏目，以一位微软内部人士的视角，揭示了关于软件编码、软件测试和项目管理的残酷现实。作者文笔犀利，见解独到，对软件行业内的很多常见问题提出了解... "]}
+{"title": ["Google Android开发入门指南"], "img": ["http://img5.douban.com/mpic/s6089507.jpg"], "desc": ["《Google Android开发入门指南(第2版)》是一部关于Android开发的基础教程，采用由浅入深、循序渐进的方式讨论Android。《Google... "]}
+{"title": ["重构(Ruby版)"], "img": ["http://img3.douban.com/mpic/s4349914.jpg"], "desc": ["差不多十年前，我（Martin）曾经和Kent Beck一起做过一个项目。这个项目的名字叫C3，它后来成为极限编程诞生的标志性项目，并帮助我们看清了敏捷软件... "]}
+{"title": ["Win32多线程程序设计"], "img": ["http://img3.douban.com/mpic/s1483484.jpg"], "desc": ["《Win32多线程程序设计》全书共分三篇。第一篇包括线程的启动和结束、核心对象、激发和未激发状态的意义、同步机制及其用途；第二篇介绍C runtime函数库... "]}
+{"title": ["深入浅出CoffeeScript"], "img": ["http://img5.douban.com/mpic/s9046798.jpg"], "desc": ["内容简介：
+作为唯一所有主流浏览器都支持的脚本语言，JavaScript俨然已成为Web开发领域最具号召力的语言，但它的种种语言怪癖以及在各种浏览器间实现不... "]}
+{"title": ["iPhone开发秘籍 （第2版）"], "img": ["http://img5.douban.com/mpic/s4518529.jpg"], "desc": ["本书提供了关于iPhone SDK 以及iPhone 开发的全面信息，对iPhone SDK 中的各种组件做了深入浅出的介绍，包括iPhone 3.0 SD... "]}
+{"title": ["Linux内核源代码情景分析（上册）"], "img": ["http://img3.douban.com/mpic/s5917265.jpg"], "desc": ["这本书采取类似于英语教学中行之有效的情景会话的教学方法，全面深入地剖析了Linux最新版本核心源代码，并对Linux核心的独特优点和需要进一步改进的问题作了... "]}
+{"title": ["PHP高级程序设计"], "img": ["http://img5.douban.com/mpic/s3811388.jpg"], "desc": ["今天，PHP已经是无可争议的Web开发主流语言。PHP 5以后，它的面向对象特性也足以与Java和C#相抗衡。然而，讲述PHP高级特性的资料一直缺乏，大大影... "]}
+{"title": ["PHP与MySQL 5程序设计"], "img": ["http://img3.douban.com/mpic/s2160043.jpg"], "desc": ["本书是久负盛名的经典著作，以涵盖全面详实而著称，对主题的选取和组织从实用出
+发，在讲述知识之外还加入了作者自己的应用经验，并提供了密集的实战代码示例，充
+分... "]}
+{"title": ["Functional Thinking"], "img": ["http://img3.douban.com/mpic/s27320194.jpg"], "desc": []}
+{"title": ["J2EE设计开发编程指南"], "img": ["http://img5.douban.com/mpic/s1095559.jpg"], "desc": ["J2EE是当今可用于企业软件开发 "]}
+{"title": ["测试驱动开发"], "img": ["http://img5.douban.com/mpic/s1441607.jpg"], "desc": ["《测试驱动开发》(中文版)设想把编程看成是转动曲柄从井里提一桶水上来的过程。如果水桶比较小，那么仅需一个能自由转动的曲柄就可以了。如果水桶比较大而且装满水，... "]}
+{"title": ["Learn You Some Erlang for Great Good!"], "img": ["http://img5.douban.com/mpic/s25140756.jpg"], "desc": ["Erlang is the language of choice for programmers who want to write robust, con... "]}
+{"title": ["实现领域驱动设计"], "img": ["http://img5.douban.com/mpic/s27236377.jpg"], "desc": ["领域驱动设计（DDD）是教我们如何做好软件的，同时也是教我们如何更好地使用面向对象技术的。它为我们提供了设计软件的全新视角，同时也给开发者留下了一大难题：如... "]}
+{"title": ["Erlang编程指南"], "img": ["http://img3.douban.com/mpic/s4655141.jpg"], "desc": ["“即便我已经使用Erlang多年，在编程的时候仍然需要参考《Erlang编程指南》。不同层次的Erlang程序员都会发现本书是有价值的学习和参考资料。”
+—... "]}
+{"title": ["Algorithms"], "img": ["http://img3.douban.com/mpic/s4242595.jpg"], "desc": ["This text, extensively class-tested over a decade at UC Berkeley and UC San Di... "]}
+{"title": ["ZeroMQ"], "img": ["http://img3.douban.com/mpic/s27220641.jpg"], "desc": ["Dive into A MQ (aka ZeroMQ), the smart socket library that gives you fast, eas... "]}
+{"title": ["编写安全的代码"], "img": ["http://img3.douban.com/mpic/s1165164.jpg"], "desc": ["编写安全的代码（第二版），ISBN：9787111112105，作者：（美）Michael Howard，（美）David LeBlanc著；程永敬[等]译... "]}
+{"title": ["Android软件安全与逆向分析"], "img": ["http://img3.douban.com/mpic/s24870013.jpg"], "desc": ["本书由浅入深、循序渐进地讲解了Android 系统的软件安全、逆向分析与加密解密技术。包括Android软件逆向分析和系统安全方面的必备知识及概念、如何静态... "]}
+{"title": ["真实世界的Python仪器监控"], "img": ["http://img3.douban.com/mpic/s25684151.jpg"], "desc": ["《真实世界的Python仪器监控:数据采集与控制系统自动化》介绍借助Python编程来实现对数据的自动化收集和处理，书中介绍的技巧除了可以应用于软件项目管理... "]}
+{"title": ["Why Programs Fail"], "img": ["http://img3.douban.com/mpic/s2352045.jpg"], "desc": []}
+{"title": ["Node.js实战"], "img": ["http://img3.douban.com/mpic/s27264241.jpg"], "desc": ["服务器端JavaScript？没错。Node.js是一个JavaScript服务器，支持可伸缩的高性能Web应用。借助异步I/O，这个服务器可以同时做很多事... "]}
+{"title": ["深入PHP：面向对象、模式与实践（第2版）"], "img": ["http://img3.douban.com/mpic/s4261122.jpg"], "desc": ["本书全面深入地剖析了面向对象的PHP编程与设计。首先介绍了PHP的OO特性，包括类声明、对象实例化、继承、方法与属性封装以及静态方法与属性、抽象类、接口、异... "]}
+{"title": ["软件开发沉思录"], "img": ["http://img3.douban.com/mpic/s4447983.jpg"], "desc": ["从编程技术到项目管理，Roy Singham、Martin Fowler、Rebecca Parsons等来自ThoughtWorks的思想领袖通过本书中的... "]}
+{"title": ["Big Data"], "img": ["http://img5.douban.com/mpic/s7042359.jpg"], "desc": ["Services like social networks, web analytics, and intelligent e-commerce often... "]}
+{"title": ["LINUX与UNIX Shell编程指南"], "img": ["http://img5.douban.com/mpic/s1410857.jpg"], "desc": ["本书共分五部分，详细介绍了shell编程技巧，各种UNIX命令及语法，还涉及了UNIX下的文字处理以及少量的系统管理问题。本书内容全面、文字简洁流畅，适合S... "]}
+{"title": ["设计模式解析"], "img": ["http://img3.douban.com/mpic/s1815200.jpg"], "desc": ["本书以作者自身学习、使用模式和多年来为软件开发人员(包括面向对象技术老兵和新手)讲授模式的经验为基础撰写而成。首先概述了模式的基础知识，以及面向对象分析和设... "]}
+{"title": ["Windows并发编程指南"], "img": ["http://img3.douban.com/mpic/s4114770.jpg"], "desc": ["《Windows并发编程指南》详细讲述Windows并发编程的相关知识。内容分为四个部分：第一部分“概念”从高层视角介绍并发的基本概念，为读者理解并发打下基... "]}
+{"title": ["C++反汇编与逆向分析技术揭秘"], "img": ["http://img3.douban.com/mpic/s6940605.jpg"], "desc": ["本书既是一本全面而系统地讲解反汇编与逆向分析技术的安全类专著，又是一部深刻揭示C++内部工作机制的程序设计类著作。理论与实践并重，理论部分系统地讲解了C++... "]}
+{"title": ["ML程序设计教程"], "img": ["http://img3.douban.com/mpic/s1346823.jpg"], "desc": ["本书是关于ML程序设计的经典教材，详细介绍如何使用 ML语言进行程序设计，并讲解函数式程序设计的基本原理。
+　　书中含有大量例子，涵盖了排序、矩阵运算、多项... "]}
+{"title": ["Android 4游戏编程入门经典"], "img": ["http://img3.douban.com/mpic/s24174500.jpg"], "desc": ["《Android 4游戏编程入门经典》囊括了成为一名成功的Android游戏开发者所需的全
+部知识。本书是一本可以信赖的指南，能够帮助你在移动游戏开发中迅速... "]}
+{"title": ["失业的程序员"], "img": ["http://img5.douban.com/mpic/s27290287.jpg"], "desc": ["这是一个程序员从失业到自行创业的奋斗历程，虽然囧事连连、过程曲折，却充满了趣味。本书以作者的真实创业经历为主线，文字幽默诙谐，情节生动真实，包括了招聘、团队... "]}
+{"title": ["The Scheme Programming Language, 3rd Edition"], "img": ["http://img3.douban.com/mpic/s6033263.jpg"], "desc": ["This thoroughly updated edition of The Scheme Programming Language provides an... "]}
+{"title": ["黑客反汇编揭秘"], "img": ["http://img3.douban.com/mpic/s9912830.jpg"], "desc": ["本书分为两大部分。第一部分结合精心挑选的实例,系统地讨论了黑客代码分析技术,包括调试器于反汇编器等典型分析工具的使用、代码分析的基本过程以及相关疑难问题的处... "]}
+{"title": ["C++大学教程"], "img": ["http://img3.douban.com/mpic/s2351392.jpg"], "desc": ["《C++大学教程》(第5版)是一本C++编程方面的优秀教程，全面介绍了过程式编程与面向对象编程的原理与方法，细致地分析了各种性能问题、可移植性问题以及可能出... "]}
+{"title": ["MATLAB实用教程"], "img": ["http://img3.douban.com/mpic/s27312475.jpg"], "desc": ["MATLAB实用教程（第二版），ISBN：9787121101793，作者：（美）穆尔 著，高会生，刘童娜，李聪聪 译 "]}
+{"title": ["深入理解Android"], "img": ["http://img3.douban.com/mpic/s11162474.jpg"], "desc": ["《深入理解Android:卷2》是“深入理解Android”系列的第2本，第1本书上市后获得广大读者高度评价，在Android开发者社群内口口相传。《深入理... "]}
+{"title": ["Head First C"], "img": ["http://img3.douban.com/mpic/s26550540.jpg"], "desc": ["Ever wished you could learn C from a book? Head First C provides a complete le... "]}
+{"title": ["学习GNU Emacs"], "img": ["http://img3.douban.com/mpic/s1784492.jpg"], "desc": ["学习GNU Emacs GNU Emacs是Emacs编辑器家族中最受欢迎、传播范围最广、也是最强大和最灵活的UNIX文本编辑器。与其他文本编辑器的重要区别... "]}
+{"title": ["MacTalk 人生元编程"], "img": ["http://img3.douban.com/mpic/s27219901.jpg"], "desc": ["《MacTalk·人生元编程》是一本随笔文集，主要内容来自作者的微信公众平台“MacTalk By 池建强”。本书撰写于2013年，书中时间线却不止于此。作... "]}
+{"title": ["快学Scala"], "img": ["http://img5.douban.com/mpic/s22713467.jpg"], "desc": ["Scala是一门以Java虚拟机（JVM）为目标运行环境并将面向对象和函数式编程语言的最佳特性结合在一起的编程语言。你可以使用Scala编写出更加精简的程序... "]}
+{"title": ["Lisp in Small Pieces"], "img": ["http://img5.douban.com/mpic/s2561699.jpg"], "desc": ["This is a comprehensive account of the semantics and the implementation of the... "]}
+{"title": ["Data Structures and Algorithms with JavaScript"], "img": ["http://img5.douban.com/mpic/s27177628.jpg"], "desc": ["If you’re using JavaScript on the server-side, you need to implement classic d... "]}
+{"title": ["The Joy of Clojure"], "img": ["http://img3.douban.com/mpic/s4695243.jpg"], "desc": ["Clojure is a dynamic programming language that targets the Java Virtual Machin... "]}
+{"title": ["An Introduction to GCC"], "img": ["http://img3.douban.com/mpic/s2152195.jpg"], "desc": ["This manual provides a complete tutorial introduction to the GNU C and C++ com... "]}
+{"title": ["An Introduction to Programming in Go"], "img": ["http://img5.douban.com/mpic/s11368508.jpg"], "desc": []}
+{"title": ["Java面向对象编程"], "img": ["http://img3.douban.com/mpic/s5744914.jpg"], "desc": ["《Java 面向对象编程》内容由浅入深，紧密结合实际，利用大量典型实例，详细讲解Java面向对象的编程思想、编程语法和设计模式，介绍常见Java类库的用法，... "]}
+{"title": ["Python for Finance"], "img": ["http://img3.douban.com/mpic/s27317612.jpg"], "desc": []}
+{"title": ["MATLAB神经网络30个案例分析"], "img": ["http://img3.douban.com/mpic/s4400292.jpg"], "desc": ["本书是MATLAB中文论坛神经网络版块数千个帖子的总结，充分强调“案例实用性、程序可模仿性”。所有案例均来自于论坛会员的切身需求，保证每一个案例都与实际课题... "]}
+{"title": ["Python编程实践"], "img": ["http://img3.douban.com/mpic/s7015911.jpg"], "desc": ["Python是当今世界流行的编程语言之一。本书共15章，通过一些短小精悍的交互式Python脚本帮助学生进行练习，并在这个过程中掌握诸如数据结构、排序和搜索... "]}
+{"title": ["3D游戏编程大师技巧"], "img": ["http://img5.douban.com/mpic/s25793439.jpg"], "desc": ["《3D 游戏编程大师技巧》是游戏编程畅销书作者André LaMothe的扛鼎之作，从游戏编程和软件引擎的角度深入探讨了3D图形学的各个重要主题。全书共分5... "]}
+{"title": ["编写高质量代码"], "img": ["http://img3.douban.com/mpic/s7015913.jpg"], "desc": ["本书是C++程序员进阶修炼的必读之作，包含的全部都是C++编码的最佳实践，从语法、编码规范和编程习惯、程序架构和设计思想等三大方面对C++程序和设计中的疑难... "]}
+{"title": ["图灵程序设计丛书"], "img": ["http://img3.douban.com/mpic/s27404395.jpg"], "desc": ["本书包括Python 程序设计的方方面面，首先从Python 的安装开始，随后介绍了Python 的基础知识和基本概念，包括列表、元组、字符串、字典以及各种... "]}
+{"title": ["PHP和MySQL Web应用开发核心技术"], "img": ["http://img3.douban.com/mpic/s1856795.jpg"], "desc": ["本书详细讲解了3个应用程序的构建过程:一个日程安排系统、一个博客引擎以及一个电子商务商店。细致分析如何创建健壮的Web数据库应用程序，以及如何避免困扰许多P... "]}
+{"title": ["Ruby on Rails 3 Tutorial"], "img": ["http://img3.douban.com/mpic/s6994390.jpg"], "desc": ["“Ruby on Rails™ 3 Tutorial: Learn Rails by Example by Michael Hartl has become... "]}
+{"title": ["R和Ruby数据分析之旅"], "img": ["http://img3.douban.com/mpic/s25803852.jpg"], "desc": ["如果你对万事万物的运行方式充满好奇，这本有趣的《R和Ruby数据分析之旅》会帮你找到日常生活中某些问题的真正答案。借助基本的数学方法，并使用Ruby和R语言... "]}
+{"title": ["POSIX多线程程序设计"], "img": ["http://img5.douban.com/mpic/s1483836.jpg"], "desc": ["内容提要
+    本书深入描述了IEEE的开放系统接口标准-POSIX线程，通常称为Pthreads标准。本
+书首先解释了线程的基本概念，包括异步编程、线程... "]}
+{"title": ["大型网站系统与Java中间件开发实践"], "img": ["http://img3.douban.com/mpic/s27260431.jpg"], "desc": ["本书围绕大型网站和支撑大型网站架构的 Java 中间件的实践展开介绍。从分布式系统的知识切入，让读者对分布式系统有基本的了解；然后介绍大型网站随着数据量、访... "]}
+{"title": ["You Are Not a Gadget"], "img": ["http://img3.douban.com/mpic/s4231504.jpg"], "desc": ["Jaron Lanier, a Silicon Valley visionary since the 1980s, was among the first ... "]}
+{"title": ["Imperfect C++中文版"], "img": ["http://img5.douban.com/mpic/s1525567.jpg"], "desc": ["汇集实用的C++编程解决方案，C++虽然是一门非凡的语言，但并不完美。Matthew Wilson使用C++十年有余，其间发现C++存在一些固有的限制，需要... "]}
+{"title": ["Java TCP/IP Socket编程"], "img": ["http://img3.douban.com/mpic/s5985364.jpg"], "desc": ["《Java TCP/IP Socket编程(原书第2版)》基于TCP/IP Socket相关原理，对如何在Java中进行Socket编程作了深入浅出的介绍。... "]}
+{"title": ["xUnit Test Patterns"], "img": ["http://img3.douban.com/mpic/s4335863.jpg"], "desc": ["Automated testing is a cornerstone of agile development. An effective testing ... "]}
+{"title": ["Spring技术内幕—深入解析Spring架构与设计原理（Java社区和Spring社区一致鼎力推荐！）"], "img": ["http://img5.douban.com/mpic/s4143766.jpg"], "desc": ["内容简介：
+本书是Spring领域的问鼎之作，由业界拥有10余年开发经验的资深Java专家亲自执笔!Java开发者社区和Spring开发者社区一致强烈推荐。... "]}
+{"title": ["精通Android游戏开发"], "img": ["http://img3.douban.com/mpic/s4592945.jpg"], "desc": ["作为引领移动技术潮流的软件平台，Android发布了NDK以支持Java和C的混合开发，使PC游戏可以在Android平台上焕发更多魅力。
+本书是为那些在A... "]}
+{"title": ["The Architecture of Open Source Applications, Volume II"], "img": ["http://img3.douban.com/mpic/s10347801.jpg"], "desc": ["Architects look at thousands of buildings during their training, and study cri... "]}
+{"title": ["HTML5与CSS3基础教程（第7版）"], "img": ["http://img3.douban.com/mpic/s24585085.jpg"], "desc": ["卡斯特罗、希斯洛普编著的《HTML5与CSS3基础教程（第7版）》是讲解HTML和CSS入门知识的经典畅销书，如今已经更新到第7版，介绍时下相当热门的HTM... "]}
+{"title": ["深入分析Java Web技术内幕"], "img": ["http://img3.douban.com/mpic/s24407073.jpg"], "desc": ["《深入分析Java Web技术内幕》围绕JavaWeb相关技术从三方面全面深入地进行阐述。首先介绍前端知识，主要介绍JavaWeb开发中涉及的一些基本知识，... "]}
+{"title": ["解析极限编程"], "img": ["http://img3.douban.com/mpic/s1302282.jpg"], "desc": ["极限编程（XP）是一种经历过实践考验的轻量级软件开发方法学。《解析极限编程》是XP宣言，也是第一本有关XP的图书。
+全书共分三部分，第1部分包括第1章至第9... "]}
+{"title": ["算法竞赛入门经典（第2版）"], "img": ["http://img3.douban.com/mpic/s27299192.jpg"], "desc": ["《算法竞赛入门经典（第2版）》是一本算法竞赛的入门与提高教材，把C/C++语言、算法和解题有机地结合在一起，淡化理论，注重学习方法和实践技巧。全书内容分为1... "]}
+{"title": ["GNU Make项目管理（第三版）"], "img": ["http://img3.douban.com/mpic/s1837955.jpg"], "desc": ["make是unix和其他操作系统上最持久的工具之一。自1970年问世以来，make至今仍旧是大多数程序开发项目的核心工具，它甚至被用来编译Linux构成。阅... "]}
+{"title": ["NoSQL精粹"], "img": ["http://img3.douban.com/mpic/s27174573.jpg"], "desc": ["《NoSQL精粹》为考虑是否可以使用和如何使用NoSQL数据库的企业提供了可靠的决策依据。它由世界级软件开发大师和软件开发“教父”Martin Fowler... "]}
+{"title": ["x86/x64体系探索及编程"], "img": ["http://img3.douban.com/mpic/s25101982.jpg"], "desc": ["《x86/x64体系探索及编程》是对Intel手册所述处理器架构的探索和论证。全书分五大部分，对多个方面对处理器架构相关的知识进行了梳理介绍。书中每个章节都... "]}
+{"title": ["Flash ActionScript 3殿堂之路"], "img": ["http://img5.douban.com/mpic/s2692179.jpg"], "desc": ["本书是国内第一本“面向原因式”（Why-Oriented Book）、全面系统介绍Flash ActionScript 3的书籍。全书共分为5个部分。第一部... "]}
+{"title": ["游戏开发物理学"], "img": ["http://img3.douban.com/mpic/s9996124.jpg"], "desc": ["在游戏开发中，应用正确的物理定律可以逼真地模拟游戏中任何弹跳、飞行、翻滚、滑行或非静止的物体，以建立令人注目且真实的游戏、动画内容。
+    本书从基础讲起... "]}
+{"title": ["卓越程序员密码"], "img": ["http://img3.douban.com/mpic/s22998245.jpg"], "desc": ["内容简介：
+本书讲的不是你写的代码，而是你赖以生存的密码。
+软件开发行业的从业人员成千上万，你如何保证自己出色地完成自己的工作？这本书里没有浮夸的老生常谈，... "]}
+{"title": ["Android技术内幕"], "img": ["http://img5.douban.com/mpic/s6379378.jpg"], "desc": ["《Android技术内幕：系统卷》是国内首本系统对Android的源代码进行深入分析的著作。全书将Android系统从构架上依次分为应用层、应用框架层、系统... "]}
+{"title": ["Instructor's Manual t/a Structure and Interpretation of Computer Programs"], "img": ["http://img3.douban.com/mpic/s4701301.jpg"], "desc": ["This instructor's manual and reader's guide accompanies the second edition of ... "]}
+{"title": ["Google API大全"], "img": ["http://img3.douban.com/mpic/s3810942.jpg"], "desc": ["本书对Google AdSense、AdWords、Gadgets、OpenSocial、Maps等几十种Google常用API进行了梳理和介绍，帮助读者对... "]}
+{"title": ["像程序员一样思考"], "img": ["http://img5.douban.com/mpic/s27194267.jpg"], "desc": ["编程的真正挑战不是学习一种语言的语法，而是学习创造性地解决问题，从而构建美妙的应用。《像程序员一样思考》分析了程序员解决问题的方法，并且教授你其他图书所忽略... "]}
+{"title": ["Autotools"], "img": ["http://img3.douban.com/mpic/s4409225.jpg"], "desc": ["The GNU Autotools make it easy for developers to create software that is porta... "]}
+{"title": ["iOS开发指南"], "img": ["http://img3.douban.com/mpic/s27260841.jpg"], "desc": ["本书采用全新的iOS 7 API，详细介绍了iOS 7开发相关的知识点。本书共分为4个部分：第一部分为基础篇，介绍了iOS的一些基础知识；第二部分为网络篇，... "]}
+{"title": ["R Inferno"], "img": ["http://img3.douban.com/mpic/s8912632.jpg"], "desc": ["An essential guide to the trouble spots and oddities of R. In spite of the qui... "]}
+{"title": ["Programming Elixir"], "img": ["http://img3.douban.com/mpic/s26569205.jpg"], "desc": ["As a developer, you’ve probably heard that functional programming techniques h... "]}
+{"title": ["Head First HTML5 Programming（中文版）"], "img": ["http://img5.douban.com/mpic/s22783128.jpg"], "desc": ["《Head First HTML5 Programming(中文版)》内容简介：你可能想创建具有动态性、交互性、包含丰富数据而且互连的Web页面。先等一下，... "]}
+{"title": ["JavaScript模式"], "img": ["http://img5.douban.com/mpic/s11337059.jpg"], "desc": ["《JavaScript模式》包含了实现每个讨论的模式的实践建议，并附有数个可以立即上手的范例。同时还可以学到一些反模式，一些常见的编程方式，这些编程方式引发... "]}
+{"title": ["Google Android开发入门与实战"], "img": ["http://img3.douban.com/mpic/s3817805.jpg"], "desc": ["本书内容上覆盖了用Android开发的大部分场景，从Android基础介绍、环境搭建、SDK介绍、Market使用，到应用剖析、组件介绍、实例演示等方面。从... "]}
+{"title": ["Programming Concurrency on the JVM"], "img": ["http://img3.douban.com/mpic/s4723885.jpg"], "desc": ["Concurrency on the Java platform has evolved, from the synchronization model o... "]}
+{"title": ["编程高手箴言"], "img": ["http://img3.douban.com/mpic/s1409650.jpg"], "desc": ["
+       "]}
+{"title": ["Generative Design"], "img": ["http://img5.douban.com/mpic/s21195857.jpg"], "desc": ["Generative design is a revolutionary new method of creating artwork, models, a... "]}
+{"title": ["R语言初学者指南"], "img": ["http://img3.douban.com/mpic/s26603213.jpg"], "desc": ["作者阿兰·F·祖尔等的基于他们对应用科学家讲授统计与R的丰富经验，为读者献上了《R语言初学者指南》这本书。为了避免同时讲授R与统计的困难，统计方法保持在最低... "]}
+{"title": ["时间触发嵌入式系统设计模式"], "img": ["http://img5.douban.com/mpic/s9887239.jpg"], "desc": []}
+{"title": ["Object-Oriented Software Construction"], "img": ["http://img5.douban.com/mpic/s4257579.jpg"], "desc": ["Contents
+Preface V
+Foreword To The Second Edition Xiii
+About The Accompanying ... "]}
+{"title": ["Linux内核完全剖析"], "img": ["http://img5.douban.com/mpic/s3275386.jpg"], "desc": ["本书对早期Linux内核（v0.12）全部代码文件进行了详细、全面的注释和说明，旨在帮助读者用较短的时间对Linux的工作机理获得全面而深刻的理解，为进一步... "]}
+{"title": ["Programming Interactivity"], "img": ["http://img3.douban.com/mpic/s3772945.jpg"], "desc": ["Make cool stuff. If you're a designer or artist without a lot of programming e... "]}
+{"title": ["高质量程序设计艺术"], "img": ["http://img3.douban.com/mpic/s3395373.jpg"], "desc": ["在本书中，作者回归技术层面。从Apache web server、BSD版本的Unix system、ArgoUMl、ACE网络编程库等著名开源软件中选取了... "]}
+{"title": ["Scala程序设计"], "img": ["http://img5.douban.com/mpic/s4911906.jpg"], "desc": ["Scala是一种针对 JVM 的通用的编程语言，用来以简明、优雅、类型安全的方式表示常见的编程模式。它无缝集成了面向对象语言和函数式语言的特性，可以大大提高... "]}
+{"title": ["计算机算法的设计与分析"], "img": ["http://img3.douban.com/mpic/s2657821.jpg"], "desc": ["本书是一部设计与分析领域的经典著作，着重介绍了计算机算法设计领域的基本原则和根本原理。书中深入分析了一些计算机模型上的算法，介绍了一些和设计有效算法有关的数... "]}
+{"title": ["Real World OCaml"], "img": ["http://img3.douban.com/mpic/s24448572.jpg"], "desc": ["Learn how to solve day-to-day problems in data processing, numerical computati... "]}
+{"title": ["学习bash"], "img": ["http://img5.douban.com/mpic/s24430749.jpg"], "desc": ["bash是自由软件基金会发布的“Bourne Again Shell”的缩写。它是流行的UNIX Bourne shell的免费可用替代产品，供全球Linu... "]}
+{"title": ["Exceptional C++中文版"], "img": ["http://img5.douban.com/mpic/s9786566.jpg"], "desc": ["本书详细地讨论了如何编写健壮高效的代码以及模块设计技术。本书采用了自问自答的语言风格，它讨论了实际程序设计中普遍存在的，又非常不易察觉的问题，并且进行了深刻... "]}
+{"title": ["测试驱动的JavaScript开发"], "img": ["http://img5.douban.com/mpic/s7661956.jpg"], "desc": ["本书是一本完整的、基于最佳实践的JavaScript敏捷测试指南，同时又有着测试驱动开发方法（TDD）所带来的质量保证。领先一步的JavaScript敏捷开... "]}
+{"title": ["大道至简"], "img": ["http://img3.douban.com/mpic/s2363884.jpg"], "desc": ["本书提出了审视软件工程的全新视角和软件工程的体系模型(EHM，软件工程层状模型)。本书用非工程的方式重新解析软件工程现象，全面、细致而深刻地分析了工程中各个... "]}
+{"title": ["jQuery实战"], "img": ["http://img3.douban.com/mpic/s3574953.jpg"], "desc": ["《jQuery实战》全面介绍jQuery知识，展示如何遍历HTML文档、处理事件、执行动画以及给网页添加Ajax。书中紧紧地围绕“用实际的示例来解释每一个新... "]}
+{"title": ["游戏人工智能编程案例精粹"], "img": ["http://img3.douban.com/mpic/s3123010.jpg"], "desc": ["《游戏人工智能编程案例精粹》适合对游戏AI开发感兴趣的爱好者和游戏AI开发人员阅读和参考。 "]}
+{"title": ["Ruby Programming"], "img": ["http://img3.douban.com/mpic/s6003090.jpg"], "desc": ["《Ruby Programming:向Ruby之父学程序设计(第2版)》是为了让完全没有程序设计经验的读者也能灵活地使用Ruby，因此书中详细地说明了各种知... "]}
+{"title": ["Introduction to Tornado"], "img": ["http://img3.douban.com/mpic/s11120601.jpg"], "desc": ["Tornado is a scalable, non-blocking web server and web application framework w... "]}
+{"title": ["Learning Deep Architectures for AI"], "img": ["http://img3.douban.com/mpic/s21095441.jpg"], "desc": ["Theoretical results suggest that in order to learn the kind of complicated
+fun... "]}
+{"title": ["精通Android"], "img": ["http://img3.douban.com/mpic/s24576331.jpg"], "desc": ["《精通Android》在上一版的基础上进行了全面改进，不仅在结构上有了相应的调整，内容上更是与时俱进，增加了Android内部构件的相关知识，介绍了线程、进... "]}
+{"title": ["Parallel and Concurrent Programming in Haskell"], "img": ["http://img5.douban.com/mpic/s27191438.jpg"], "desc": ["This book covers the breadth of Haskell's diverse selection of programming API... "]}
+{"title": ["自己动手写网络爬虫"], "img": ["http://img5.douban.com/mpic/s8464867.jpg"], "desc": ["《自己动手写网络爬虫》介绍了网络爬虫开发中的关键问题与Java实现。主要包括从互联网获取信息与提取信息和对Web信息挖掘等内容。《自己动手写网络爬虫》在介绍... "]}
+{"title": ["Struts2技术内幕"], "img": ["http://img5.douban.com/mpic/s7656638.jpg"], "desc": ["《Struts2技术内幕:深入解析Struts2架构设计与实现原理》由国内极为资深的Struts2技术专家(网名：downpour)亲自执笔，iteye兼C... "]}
+{"title": ["PYTHON技术手册"], "img": ["http://img5.douban.com/mpic/s3395418.jpg"], "desc": ["《PYTHON技术手册》随着计算机技术的成熟和广泛应用，人类正在步入一个技术迅猛发展的新时期。计算机技术的发展给人们的工业生产、商业活动和日常生活都带来了巨... "]}
+{"title": ["设计模式"], "img": ["http://img3.douban.com/mpic/s24444770.jpg"], "desc": ["本书基于C# 2.0的语法，试图将GOF 23中的模式以一种可工程化的公共库而非Example的方式呈现给读者。内容包括以下7部分。
+第1篇主要是概括性的介... "]}
+{"title": ["COM技术内幕-微软组件对象模型"], "img": ["http://img3.douban.com/mpic/s26373932.jpg"], "desc": ["
+       "]}
+{"title": ["Head First Programming"], "img": ["http://img3.douban.com/mpic/s4404674.jpg"], "desc": ["Looking for a reliable way to learn how to program on your own, without being ... "]}
+{"title": ["设计原本"], "img": ["http://img5.douban.com/mpic/s4571846.jpg"], "desc": ["无论是软件开发、工程还是建筑，有效的设计都是工作的核心。《设计原本:计算机科学巨匠Frederick P. Brooks的思考》将对设计过程进行深入分析，揭... "]}
+{"title": ["短码之美"], "img": ["http://img3.douban.com/mpic/s4577092.jpg"], "desc": ["样章试读：
+http://www.china-pub.com/computers/common/mianfeisd.asp?id=197616
+本书主要介绍... "]}
+{"title": ["细说PHP"], "img": ["http://img5.douban.com/mpic/s6080118.jpg"], "desc": ["《细说PHP》开发Web应用程序PHP是最理想的工具，易于使用、功能强大、成本低廉、高安全性、开发速度快且执行灵活。《细说PHP》以实用为目标设计，包含PH... "]}
+{"title": ["Test-Driven Development with Python"], "img": ["http://img3.douban.com/mpic/s27315134.jpg"], "desc": [""Test-Driven Development with Python" focuses on web development, with some co... "]}
+{"title": ["重构与模式"], "img": ["http://img5.douban.com/mpic/s10443279.jpg"], "desc": ["本书开创性地深入揭示了重构与模式这两种软件开发关键技术之间的联系，说明了通过重构实现模式改善既有的设计，往往优于在新的设计早期使用模式。本书不仅展示了一种应... "]}
+{"title": ["C++必知必会"], "img": ["http://img3.douban.com/mpic/s9999834.jpg"], "desc": ["职业C++程序员必备常识，初学者登堂入室的阶梯，C++界20年经验结晶。本书作者资深C++专家Stephen C.Dewhurst从业界多年来积累的宝贵经验... "]}
+{"title": ["Advanced Linux Programming"], "img": ["http://img3.douban.com/mpic/s24452171.jpg"], "desc": ["Advanced Linux Programming is divided into two parts. The first covers generic... "]}
+{"title": ["PHP经典实例"], "img": ["http://img3.douban.com/mpic/s4048154.jpg"], "desc": ["PHP经典实例（第2版）能够为您节省宝贵的Web开发时间。有了这些针对真实问题的解决方案放在手边，大多数编程难题都会迎刃而解。《PHP经典实例(第2版)》将... "]}
+{"title": ["算法之道"], "img": ["http://img3.douban.com/mpic/s6124040.jpg"], "desc": ["《算法之道》追求的目标是算法背后的逻辑，是一本启示书，而不是一本包罗万象的算法大全。因此，《算法之道》甄选了那些最能够展现算法思想、战略和精华，并能够有效训... "]}
+{"title": ["深入解析Mac OS X & iOS操作系统"], "img": ["http://img3.douban.com/mpic/s27293233.jpg"], "desc": ["《深入解析Mac OS X & iOS操作系统》编著者莱文。
+系统开发者、内核黑客和对苹果感到好奇的人们注意了！本书探讨了MacOSX系统和iOS系统的方方... "]}
+{"title": ["游戏编程精粹 1"], "img": ["http://img5.douban.com/mpic/s9914078.jpg"], "desc": ["
+       "]}
+{"title": ["Android基础教程"], "img": ["http://img5.douban.com/mpic/s6089496.jpg"], "desc": ["《Android基础教程》内容完整丰富，具有较强的通用性，读者都能通过《Android基础教程》快速学习Android开发，提高相关技能。Android是谷... "]}
+{"title": ["程序设计语言原理"], "img": ["http://img5.douban.com/mpic/s3395369.jpg"], "desc": ["本书从为什么学习程序设计语言入手，深入细致地讲解了命令式语言的主要结构及其设计与实现，内容涉及变量、数据类型、表达式和赋值语句、控制语句、子程序、数据抽象机... "]}
+{"title": ["Java数据结构和算法"], "img": ["http://img3.douban.com/mpic/s9853525.jpg"], "desc": ["《Java数据结构和算法》(第2版)以一种易懂的方式教授如何安排和操纵数据的问题，其中不乏一些难题：了解这些知识以期使计算机的应用获得最好的表现。不管使用何... "]}
+{"title": ["程序设计抽象思想"], "img": ["http://img5.douban.com/mpic/s7617437.jpg"], "desc": ["本书全面介绍了数据结构的基础内容。介绍了多个库包，可用于简化编程流程；详细讨论了递归编程的用法，包括大量难度各异的编程示例和练习。 "]}
+{"title": ["软件调试修炼之道"], "img": ["http://img5.douban.com/mpic/s27319596.jpg"], "desc": ["本书主要讲述如何运用方法和调试工具在客户投诉之前自动检测程序中的bug，紧紧围绕问题重现、问题诊断、缺陷修复、反思四个中心环节，并将调试置于软件开发与运行的... "]}
+{"title": ["lex与yacc"], "img": ["http://img3.douban.com/mpic/s1088615.jpg"], "desc": ["《lex与yacc》（第二版）是惟一一本专门介绍这两个重要的UNIX编程工具的书。这本新版本是完全的修订版，并以很多新的扩充示例代替了旧的示例。几个介绍性章... "]}
+{"title": ["数据结构"], "img": ["http://img5.douban.com/mpic/s3395366.jpg"], "desc": ["《数据结构》(C语言版)针对采用ANSI C实现数据结构进行了全面的描述和深入的讨论。书中详细讨论了栈、队列、链表以及查找结构、高级树结构等功能，对裴波那契... "]}
+{"title": ["Programming Python"], "img": ["http://img3.douban.com/mpic/s2976674.jpg"], "desc": ["Already the industry standard for Python users, "Programming Python" from O'Re... "]}
+{"title": ["R Graphics Cookbook"], "img": ["http://img5.douban.com/mpic/s24970409.jpg"], "desc": ["This practical guide provides more than 150 recipes to help you generate high-... "]}
+{"title": ["Writing GNU Emacs Extensions"], "img": ["http://img5.douban.com/mpic/s4680786.jpg"], "desc": []}
+{"title": ["莱昂氏UNIX源代码分析"], "img": ["http://img5.douban.com/mpic/s1203808.jpg"], "desc": ["本书由上、下两篇组成。上篇为UNIX版本6的源代码，下篇是莱昂先生对UNIX操作系统版本6源代码的详细分析。本书语言简洁、透彻，曾作为未公开出版物广泛流传了... "]}
+{"title": ["程序员面试宝典"], "img": ["http://img3.douban.com/mpic/s24417102.jpg"], "desc": ["本书取材于各大IT公司历年面试真题（包括笔试题、口试题、电话面试、英语面试，以及逻辑测试和智商测试）。通过精确详细的分类，把在应聘程序员（含网络、测试等）过... "]}
+{"title": ["标准模板库自修教程与参考手册(STL进行C++编程第2版)"], "img": ["http://img3.douban.com/mpic/s26385654.jpg"], "desc": []}
+{"title": ["深入剖析Nginx"], "img": ["http://img3.douban.com/mpic/s26591024.jpg"], "desc": ["Nginx是一款功能强大的高性能Web和反向代理服务器，最初由俄罗斯程序员Igor Sysoev开发，而当前由Igor Sysoev领导的专业公司Nginx... "]}
+{"title": ["iOS软件开发揭密"], "img": ["http://img5.douban.com/mpic/s6477176.jpg"], "desc": ["本书以严密的体系性提供了iPhone和iPad软件开发从入门到专家的系统性知识，并提供来源于真实项目的可重用商业代码。书中的每个实例都是项目经验的提炼，深入... "]}
+{"title": ["Programming Massively Parallel Processors"], "img": ["http://img3.douban.com/mpic/s4249773.jpg"], "desc": ["Multi-core processors are no longer the future of computing-they are the prese... "]}
+{"title": ["通灵芯片"], "img": ["http://img3.douban.com/mpic/s3556742.jpg"], "desc": ["本书深入浅出地阐述了计算机科学中许多基本而重要的概念，包括布尔逻辑、有限自动机、编程语言、图灵机的普遍性、信息论、算法、并行计算、量子计算、神经网络、机器学... "]}
+{"title": ["The Art and Science of Java"], "img": ["http://img3.douban.com/mpic/s3269391.jpg"], "desc": ["In The Art and Science of Java, Stanford professor and well-known leader in CS... "]}
+{"title": ["ARM嵌入式系统开发"], "img": ["http://img5.douban.com/mpic/s8449609.jpg"], "desc": ["《ARM嵌入式系统开发:软件设计与优化》从软件设计的角度，全面、系统地介绍了ARM处理器的基本体系结构和软件设计与优化方法。内容包括：ARM处理器基础；AR... "]}
+{"title": ["Invent Your Own Computer Games with Python, 2nd Edition"], "img": ["http://img3.douban.com/mpic/s4536715.jpg"], "desc": ["“Invent Your Own Computer Games with Python” teaches you computer programming ... "]}
+{"title": ["Learning Python"], "img": ["http://img3.douban.com/mpic/s26845944.jpg"], "desc": ["If you want to write efficient, high-quality code that's easily integrated wit... "]}
+{"title": ["编写高质量代码"], "img": ["http://img3.douban.com/mpic/s7015915.jpg"], "desc": ["在通往“Java技术殿堂”的路上，本书将为你指点迷津！内容全部由Java编码的最佳实践组成，从语法、程序设计和架构、工具和框架、编码风格和编程思想等五大方面... "]}
+{"title": ["RESTful Web Services中文版"], "img": ["http://img5.douban.com/mpic/s24606499.jpg"], "desc": []}
+{"title": ["Servlet与JSP核心编程"], "img": ["http://img3.douban.com/mpic/s1224323.jpg"], "desc": ["《Servlet与JSP核心编程》(第2版)叙述详尽，条理清晰。对于初学者来说是一本不可多得的入门书籍，经验丰富的Servelet和JSP开发人员也可以通过... "]}
+{"title": ["写给大家看的C语言书"], "img": ["http://img3.douban.com/mpic/s4091574.jpg"], "desc": ["没有编程基础，被C语言的术语和细节搞得晕头转向，手头的教科书无数次拿起又放下、总是读不进去，甚至已经开始考虑放弃？不要灰心！本书将带你开始一次轻松有趣的C语... "]}
+{"title": ["Agile Java 中文版"], "img": ["http://img3.douban.com/mpic/s10074234.jpg"], "desc": ["本书将当前流行的敏捷开发方法融入到了Java语言的实践中，给了您学习并掌握Java 5．0、面向对象方法的机会，同时您还将学习测试驱动开发方法。作者很好地将... "]}
+{"title": ["数据结构"], "img": ["http://img5.douban.com/mpic/s2332049.jpg"], "desc": ["《数据结构》（C语言版）是为“数据结构”课程编写的教材，也可作为学习数据结构及其算法的C程序设计的参数教材。
+本书的前半部分从抽象数据类型的角度讨论各种基本... "]}
+{"title": ["Async JavaScript"], "img": ["http://img3.douban.com/mpic/s9108530.jpg"], "desc": [""Async JavaScript is the first full book I've seen dedicated to a key topic in... "]}
+{"title": ["C++语言99个常见编程错误"], "img": ["http://img5.douban.com/mpic/s3927269.jpg"], "desc": ["本书是C++语言大师Stephen C. Dewhurst在多年教授C++课程中所遇到的常见错误的心得笔记之基础上编写而成的。本书所有章节都是从一个众所周知... "]}
+{"title": ["Head First Android Development"], "img": ["http://img3.douban.com/mpic/s6518051.jpg"], "desc": ["With this digital Early Release edition of Head First Android Development, you... "]}
+{"title": ["C语言名题精选百则技巧篇"], "img": ["http://img5.douban.com/mpic/s26597278.jpg"], "desc": ["《C语言名题精选百则》(技巧篇)收集了100则C语言程序设计题，共分9类。第一类比较简单，主要希望读者了解到《C语言名题精选百则》(技巧篇)的题目、解法与其... "]}
+{"title": ["金融数据分析导论：基于R语言"], "img": ["http://img5.douban.com/mpic/s27064659.jpg"], "desc": ["本书由统计学领域著名专家所著，从基本的金融数据出发，讨论了这些数据的汇总统计和相关的可视化方法，之后分别介绍了商业、金融和经济领域中的基本时间序列分析和计量... "]}
+{"title": ["TCP/IP Sockets编程"], "img": ["http://img5.douban.com/mpic/s10344736.jpg"], "desc": ["《TCP/IPSockets编程(C语言实现)(第2版)》为开发成熟且功能强大的Web应用程序提供所需的知识和技巧。《TCP/IPSockets编程(C语言... "]}
+{"title": ["JavaScript DOM高级程序设计"], "img": ["http://img3.douban.com/mpic/s3103215.jpg"], "desc": ["本书注重理论与实践的结合，全面讲述高级的DOM 脚本编程。全书分为3 个部分：第一部分“深入理解DOM 脚本编程”，涉及W3C DOM 规范的各方面，包括非... "]}
+{"title": ["DSLs in Action"], "img": ["http://img5.douban.com/mpic/s4604618.jpg"], "desc": ["DSLs in Action  introduces the concepts and definitions a developer needs to b... "]}
+{"title": ["UNIX操作系统设计"], "img": ["http://img5.douban.com/mpic/s1025786.jpg"], "desc": ["本书内容包括
+UNIX内核体系结构
+磁盘高速缓冲机制
+文件系统内部数据结构与算法
+控制进程上下文的系统调用与进程调度
+存储管理，包括对换和请求调页系统
+通用... "]}
+{"title": ["你必须知道的.NET"], "img": ["http://img5.douban.com/mpic/s9111288.jpg"], "desc": ["《博客园开发者征途·你必须知道的.NET》来自于微软MVP的最新技术心得和感悟，将技术问题以生动易懂的语言展开，层层深入，以例说理。全书主要包括了.NET基... "]}
+{"title": ["Learning the vi and Vim Editors"], "img": ["http://img5.douban.com/mpic/s4530716.jpg"], "desc": ["There's nothing that hard-core Unix and Linux users are more fanatical about t... "]}
+{"title": ["NumPy攻略"], "img": ["http://img3.douban.com/mpic/s27032915.jpg"], "desc": ["本书带领读者了解熟悉当下最流行的科学计算库NumPy的方方面面。书中不仅介绍了NumPy的安装、使用和各种相关概念，还介绍了如何利用这一最新的开源软件库，以... "]}
+{"title": ["The Way To Go"], "img": ["http://img5.douban.com/mpic/s8978509.jpg"], "desc": []}
+{"title": ["Python 编程金典"], "img": ["http://img3.douban.com/mpic/s1326052.jpg"], "desc": ["
+       "]}
+{"title": ["iOS 5 Programming Cookbook"], "img": ["http://img3.douban.com/mpic/s6968811.jpg"], "desc": ["This popular cookbook, thoroughly updated in response to reader requests and n... "]}
+{"title": ["C程序设计语言"], "img": ["http://img3.douban.com/mpic/s1106644.jpg"], "desc": ["C程序设计语言（第2版·新版）习题解答，ISBN：9787111129431，作者：（美）Clovis L.Tondo，（美）Scott E.Gimpel著... "]}
+{"title": ["软件工程的事实与谬误"], "img": ["http://img3.douban.com/mpic/s1738483.jpg"], "desc": ["关于构建软件，我们理应知道许多东西，但是实际上却因为这样或那样的原因不知道，甚至我们想当然的一些看法实际上是显而易见的错误。本书抽取软件行业中经典的55个基... "]}
+{"title": ["游戏编程入门"], "img": ["http://img3.douban.com/mpic/s26278533.jpg"], "desc": ["本书介绍如何设计和构建自己的计算机游戏。书中从零开始，引导读者开发一个“即插即用”的游戏引擎，并基于该引擎，循序渐进地开发7个完整的游戏。全书分为8个部分，... "]}
+{"title": ["Java开发实战经典"], "img": ["http://img3.douban.com/mpic/s4223773.jpg"], "desc": ["Java开发实战经典，ISBN：9787302202615，作者：李兴华 编著 "]}
+{"title": ["编译原理及实践"], "img": ["http://img3.douban.com/mpic/s1074793.jpg"], "desc": ["《编译原理及实践》系统介绍了经典的编译理论和技术，同时也包含了面向对象语言等当前较新语言的编译技术。本书更可贵之处在于提供了较完整的适用于教学实践的样例语言... "]}
+{"title": ["天书夜读"], "img": ["http://img5.douban.com/mpic/s3459349.jpg"], "desc": ["从貌似天书的汇编代码中，一探Windows底层的核心实现。.
+在开发中出现的问题，能从Windows自身找到答案！...
+本书从基本的Windows程序与汇... "]}
+{"title": ["Systems Performance"], "img": ["http://img5.douban.com/mpic/s27135569.jpg"], "desc": ["The accelerating deployment of large-scale web, cloud, Big Data, and virtualiz... "]}
+{"title": ["Redis in Action"], "img": ["http://img3.douban.com/mpic/s23004474.jpg"], "desc": ["Redis is an innovative data tool that offers more flexibility than other avail... "]}
+{"title": ["Understanding and Using C Pointers"], "img": ["http://img5.douban.com/mpic/s26544167.jpg"], "desc": ["Improve your programming through a solid understanding of C pointers and memor... "]}
+{"title": ["可变目标C编译器"], "img": ["http://img5.douban.com/mpic/s1312447.jpg"], "desc": ["本书系统地介绍了可变目标ANSIC编译器1cc的设计方法和实现技术。1cc是一个实用的编译器，能够不同的目标机器生成代码。本书结合1cc的具体实现，详细讲术... "]}
+{"title": ["Cocos2d-x高级开发教程"], "img": ["http://img3.douban.com/mpic/s26743914.jpg"], "desc": ["Cocos2d-x是移动跨平台开发最流行的游戏引擎，而本书是一本很全面的、比较‘接地气’的游戏开发教程。书中汇聚了热门手机游戏《捕鱼达人》开发的实战经验，作... "]}
+{"title": ["Windows用户态程序高效排错"], "img": ["http://img5.douban.com/mpic/s2836128.jpg"], "desc": ["本书是一本介绍Windows系统上的用户态程序排错方法和技巧的书。本书分为4个章节，先介绍最重要的、通用的思考方法，以便制定排错步骤；再介绍对排错有帮助的知... "]}
+{"title": ["Getting Started with Processing"], "img": ["http://img3.douban.com/mpic/s4384780.jpg"], "desc": ["Learn computer programming the easy way with Processing, a simple language tha... "]}
+{"title": ["TCP/IP详解 卷3：TCP事务协议、HTTP、NNTP和UNIX域协议"], "img": ["http://img3.douban.com/mpic/s1613455.jpg"], "desc": ["《CP.IP详解(卷3):CP事务协议.HP.P和UIX域协议》是“TCP/IP详解系列”的延续。主要内容包括：TCP事务协议，即T/TCP，这是对TCP的... "]}
+{"title": ["AngularJS"], "img": ["http://img3.douban.com/mpic/s26540703.jpg"], "desc": ["Develop smaller, lighter web apps that are simple to create and easy to test, ... "]}
+{"title": ["Linux内核源代码情景分析（下册）"], "img": ["http://img3.douban.com/mpic/s1437163.jpg"], "desc": ["下册的内容包括设备驱动、多处理器SMP系统结构以及系统引导和初始化四章。 "]}
+{"title": ["嵌入式Linux应用开发完全手册"], "img": ["http://img3.douban.com/mpic/s3328590.jpg"], "desc": ["本书全部实例代码及相关工具。
+基于ARM 9+Linux 206平台，从基础讲起，引导读者快速入门，实例丰富，可直接应用于工程实践。
+本书全面介绍了嵌入式L... "]}
+{"title": ["Java大学简明教程"], "img": ["http://img3.douban.com/mpic/s5667605.jpg"], "desc": ["对于初学者,尤其是没有编程经验者来说,这是一本可以快速上手,真正面向应用的好教材。
+　　本书展示了Java在面向对象、事件驱动等程序设计方面的强大功能。本书... "]}
+{"title": ["Java并发编程"], "img": ["http://img3.douban.com/mpic/s1503403.jpg"], "desc": ["本书全面介绍了如何使用Java 2平台进行并发编程，较上一版新增和扩展的内容包括：
+·存储模型 ·取消 ·可移植的并行编程 ·实现并发控制的工具类
+Java... "]}
+{"title": ["MATLAB在数学建模中的应用"], "img": ["http://img5.douban.com/mpic/s22778797.jpg"], "desc": ["《MATLAB在数学建模中的应用》从数学建模的角度介绍了MATLAB的应用。《MATLAB在数学建模中的应用》的4位作者均具有实际的数学建模参赛经历和竞赛指... "]}
+{"title": ["趣学Python编程"], "img": ["http://img3.douban.com/mpic/s27228664.jpg"], "desc": ["python是一款解释型、面向对象、动态数据类型的高级程序设计语言。python语法简捷而清晰，具有丰富和强大的类库，因而在各种行业中得到广泛的应用。对于初... "]}
+{"title": ["Head First HTML5 Programming"], "img": ["http://img3.douban.com/mpic/s8334291.jpg"], "desc": ["What can HTML5 do for you? If you're a web developer looking to use this new v... "]}
+{"title": ["Reactive Design Patterns"], "img": ["http://img3.douban.com/mpic/s27263685.jpg"], "desc": ["Modern distributed applications must deliver near-realtime performance while a... "]}
+{"title": ["ACM国际大学生程序设计竞赛"], "img": ["http://img5.douban.com/mpic/s25137977.jpg"], "desc": ["《ACM国际大学生程序设计竞赛:算法与实现》内容简介：ACM国际大学生程序设计竞赛（ACM-ICPC）是国际上公认的水平最高、规模最大、影响最深的计算机专业... "]}
+{"title": ["Android应用开发揭秘"], "img": ["http://img5.douban.com/mpic/s4143787.jpg"], "desc": ["内容简介：
+阿国内第一本基于Android 2.0的经典著作，5大专业社区联袂推荐，权威性毋庸置疑！
+本书内容全面，不仅详细讲解了Android框架、And... "]}
+{"title": ["计算机程序设计艺术：第4卷 第4册（双语版）"], "img": ["http://img5.douban.com/mpic/s5861928.jpg"], "desc": ["关于算法分析的这多卷论著已经长期被公认为经典计算机科学的定义性描述。迄今已出版的完整的三卷组成了程序设计理论和实践的惟一的珍贵源泉，无数读者都赞扬Knuth... "]}
+{"title": ["超越C++标准库"], "img": ["http://img5.douban.com/mpic/s2414348.jpg"], "desc": ["《超越C++标准库Boost库导论》是市面上第一本专门讨论Boost库的著作。书中首先概括性地简介了Boost的所有58个库，然后全面深入地阐述了12个十分... "]}
+{"title": ["Cocoa入门"], "img": ["http://img3.douban.com/mpic/s8459662.jpg"], "desc": ["本书助您轻松体验Cocoa开发，不仅是阅读，还有动手实践。介绍完Xcode和Interface Builder之后，您将很快接触到Objective-C的面... "]}
+{"title": ["C++面向对象高效编程(第2版)"], "img": ["http://img3.douban.com/mpic/s27346714.jpg"], "desc": ["比肩Thinking in C++、The C++ Programming Language等经典著作；
+Design Patterns作者Erich Ga... "]}
+{"title": ["黑客免杀攻防"], "img": ["http://img3.douban.com/mpic/s27061483.jpg"], "desc": ["《黑客免杀攻防》国内首部关于黑客免杀技术的专著，旨在为反病毒工程师剖析各种恶意软件和应对各种安全威胁提供全面指导。不仅从攻击者（黑客）的视角全方位揭示了黑客... "]}
+{"title": ["Form+Code in Design, Art, and Architecture"], "img": ["http://img3.douban.com/mpic/s7060051.jpg"], "desc": ["The last decade has witnessed a proliferation of artists whose primary medium ... "]}
+{"title": ["Python网络编程基础"], "img": ["http://img3.douban.com/mpic/s2647184.jpg"], "desc": ["《Python网络编程基础》可以作为各层次Python、Web和网络程序的开发人员的参考书，在实际工作中使用书中的技术，效果更佳。 "]}
+{"title": ["我和LabVIEW"], "img": ["http://img5.douban.com/mpic/s4552017.jpg"], "desc": ["《我和LabVIEW:一个NI工程师的十年编程经验》是作者在学习和使用LabVIEW过程中的经验总结。书中由浅入深地对LabVIEW最常用的功能和LabVI... "]}
+{"title": ["Programming Clojure"], "img": ["http://img5.douban.com/mpic/s4263259.jpg"], "desc": ["Clojure is a dynamic language for the Java Virtual Machine, with a compelling ... "]}
+{"title": ["C语言点滴"], "img": ["http://img3.douban.com/mpic/s27112732.jpg"], "desc": ["C语言兼具高级语言和汇编语言的特点，学习起来难度较大，令不少初学者望而生畏。同时，C语言又是一门应用非常广泛的编程语言，在实际应用中如何根据不同的应用场景高... "]}
+{"title": ["Java JDK6学习笔记"], "img": ["http://img5.douban.com/mpic/s5765807.jpg"], "desc": ["《Java JDK6学习笔记》是作者良葛格本人近几年来学习Java的心得笔记，结构按照作者的学习脉络依次展开，从什么是Java、如何配置Java开发环境、基... "]}
+{"title": ["Ruby Under a Microscope"], "img": ["http://img5.douban.com/mpic/s26638297.jpg"], "desc": ["How Ruby Works Under the Hood
+Ruby is a powerful programming language with a f... "]}
+{"title": ["Real-Time Rendering, Third Edition"], "img": ["http://img3.douban.com/mpic/s4551492.jpg"], "desc": ["Thoroughly revised, this third edition focuses on modern techniques used to ge... "]}
+{"title": ["Apache源代码全景分析第1卷"], "img": ["http://img3.douban.com/mpic/s3737874.jpg"], "desc": ["本书是“Apache源代码全景分析”的第1卷。书中详细讲解了Apache的基础体系结构和核心模块的实现机制，包括配置文件、模块化结构、多任务并发，以及网络连... "]}
+{"title": ["Joel谈优秀软件开发方法"], "img": ["http://img5.douban.com/mpic/s2792357.jpg"], "desc": ["本书意在用这些最优秀的软件开发类文章来激励程序员们编写出更优秀的软件。我的目的很简单，就是好好编写软件。编程工作充满魅力，因为它的趣味性、条理性、重要性无一... "]}
+{"title": ["软件驱魔：调试和优化遗留代码的艺术"], "img": ["http://img3.douban.com/mpic/s27297273.jpg"], "desc": ["在典型的软件项目生命周期中，维护阶段的成本占总成本的60%以上。修复遗留代码中的bug一直是困扰软件从业人员的一个问题。遗留代码的调试不仅需要掌握调试代码的... "]}
+{"title": ["PHP程序设计"], "img": ["http://img5.douban.com/mpic/s2393468.jpg"], "desc": ["《PHP程序设计(第2版)》是最新版本PHP 5的权威指南，其中包含创建者PHP的创建者 Rasmus Lerdorf的独到的见解。《PHP程序设计(第2版... "]}
+{"title": ["Learn C the Hard Way"], "img": ["http://img3.douban.com/mpic/s27179593.jpg"], "desc": ["Need to learn C? Now you can! Forget old-fashioned C programming books that as... "]}
+{"title": ["Software Tools"], "img": ["http://img5.douban.com/mpic/s4242058.jpg"], "desc": []}
+{"title": ["多核计算与程序设计"], "img": ["http://img3.douban.com/mpic/s6003000.jpg"], "desc": ["《多核计算与程序设计》主要介绍适应于多核（或多处理器）计算机系统的算法和程序，共分为五个部分进行讲解。第1部分介绍多核编程的基础知识，包括多核编程常见问题、... "]}
+{"title": ["Linux内核设计与实现"], "img": ["http://img3.douban.com/mpic/s11272832.jpg"], "desc": ["《Linux内核设计与实现》基于Linux2.6内核系列详细介绍Linux内核系统，覆盖了从核心内核系统的应用到内核设计与实现等各方面的内容。主要内容包括：... "]}
+{"title": ["Windows环境下32位汇编语言程序设计"], "img": ["http://img3.douban.com/mpic/s1654403.jpg"], "desc": ["Windows环境下32位汇编语言是一种全新的编程语言。它使用与C++语言相同的API接口，不仅可以用来开发出大型的软件，而且是了解操作系统运行细节的最佳方... "]}
+{"title": ["编译器设计"], "img": ["http://img3.douban.com/mpic/s24486602.jpg"], "desc": ["深入剖析现代编译器运用的算法和技术
+强调代码优化和代码生成
+体现编译原理教学的最新理念
+本书旨在介绍编译器构造法中的艺术和科学。书中深入分析现代编译器后端所... "]}
+{"title": ["Problem Solving with Algorithms and Data Structures Using Python"], "img": ["http://img3.douban.com/mpic/s22712854.jpg"], "desc": []}
+{"title": ["MongoDB实战"], "img": ["http://img5.douban.com/mpic/s22720019.jpg"], "desc": ["内容简介：
+MongoDB是为处理大数据而生的一款面向文档的数据库，由10gen公司开发和维护。本书作者Kyle Banker曾在该公司负责MongoDB驱... "]}
+{"title": ["Practical Java中文版"], "img": ["http://img5.douban.com/mpic/s1480989.jpg"], "desc": []}
+{"title": ["C++程序设计"], "img": ["http://img3.douban.com/mpic/s1126580.jpg"], "desc": ["《C++程序设计》作者深入调查了我国大学的程序设计课程的现状和发展趋势，参阅了国内外数十种有关C＋＋的教材，认真分析了学习者在学习过程中遇到的困难，研究了初... "]}
+{"title": ["苹果开发之Cocoa编程"], "img": ["http://img3.douban.com/mpic/s23892673.jpg"], "desc": ["本书是在Aaron多年教学经验的基础上进行了总结提炼的精华之作，加之前面3版不断推敲和完善，已经成为学习Cocoa编程的入门级经典书籍。本书系统介绍了Obj... "]}
+{"title": ["实战Linux编程精髓"], "img": ["http://img5.douban.com/mpic/s1439936.jpg"], "desc": ["编写应用软件，特别是那些比较重要的软件，毫无疑问要涉及到系统调用。在UNIX/Linux环境下编程更是如此。要想编写优秀的软件，就必须熟悉这些系统调用的方方... "]}
+{"title": ["Node.js in Action"], "img": ["http://img3.douban.com/mpic/s27194543.jpg"], "desc": ["* Simplifies web application development * Outlines valuable online resources ... "]}
+{"title": ["计算机系统要素"], "img": ["http://img3.douban.com/mpic/s2207295.jpg"], "desc": ["本书通过展现简单但功能强大的计算机系统之构建过程，为读者呈现了一幅完整、严格的计算机应用科学大图景。本书作者认为，理解计算机工作原理的最好方法就是亲自动手，... "]}
+{"title": ["Programming Python"], "img": ["http://img3.douban.com/mpic/s4813725.jpg"], "desc": ["Once you've come to grips with the core Python language, learning how to build... "]}
+{"title": ["Scala in Action"], "img": ["http://img3.douban.com/mpic/s26551825.jpg"], "desc": ["DESCRIPTION  Even within a single application, programming problems often lend... "]}
+{"title": ["C++编程惯用法"], "img": ["http://img3.douban.com/mpic/s9853241.jpg"], "desc": ["C++编程惯用法：高级程序员常用方法和技巧，ISBN：9787508319124，作者：（美）Robert B.Murray著；王昕译；王昕译 "]}
+{"title": ["设计模式之禅"], "img": ["http://img5.douban.com/mpic/s4220739.jpg"], "desc": ["如果说“四人帮”的《设计模式》是设计模式领域的“圣经”，那么之后出版的各种关于设计模式的书都可称之为“圣经”的“注释版”或“圣经的故事”。本书是得道者对“圣... "]}
+{"title": ["别怕，Excel VBA其实很简单"], "img": ["http://img3.douban.com/mpic/s21863533.jpg"], "desc": ["别怕，Excel VBA其实很简单，ISBN：9787115289094，作者：Excel Home 编著 "]}
+{"title": ["多处理器编程的艺术"], "img": ["http://img5.douban.com/mpic/s5925929.jpg"], "desc": ["这本最新的权威著作致力于改变这种状况，作者全面阐述了多处理器编程的指导原则，介绍了编制高效的多处理器程序所必备的算法技术。了解本书所涵盖的多处理器编程关键问... "]}
+{"title": ["Windows PE权威指南"], "img": ["http://img5.douban.com/mpic/s6950799.jpg"], "desc": ["内容全面，详尽地剖析了Windows PE文件格式的原理及其编程技术，涉及安全领域的各个方面和Windows系统的进程管理和底层机制；实战性强，以案例驱动的... "]}
+{"title": ["柔性字符串匹配"], "img": ["http://img3.douban.com/mpic/s10457290.jpg"], "desc": ["本书是一本不可多得的字符串匹配方面的专业书籍。书中对串匹配问题进行了系统化的分类，从实际效果出发，着重详细介绍了串匹配领域内效果最好的若干种算法。并且给出了... "]}
+{"title": ["深入理解OSGi"], "img": ["http://img3.douban.com/mpic/s24938444.jpg"], "desc": ["本书是原创Java技术图书领域继《深入理解Java虚拟机》后的又一实力之作，也是全球首本基于最新OSGi R5.0规范的著作。理论方面，既全面解读了OSGi... "]}
+{"title": ["Advanced Data Structures"], "img": ["http://img3.douban.com/mpic/s4271834.jpg"], "desc": ["Product Description
+Advanced Data Structures presents a comprehensive look at ... "]}
+{"title": ["逐梦旅程：Windows游戏编程之从零开始"], "img": ["http://img3.douban.com/mpic/s27244594.jpg"], "desc": ["端游开发是目前最热的职业，报酬丰厚且能实现自己的游戏梦想。作者历经一年时间，编写了这本详细讲解Windows游戏开发的入门图书。
+《逐梦旅程：Windows... "]}
+{"title": ["软件调试实战"], "img": ["http://img5.douban.com/mpic/s4130817.jpg"], "desc": ["《软件调试实战》主要讲述C/C++程序的调试和分析，书中的调试技术也可以应用于其他语言编写的程序。《软件调试实战》在讲述简单的源代码分析和测试的基础上，讲述... "]}
+{"title": ["Programming Your Home"], "img": ["http://img3.douban.com/mpic/s6999202.jpg"], "desc": ["In Programming Your Home, technology enthusiast Mike Riley walks you through a... "]}
+{"title": ["HTML5和CSS3实例教程"], "img": ["http://img3.douban.com/mpic/s26657154.jpg"], "desc": ["《HTML5和CSS3实例教程》共分3部分，集中讨论了HTML5和CSS3规范及其技术的使用方法。首先是规范概述，介绍了新的结构化标签、表单域及其功能（包括... "]}
+{"title": ["Practical Object Oriented Design in Ruby"], "img": ["http://img5.douban.com/mpic/s11151616.jpg"], "desc": ["Years after the initial release of Ruby on Rails, the chickens are coming home... "]}
+{"title": ["独辟蹊径的编程思维——“拿来主义”编程"], "img": ["http://img5.douban.com/mpic/s27231428.jpg"], "desc": ["与传统编程习惯于每一细节都亲历亲为所不同的是，如果在程序设计之初就综合考虑并合法应用第三方既有成果，就可在项目开发的时间、成本及质量这三个关键矛盾体“三要素... "]}
+{"title": ["Ruby设计模式"], "img": ["http://img3.douban.com/mpic/s3407353.jpg"], "desc": ["《Ruby设计模式》是一本关于设计模式方面的重点书籍。《Ruby设计模式》以通俗易懂的方式介绍了Ruby设计模式，主要包括Ruby概述、使用模板方法变换算法... "]}
+{"title": ["ACM-ICPC世界总决赛试题解析"], "img": ["http://img3.douban.com/mpic/s11329072.jpg"], "desc": ["《华章教育•ACM-ICPC世界总决赛试题解析(2004-2011年)》给出2004-2011年ACM国际大学生程序设计竞赛世界总决赛的所有试题的解析。《华... "]}
+{"title": ["写给大家看的C++书"], "img": ["http://img3.douban.com/mpic/s3811265.jpg"], "desc": ["在这个信息技术无所不在的时代，编程能力正在变得越来越重要。C++以高性能、易移植而著称，而且同时支持过程式、面向对象和泛型编程，是应用最为广泛的程序设计语言... "]}
+{"title": ["WCF全面解析（上下册）"], "img": ["http://img3.douban.com/mpic/s10190262.jpg"], "desc": ["《WCF全面解析(套装上下册)》由蒋金楠所著，是作者多年潜心研究WCF技术的心血之作，也是这些年来从事WCF开发的经验总结。书如其名，此书涵盖了WCF几乎所... "]}
+{"title": ["Android框架揭秘"], "img": ["http://img5.douban.com/mpic/s26553749.jpg"], "desc": ["《Android框架揭秘》通过对Android系统源代码的分析，主要介绍Android框架的初始化过程及主要组件的工作原理。作者直接分析和整理了Androi... "]}
+{"title": ["JavaScript核心概念及实践"], "img": ["http://img3.douban.com/mpic/s27274300.jpg"], "desc": ["本书不仅帮助读者迅速掌握JavaScript基础知识和核心技术，而且通过实例讲解如何将这些知识和技术理解应用到实际工作中，提升编程能力，以简洁、优美的代码开... "]}
+{"title": ["Computability and Complexity"], "img": ["http://img3.douban.com/mpic/s1659141.jpg"], "desc": ["Computability and complexity theory should be of central concern to practition... "]}
+{"title": ["Seven Databases in Seven Weeks"], "img": ["http://img3.douban.com/mpic/s7007763.jpg"], "desc": ["Redis, Neo4J, Couch, Mongo, HBase, Riak and Postgres. With each database, you'... "]}
+{"title": ["Linux Shell编程从初学到精通"], "img": ["http://img3.douban.com/mpic/s6296261.jpg"], "desc": ["《Linux Shell编程从初学到精通》介绍：Shell是用户与内核进行交互操作的一种接口，是Linux最重要的软件之一。目前最流行的Shell称为bas... "]}
+{"title": ["The Performance of Open Source Applications"], "img": ["http://img3.douban.com/mpic/s27091703.jpg"], "desc": ["In 1974, Donald Knuth wrote, "We should forget about small efficiencies, say a... "]}
+{"title": ["GAE编程指南"], "img": ["http://img3.douban.com/mpic/s4552843.jpg"], "desc": ["《GAE编程指南》是一种云计算服务，跟其他的同类产品不同，它提供了一种简单的应用程序构建模型，通过这种模型，你可以轻松地构建出能够容纳数百万用户的应用程序。... "]}
+{"title": ["Unity 3.x Game Development Essentials"], "img": ["http://img3.douban.com/mpic/s7039604.jpg"], "desc": []}
+{"title": ["Lua游戏开发实践指南"], "img": ["http://img3.douban.com/mpic/s24429644.jpg"], "desc": ["Lua语言于1993年诞生于巴西里约热内卢，至今已整整有20年历史。Lua设计的初衷是为了将用它编写的程序嵌入到其他应用程序中，以便于为整个应用程序提供灵活... "]}
+{"title": ["iOS 7 Programming Pushing the Limits"], "img": ["http://img5.douban.com/mpic/s27235579.jpg"], "desc": []}
+{"title": ["PHP 5权威编程"], "img": ["http://img5.douban.com/mpic/s5860028.jpg"], "desc": ["《BRUCE PERENS开源系列丛书•PHP 5权威编程》为大家全面介绍了PHP 5中的新功能、面向对象编程方法及设计模式，还分析阐述了PHP5中新的数据... "]}
+{"title": ["构建高性能可扩展ASP.NET网站"], "img": ["http://img3.douban.com/mpic/s4644544.jpg"], "desc": ["本书专门讲解如何利用ASP.NET和SQL Server开发出高性能、高扩展性的网站，并结合具体的问题给出切实有效的解决方案。除了给出构建高性能网站的技巧，... "]}
+{"title": ["Scala in Depth"], "img": ["http://img3.douban.com/mpic/s27177295.jpg"], "desc": ["Summary "Scala in Depth" is a unique new book designed to help you integrate S... "]}
+{"title": ["逆袭大学"], "img": ["http://img5.douban.com/mpic/s27229178.jpg"], "desc": ["《逆袭大学——传给IT学子的正能量》以作者近二十年的从教经历和义务为IT学子解答咨询的工作为基础，以认识专业为起点，以编程能力的提高为关键，帮助计算机类专业... "]}
+{"title": ["专业嵌入式软件开发"], "img": ["http://img3.douban.com/mpic/s8854242.jpg"], "desc": ["《专业嵌入式软件开发:全面走向高质高效编程》分为6篇。硬件篇就嵌入式软件开发所需掌握的处理器概念进行了介绍。工具篇对make、gcc编译器、bintuils... "]}
+{"title": ["虚拟机的设计与实现"], "img": ["http://img3.douban.com/mpic/s23380514.jpg"], "desc": ["《虚拟机的设计与实现:C\C++》内容简介描述了如何通过一系简单的步骤实现一个具有实用价值的运行时系统。对以下技术进行了深入的讨论：内存管理技术、TCP/I... "]}
+{"title": ["Software Design 中文版 01"], "img": ["http://img3.douban.com/mpic/s27239254.jpg"], "desc": ["《Software Design》是日本主流的计算机技术读物，旨在帮助程序员更实时、深入地了解前沿技术，扩大视野，提升技能。内容涵盖多平台软件开发技巧、云技... "]}
+{"title": ["Debugging with GDB"], "img": ["http://img3.douban.com/mpic/s1666283.jpg"], "desc": ["The GNU Debugger allows you to see what is going on "inside" a program while i... "]}
+{"title": ["C#高效编程"], "img": ["http://img3.douban.com/mpic/s4546872.jpg"], "desc": ["十载演进，C#日渐强大，新增了泛型、函数式编程概念，以及对静态类型和动态类型的支持，而大量新兴编程习惯背后，却是种种具有迷惑性的“陷阱”，Bill Wagn... "]}
+{"title": ["一个程序员的奋斗史"], "img": ["http://img5.douban.com/mpic/s26706476.jpg"], "desc": ["这是一本程序员写给程序员的小说。
+本书描写了一位刚从大学毕业，对社会懵懵懂懂的菜鸟程序员段伏枥，通过自身的努力，一步一步前行，最后成为技术高手，并荣获微软最... "]}
+{"title": ["Kinect应用开发实战"], "img": ["http://img3.douban.com/mpic/s24227762.jpg"], "desc": ["本书由微软资深企业架构师兼Kinect应用开发专家亲自执笔，既系统全面地讲解了Kinect技术的工作原理，又细致深入地讲解了Kinect交互设计、程序开发和... "]}
+{"title": ["并发的艺术"], "img": ["http://img5.douban.com/mpic/s4472687.jpg"], "desc": ["如果你希望通过并发编程来充分发挥多核处理器的强大功能，那么本书将为你提供所需的理论知识和实际经验。《并发的艺术》是为数不多的几本介绍如何在多核处理器的共享内... "]}
+{"title": ["Beginning Game Development with Python and Pygame"], "img": ["http://img3.douban.com/mpic/s2818495.jpg"], "desc": ["Like music and movies, video games are rapidly becoming an integral part of ou... "]}
+{"title": ["Effective C# 中文版改善C#程序的50种方法"], "img": ["http://img3.douban.com/mpic/s2373644.jpg"], "desc": ["本书围绕一些关于C#和.NET的重要主题，包括C#语言元素、.NET资源管理、使用C#表达设计、创建二进制组件和使用框架等，讲述了最常见的50个问题的解决方... "]}
+{"title": ["Pro Python"], "img": ["http://img3.douban.com/mpic/s4600203.jpg"], "desc": ["You've learned the basics of Python, but how do you take your skills to the ne... "]}
+{"title": ["Common Lisp"], "img": ["http://img3.douban.com/mpic/s2723575.jpg"], "desc": ["This book is about learning to program in Lisp. Although widely known as the p... "]}
+{"title": ["The Definitive Antlr Reference"], "img": ["http://img5.douban.com/mpic/s3553557.jpg"], "desc": ["ANTLR v3 is the most powerful, easy-to-use parser generator built to date, and... "]}
+{"title": ["内存数据管理"], "img": ["http://img3.douban.com/mpic/s11169852.jpg"], "desc": ["SAP创始人哈索教授在本书中提出了创新的概念：高性能的内存计算将改变企业的工作方式，并最终真正实现“实时”计算处理的许诺。内存计算技术将给以下三个相互关联的... "]}
+{"title": ["并行程序设计"], "img": ["http://img3.douban.com/mpic/s5747193.jpg"], "desc": ["本书系统介绍并行程序设计原理及应用。除介绍常用的一些算法范例，包括分治、流水、同步计算、主从及工作池，还介绍了一些常用的经典数值和非数值算法，如排序、矩阵相... "]}
+{"title": ["C++面向对象程序设计"], "img": ["http://img3.douban.com/mpic/s26009071.jpg"], "desc": ["《普通高等教育"十一五"国家级规划教材•中国高等院校计算机基础教育课程体系规划教材:C++面向对象程序设计》作者谭浩强深入调查了我国大学的程序设计课程的现状... "]}
+{"title": ["C++跨平台开发技术指南"], "img": ["http://img3.douban.com/mpic/s5952842.jpg"], "desc": ["《C++跨平台开发技术指南》详细介绍c++语言的跨平台技术，包含的主要内容有：Netscape在向数百万Win．dows、．MacOS和Linux用户发布浏... "]}
+{"title": ["程序设计导引及在线实践"], "img": ["http://img3.douban.com/mpic/s27054723.jpg"], "desc": ["本书是北京大学“程序设计实习”课程的内容和“北京大学程序在线评测系统”(Peking University Online Judge System，POJ)... "]}
+{"title": ["Clean Code"], "img": ["http://img5.douban.com/mpic/s8496299.jpg"], "desc": ["《Clean Code(评注版)》提出一种观念：代码质量与其整洁度成正比。干净的代码，既在质量上较为可靠，也为后期维护、升级奠定了良好的基础。《Clean ... "]}
+{"title": ["深入浅出WPF"], "img": ["http://img3.douban.com/mpic/s4465094.jpg"], "desc": ["WPF是微软新一代开发技术，涵盖了桌面应用程序开发、网络应用程序开发和移动应用程序开发，是微软开发技术未来十年的主要方向。
+本书的内容分为两大部分。第一部分... "]}
+{"title": ["MongoDB权威指南"], "img": ["http://img3.douban.com/mpic/s4692124.jpg"], "desc": ["mongodb如何帮你管理通过web应用收集的海量数据呢？通过本书的权威解读，你会了解面向文档数据库的诸多优点，会发现mongodb如此稳定、性能优越甚至能... "]}
+{"title": ["User Interface Design for Programmers"], "img": ["http://img3.douban.com/mpic/s4173552.jpg"], "desc": ["Most programmers' fear of user interface (UI) programming comes from their fea... "]}
+{"title": ["Advanced Mac OS X Programming"], "img": ["http://img3.douban.com/mpic/s7017115.jpg"], "desc": ["While there are several books on programming for Mac OS X, Advanced Mac OS X P... "]}
+{"title": ["C程序性能优化"], "img": ["http://img3.douban.com/mpic/s24611330.jpg"], "desc": ["本书作者精通C程序性能优化，具有近二十年的C语言编译器和解释器开发经验，还为实时图像处理专用芯片开发过C编译器。
+作者从CPU与编译器的运行机制讲起，带领读... "]}
+{"title": ["Android开发入门与实战"], "img": ["http://img5.douban.com/mpic/s27308766.jpg"], "desc": ["《Android 开发入门与实战(第二版)》遵循第一版的写作宗旨，通过本书的学习，让不懂Android开发的人系统地快速掌握Android开发的知识。《An... "]}
+{"title": ["Flash游戏编程基础教程"], "img": ["http://img3.douban.com/mpic/s6775825.jpg"], "desc": ["《Flash游戏编程基础教程》是Flash游戏设计方面的入门级图书。全
+书共包括5个完整的游戏项目。作者Rex van der Spuy循序渐进地讲解了游
+... "]}
+{"title": ["Advanced C++中文版"], "img": ["http://img3.douban.com/mpic/s1617533.jpg"], "desc": ["假定读者已经具备C++基本知识，本书通过展示C++语言风格和习惯用法，帮助读者提升C++的程序设计经验。这些方法围绕C++支持的抽象机制实施的：抽象数据类型... "]}
+{"title": ["Effective TCP/IP Programming"], "img": ["http://img5.douban.com/mpic/s3653449.jpg"], "desc": ["Programming in TCP/IP can seem deceptively simple. Nonetheless, many network p... "]}
+{"title": ["Machine Learning for Hackers"], "img": ["http://img5.douban.com/mpic/s22705757.jpg"], "desc": ["Now that storage and collection technologies are cheaper and more precise, met... "]}
+{"title": ["面向对象程序设计"], "img": ["http://img5.douban.com/mpic/s6513428.jpg"], "desc": ["本书深刻论述了C++语言的面向对象程序设计的各种技术。内容包括：面向对象编程方法、C++语言的各种特性、STL C++输入/输出流、MFC等。本书配备了大量... "]}
+{"title": ["Matlab for Neuroscientists"], "img": ["http://img3.douban.com/mpic/s3742214.jpg"], "desc": ["Matlab is the accepted standard for scientific computing, used globally in vir... "]}
+{"title": ["C++网络编程（卷1）"], "img": ["http://img3.douban.com/mpic/s1122522.jpg"], "desc": []}
+{"title": ["Principles of Object-Oriented JavaScript"], "img": ["http://img5.douban.com/mpic/s27222906.jpg"], "desc": ["If you've used a more traditional object-oriented language, such as C++ or Jav... "]}
+{"title": ["Android应用开发详解"], "img": ["http://img3.douban.com/mpic/s8895844.jpg"], "desc": ["《Android应用开发详解》分为三个部分，共18章，由浅入深地详细介绍了Android的每个开发细节。《Android应用开发详解》基础翔实，实例丰富，案... "]}
+{"title": ["Cocos2D-X游戏开发技术精解"], "img": ["http://img3.douban.com/mpic/s26706473.jpg"], "desc": []}
+{"title": ["LINUX设备驱动程序"], "img": ["http://img5.douban.com/mpic/s1527456.jpg"], "desc": ["本书揭示了如何给大多数的设备编写驱动程序的信息，这些信息迄今仅通过口头或者隐晦的源代码注释被共享。你不必是一个内核高手就可以理解并享受本书，所需要的只是C以... "]}
+{"title": ["The Art of Computer Programming, Volume 4, Fascicle 0"], "img": ["http://img3.douban.com/mpic/s3262060.jpg"], "desc": ["Product Description
+This multivolume work on the analysis of algorithms has lo... "]}
+{"title": ["Pro Android C++ with the NDK"], "img": ["http://img3.douban.com/mpic/s24601303.jpg"], "desc": ["Android is one of the major players in the mobile phone market. Android is a m... "]}
+{"title": ["Java程序性能优化"], "img": ["http://img5.douban.com/mpic/s25101909.jpg"], "desc": ["Java是目前应用最为广泛的软件开发平台，学习针对Java程序的优化方法有重要的现实意义。《Java程序性能优化：让你的Java程序更快、更稳定》以Java... "]}
+{"title": ["Oracle SQL高级编程"], "img": ["http://img5.douban.com/mpic/s8483776.jpg"], "desc": ["Oracle SQL高级编程，ISBN：9787115266149，作者：（美） Karen Morton Kerry Osborne Robyn Sand... "]}
+{"title": ["MATLAB编程"], "img": ["http://img3.douban.com/mpic/s5670833.jpg"], "desc": ["《MATLAB编程(第2版)(英文影印版)》为国外高校电子信息类优秀教材(英文影印版)之一。《MATLAB编程(第2版)(英文影印版)》详细讲述了如何用MA... "]}
+{"title": ["Storm实时数据处理"], "img": ["http://img3.douban.com/mpic/s27302761.jpg"], "desc": ["【编辑推荐】
+从多个角度全面讲解Storm实时数据处理技术和最佳实践，为快速掌握并灵活应用Storm提供实用指南；
+从实际问题出发，系统介绍Storm的基本... "]}
+{"title": ["高级Perl编程"], "img": ["http://img3.douban.com/mpic/s9138931.jpg"], "desc": ["无论你的Perl知识深浅如何，本书都将使你登堂入室，成为成功的程序员。在此你能学到产品级Perl程序所需的复杂技术。本书解释了操纵数据和对象的方法，而此前这... "]}
+{"title": ["The Little MLer"], "img": ["http://img3.douban.com/mpic/s7995361.jpg"], "desc": ["The book, written in the style of The Little Schemer, introduces instructors, ... "]}
+{"title": ["C# 3.0 in a Nutshell"], "img": ["http://img5.douban.com/mpic/s10381687.jpg"], "desc": ["This is a concise yet thorough reference to C# 3.0 programming as implemented ... "]}
+{"title": ["大型网站技术架构"], "img": ["http://img3.douban.com/mpic/s27250675.jpg"], "desc": ["本书通过梳理大型网站技术发展历程，剖析大型网站技术架构模式，深入讲述大型互
+联网架构设计的核心原理，并通过一组典型网站技术架构设计案例，为读者呈现一幅包括
+... "]}
+{"title": ["妙趣横生的算法"], "img": ["http://img5.douban.com/mpic/s6147677.jpg"], "desc": ["《妙趣横生的算法(C语言实现)》理论与实践相结合，旨在帮助读者理解算法，并提高C语言编程能力，培养读者的编程兴趣，并巩固已有的C语言知识。全书分为2个部分共... "]}
+{"title": ["Qt高级编程"], "img": ["http://img5.douban.com/mpic/s6471206.jpg"], "desc": ["《Qt高级编程》是一本阐述Qt高级编程技术的书籍。《Qt高级编程》以工程实践为主旨，是对Qt现有的700多个类和上百万字参考文档中部分关键技术深入、全面的讲... "]}
+{"title": ["Windows驱动开发技术详解"], "img": ["http://img3.douban.com/mpic/s5922272.jpg"], "desc": ["本书由浅入深、循序渐进地介绍了Windows驱动程序的开发方法与调试技巧。本书共分23章，内容涵盖了Windows操作系统的基本原理、NT驱动程序与WDM驱... "]}
+{"title": ["GPU精粹2"], "img": ["http://img3.douban.com/mpic/s10131954.jpg"], "desc": []}
+{"title": ["Functional Programming Patterns in Scala and Clojure"], "img": ["http://img5.douban.com/mpic/s27163247.jpg"], "desc": ["Functional languages have their own patterns that enable you to solve problems... "]}
+{"title": ["Intel® 64 and IA-32 Architectures Software Developer's Manual"], "img": ["http://img3.douban.com/mpic/s4159214.jpg"], "desc": ["The Intel® 64 and IA-32 Architectures Software Developer’s Manual, Volume 1:
+B... "]}
+{"title": ["OpenGL超级宝典"], "img": ["http://img3.douban.com/mpic/s24964363.jpg"], "desc": ["《OpenGL超级宝典(第4版)》是OpenGL及3D图形编程最好的入门指南，涵盖了使用最新版本的OpenGL进行编程所需要的主要知识。全书分3个部分，共2... "]}
+{"title": ["C#高级编程(第8版)"], "img": ["http://img3.douban.com/mpic/s27120123.jpg"], "desc": ["《c#高级编程(第8版)》是c# 2012和.net 4.5高级技术的终极资源，旨在帮助读者更新、提高用c# 2012和.net 4.5编写windows应... "]}
+{"title": ["The D Programming Language"], "img": ["http://img5.douban.com/mpic/s4542857.jpg"], "desc": [""To the best of my knowledge, D offers an unprecedentedly adroit integration o... "]}
+{"title": ["C#高级编程"], "img": ["http://img3.douban.com/mpic/s7626764.jpg"], "desc": ["《C#高级编程(第6版)》面向C#2008和NET 3.5，在全面展示，NET和C#新特性的同时继续完善原有的内容，是有一些C#基础知识的读者或者想迁移到C... "]}
+{"title": ["高性能PHP应用开发"], "img": ["http://img5.douban.com/mpic/s9019966.jpg"], "desc": ["《高性能PHP应用开发》是一本广受好评的PHP性能优化方面的图书，通过介绍PHP的原理和相关的工具集来实现调优性能的目的。它分析和研究了Web应用程序的前端... "]}
+{"title": ["C++ Design Patterns and Derivatives Pricing"], "img": ["http://img5.douban.com/mpic/s8871227.jpg"], "desc": []}
+{"title": ["Windows编程启示录"], "img": ["http://img3.douban.com/mpic/s2902742.jpg"], "desc": ["为什么Windows的工作方式是这样的？.
+为什么“关闭计算机（Shut Down）”选项要放在开始菜单中？
+为什么会设计一个“开始（Start）”按钮？
+... "]}
+{"title": ["Google Android SDK开发范例大全"], "img": ["http://img3.douban.com/mpic/s3830632.jpg"], "desc": ["本书以Android手机应用程序开发为主题，通过130多个范例全面且深度地整合了手机、网络及服务等多个开发领域，为读者提高程序设计功力提供了很大的帮助。.
+... "]}
+{"title": ["Node.js 实战"], "img": ["http://img5.douban.com/mpic/s27261368.jpg"], "desc": ["《Node.js 实战（双色）》通过8 个实例讲解了Node.js 在实战开发中的应用，涉及Node.js 常用框架、非关系型数据库、关系型数据库、运维命令... "]}
+{"title": ["Git Internals"], "img": ["http://img5.douban.com/mpic/s26714179.jpg"], "desc": ["It took me a pretty long time to really get Git. As I’ve continued to use Git ... "]}
+{"title": ["Object-Oriented Programming With ANSI-C"], "img": ["http://img5.douban.com/mpic/s27113949.jpg"], "desc": ["Object-oriented programming is the current cure-all — although it has been aro... "]}
+{"title": ["狂人C"], "img": ["http://img3.douban.com/mpic/s6250323.jpg"], "desc": ["《狂人C:程序员入门必备》以独特的方式全面地讲述了C语言（C89和C99）的基本概念和编程知识。面向初学者，对基本概念详尽透彻的剖析，强调良好的编程习惯和风... "]}
+{"title": ["操作系统设计与实现（上册）"], "img": ["http://img5.douban.com/mpic/s5811568.jpg"], "desc": ["本书是关于操作系统的权威教材。大多数关于操作系统的图书均重理论而轻实践，而本书则在这两者之间进行了较好的折中。本册详细探讨了操作系统的基本原理，包括进程、进... "]}
+{"title": ["ACE程序员指南"], "img": ["http://img5.douban.com/mpic/s1313368.jpg"], "desc": ["本书由ACE的几位核心开发者撰写，快速而直接地解释了怎样充分利用ACE。从介绍ACE开始，循序渐进，详细讨论了ACE的IPC设施、进程及线程管理以及一些高级... "]}
+{"title": ["Visual C++ 技术内幕（第四版）"], "img": ["http://img5.douban.com/mpic/s1200497.jpg"], "desc": ["在前三版的基础上，本书向读者详尽地介绍了Visual C++开发系统和复杂的32位Windows编程技术，全面诠释了Microsoft 的这个强大而复杂的开... "]}
+{"title": ["Developing Backbone.js Applications"], "img": ["http://img3.douban.com/mpic/s9114173.jpg"], "desc": ["If you want to build your site's frontend with the single-page application (SP... "]}
+{"title": ["jQuery Cookbook"], "img": ["http://img3.douban.com/mpic/s4617302.jpg"], "desc": ["jQuery simplifies building rich, interactive web frontends. Getting started wi... "]}
+{"title": ["自己动手写搜索引擎"], "img": ["http://img5.douban.com/mpic/s4046637.jpg"], "desc": ["《自己动手写搜索引擎》是猎兔企业搜索开发团队的软件产品研发和项目实践的经验汇总。《自己动手写搜索引擎》全方位展现出一个商用级别的Lucene搜索解决方案，主... "]}
+{"title": ["UNIX系统编程"], "img": ["http://img5.douban.com/mpic/s1321839.jpg"], "desc": ["本书深入阐述了能使UNIX操作系统发挥出量大功效的软件设计方法，对UNIX编程的精髓进行了清晰易懂的介绍。两位作者具有多年教学与科研经验，匠心独运，精耕细做... "]}
+{"title": ["iPhone & iPad cocos2d游戏开发实战"], "img": ["http://img3.douban.com/mpic/s7026621.jpg"], "desc": ["《iPhone & iPad cocos2d 游戏开发实战》介绍了cocos2d for iPhone 游戏引擎及相关工具，本书关注的是创建完整cocos2... "]}
+{"title": ["Modeling Derivatives in C++ (Wiley Finance)"], "img": ["http://img3.douban.com/mpic/s2593324.jpg"], "desc": ["This book is the definitive and most comprehensive guide to modeling derivativ... "]}
+{"title": ["Android开发入门教程"], "img": ["http://img5.douban.com/mpic/s4532717.jpg"], "desc": ["欢迎进入神秘的Android世界！自2008年相关设备进入市场以来，Android的发展日新月异，Android设备日益繁盛，而其背后开发应用潜藏的经济效益... "]}
+{"title": ["Linux内核完全注释"], "img": ["http://img5.douban.com/mpic/s8955528.jpg"], "desc": ["Linux内核完全注释，ISBN：9787111149682，作者：赵炯编著 "]}
+{"title": ["C++代码设计与重用"], "img": ["http://img3.douban.com/mpic/s2294003.jpg"], "desc": ["本书全面展示如何使用C++编写可重用的代码，从而提高程序员的开发效率。
+　　全书分为12章。包括重用性基本概念、类设计、扩展性、效率、错误、冲突、兼容性、继... "]}
+{"title": ["Django Web开发指南"], "img": ["http://img3.douban.com/mpic/s3789820.jpg"], "desc": ["本书讲述如何用Python框架Django构建出强大的Web解决方案，本书讲解了使用新的Django 1.0版的各种主要特性所需要的技术、工具以及概念。 全... "]}
+{"title": ["Managing Projects with GNU Make"], "img": ["http://img5.douban.com/mpic/s11232437.jpg"], "desc": ["The utility simply known as "make" is one of the most enduring features of bot... "]}
+{"title": ["An Introduction to Functional Programming Through Lambda Calculus"], "img": ["http://img5.douban.com/mpic/s6999897.jpg"], "desc": ["This well-respected text offers an accessible introduction to functional progr... "]}
+{"title": ["Arduino Cookbook"], "img": ["http://img5.douban.com/mpic/s4813929.jpg"], "desc": ["Create your own robots, toys, remote controllers, alarms, detectors, and more ... "]}
+{"title": ["Visual C# 2010从入门到精通"], "img": ["http://img3.douban.com/mpic/s4471851.jpg"], "desc": ["C#作为微软的旗舰编程语言，深受程序员喜爱，是他们编写高效应用程序的首选语言。Visual C# 2010新增了大量可圈可点的丰富特性，本书围绕着基础知识和... "]}
+{"title": ["写给程序员的Web设计书"], "img": ["http://img3.douban.com/mpic/s8473604.jpg"], "desc": ["《写给程序员的Web设计书》系统而深入地阐释了网站的设计与实现，帮助读者从开发人员的角度理解什么是设计。通读《写给程序员的Web设计书》之后，读者可以跨越纯... "]}
+{"title": ["Java Web整合开发王者归来"], "img": ["http://img5.douban.com/mpic/s6106647.jpg"], "desc": ["《Java Web整合开发王者归来(JSP+Servlet+Struts+Hibernate+Spring)》全面介绍了Java Web开发中的各种相关技术... "]}
+{"title": ["游戏脚本高级编程"], "img": ["http://img5.douban.com/mpic/s2144408.jpg"], "desc": ["《游戏脚本高级编程》是游戏开发经典丛书系列之一，适合游戏开发人员、业余游戏软件开发爱好者，也可以作为大专院校相关专业的参考书。 "]}
+{"title": ["Beginning C# Objects中文版"], "img": ["http://img3.douban.com/mpic/s1795705.jpg"], "desc": ["《Beginning C# Objects中文版:概念到代码》关注的是软件对象：什么是软件对象？为什么它们如此神奇而直白以及如何正确使用对象去构建一个软件应... "]}
+{"title": ["CUDA by Example"], "img": ["http://img3.douban.com/mpic/s7002462.jpg"], "desc": [""This book is required reading for anyone working with accelerator-based compu... "]}
+{"title": ["R in a Nutshell"], "img": ["http://img5.douban.com/mpic/s7041788.jpg"], "desc": ["R is rapidly becoming the standard for developing statistical software, and R ... "]}
+{"title": ["深入理解Java7"], "img": ["http://img3.douban.com/mpic/s10299565.jpg"], "desc": ["《深入理解Java 7:核心技术与最佳实践》的主要内容可分为三大部分：第一部分是1-6章，全面阐释Java 7在语法、JVM、类库和API等方面的所有重要新... "]}
+{"title": ["Hadoop实战"], "img": ["http://img5.douban.com/mpic/s8480468.jpg"], "desc": ["《Hadoop实战》作为云计算所青睐的分布式架构，Hadoop是一个用Java语言实现的软件框架，在由大量计算机组成的集群中运行海量数据的分布式计算，是谷歌... "]}
+{"title": ["Mahout实战"], "img": ["http://img3.douban.com/mpic/s27228655.jpg"], "desc": ["通过收集数据来学习和演进的计算机系统威力无穷。Mahout作为Apache的开源机器学习项目，把推荐系统、分类和聚类等领域的核心算法浓缩到了可扩展的现成的库... "]}
+{"title": ["Ruby Best Practices"], "img": ["http://img3.douban.com/mpic/s3837692.jpg"], "desc": ["How do you write truly elegant code with Ruby? Ruby Best Practices is for prog... "]}
+{"title": ["Wxpython in Action"], "img": ["http://img5.douban.com/mpic/s3880459.jpg"], "desc": ["How to build a state-of-the-art GUI using the wxPython toolkit. * co-authored ... "]}
+{"title": ["ROOTKITS"], "img": ["http://img5.douban.com/mpic/s3063356.jpg"], "desc": ["《ROOTKITS-Windows内核的安全防护》是目前第一本关于rootkit的详尽指南，包括rootkit的概念、它们是怎样工作的、如何构建和检测它们。... "]}
+{"title": ["How to Think Like a Scientist"], "img": ["http://img3.douban.com/mpic/s8037884.jpg"], "desc": ["Every day you answer questions-dozens, even hundreds of them. How do you find ... "]}
+{"title": ["深入剖析Tomcat"], "img": ["http://img5.douban.com/mpic/s7033788.jpg"], "desc": ["本书深入剖析Tomcat 4和Tomcat 5中的每个组件，并揭示其内部工作原理。通过学习本书，你将可以自行开发Tomcat组件，或者扩展已有的组件。 To... "]}
+{"title": ["The Definitive ANTLR 4 Reference"], "img": ["http://img5.douban.com/mpic/s24436529.jpg"], "desc": ["Programmers run into parsing problems all the time. Whether it's a data format... "]}
+{"title": ["程序员，你伤不起"], "img": ["http://img5.douban.com/mpic/s26824277.jpg"], "desc": ["本书是作者博客文章的精选集。是作者作为老牌程序员、现在的IT 创业者15 年软件开发生涯的心路历程和经验总结。涉及程序人生、开发经验、职业规划、创业心得。对... "]}
+{"title": ["Shell脚本专家指南"], "img": ["http://img5.douban.com/mpic/s6199596.jpg"], "desc": ["《Shell脚本专家指南》旨在为Linux、Unix以及OSx系统管理员提供短小精悍且功能强大的shell实现解决方案，教会读者如何使用现有调试器调试she... "]}
+{"title": ["Raspberry Pi Python编程入门"], "img": ["http://img3.douban.com/mpic/s27202034.jpg"], "desc": ["在小巧的 Raspberry Pi （树莓派）上创造各种神奇! 资深创客 Simon Monk 将带你领略 Raspberry Pi 应用程序的开发过程， ... "]}
+{"title": ["Web性能权威指南"], "img": ["http://img5.douban.com/mpic/s27249387.jpg"], "desc": ["本书是谷歌公司高性能团队核心成员的权威之作，堪称实战经验与规范解读完美结合的产物。本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全... "]}
+{"title": ["A Little Java, A Few Patterns"], "img": ["http://img5.douban.com/mpic/s3720528.jpg"], "desc": ["Java is a new object-oriented programming language that was developed by Sun M... "]}
+{"title": ["Web编程入门经典"], "img": ["http://img5.douban.com/mpic/s11372596.jpg"], "desc": ["Web编程入门经典：HTML、XHTML和CSS（第2版），ISBN：9787302215974，作者：（美）达科特 著，杜静，敖富江 译 "]}
+{"title": ["深入浅出Hibernate"], "img": ["http://img3.douban.com/mpic/s24396021.jpg"], "desc": ["本书由互联网上影响广泛的开放文档OpenDoc系列自由文献首份文档“Hibernate开发指南”发展而来。在编写过程中，进行了重新构思与组织，同时对内容的深... "]}
+{"title": ["Fortran95程序设计"], "img": ["http://img3.douban.com/mpic/s6627693.jpg"], "desc": ["《Fortran95程序设计》主要讲述了Fortran 95程序设计的方法，包括数值计算、计算机绘图、窗口程序设计、与Visual C/Visual Bas... "]}
+{"title": ["C安全编码标准"], "img": ["http://img3.douban.com/mpic/s4065111.jpg"], "desc": ["本书提供了在C编程语言中进行安全编码的指导方针，描述了C语言程序中导致软件潜在风险根源的编码错误，并根据严重性、被利用的可能性以及修补成本设置了优先级。每个... "]}
+{"title": ["Android应用开发"], "img": ["http://img3.douban.com/mpic/s11309162.jpg"], "desc": ["《Android应用开发》通过丰富而翔实的实例展示了在Android平台下开发手机应用软件所必需的概念和技术。书中不仅对Android应用程序的开发环境和调... "]}
+{"title": ["C++ Primer（第4版）习题解答"], "img": ["http://img5.douban.com/mpic/s5804898.jpg"], "desc": ["《C++ Primer习题解答》为C++ Primer（第4版）的配套书籍，根据C++ Primer（第4版）中所介绍的内容提供配套习题的解答，以帮助读者加... "]}
+{"title": ["Pearls of Functional Algorithm Design"], "img": ["http://img3.douban.com/mpic/s4483683.jpg"], "desc": ["Richard Bird takes a radically new approach to algorithm design, namely, desig... "]}
+{"title": ["Visual C++游戏编程基础"], "img": ["http://img5.douban.com/mpic/s24436706.jpg"], "desc": ["本书介绍了如何以Visual C++及DirectX来设计游戏，主要针对想学习游戏设计的初学者，通过本书深入浅出的概念与实例相结合来逐步实现自己制作游戏的梦... "]}
+{"title": ["C++探秘"], "img": ["http://img5.douban.com/mpic/s4569607.jpg"], "desc": ["这是一部与众不同的C++教程，它通过68个互动式讲座，把庞大的C++知识体系划分成若干小块，使读者可以快速学会C++。本书易学易用，读者只须了解基本的编程概... "]}
+{"title": [".NET设计规范"], "img": ["http://img5.douban.com/mpic/s1994088.jpg"], "desc": ["《.NET设计规范:.NET约定、惯用法与模式》适用于框架设计以及相关的专业技术人员，也适用于高等院校相关专业的学生和教师阅读参考。 "]}
+{"title": ["Ruby for Rails中文版"], "img": ["http://img5.douban.com/mpic/s2556608.jpg"], "desc": ["本书是世界顶尖的Ruby专家为Ruby初学者尤其是具备其他语言背景的Rails开发者量身打造的绝佳Ruby教程。在讲述Ruby知识的过程中，始终从Rails... "]}
+{"title": ["软件加密与解密"], "img": ["http://img5.douban.com/mpic/s9041848.jpg"], "desc": ["内容简介：
+对抗软件盗版、篡改和恶意逆向工程的理论、技巧和工具
+近十年来，人们在软件防盗版和防篡改技术的研发上取得了重大进展。这些技术在保护软件开发人员的知... "]}
+{"title": ["测试驱动开发"], "img": ["http://img3.douban.com/mpic/s27073420.jpg"], "desc": ["本书是测试驱动开发领域的开山之作，由软件工程领域泰斗、极限编程之父Kent Beck撰写，荣获第14界Jolt大奖，10余年畅销不衰，具有里程碑意义。书中不... "]}
+{"title": ["Linux高级程序设计"], "img": ["http://img5.douban.com/mpic/s3161947.jpg"], "desc": ["《Linux高级程序设计》是Linux程序设计领域的一部力作，讲解了大量程序员需要掌握的关键知识点，包括Linux开发中的基本工具、Linux系统编程、Li... "]}
+{"title": ["Head First iPhone Development"], "img": ["http://img5.douban.com/mpic/s4691676.jpg"], "desc": ["This practical book offers programmers the knowledge and code they need to cre... "]}
+{"title": ["High Performance Python"], "img": ["http://img3.douban.com/mpic/s3944800.jpg"], "desc": ["Chapter 1. Introduction
+Section 1.1. The High Performance Buzz-word
+Chapter 2.... "]}
+{"title": ["程序员成长路线图"], "img": ["http://img5.douban.com/mpic/s4718448.jpg"], "desc": ["作为IT人，谁不曾心怀梦想？谁不曾充满激情？
+谁不曾遭遇编程时的各种痛苦？
+谁不曾品尝过程序编成的喜悦？
+谁不曾遇到跳槽或留守等各种十字路口的抉择？
+谁不曾... "]}
+{"title": ["Version Control with Git"], "img": ["http://img5.douban.com/mpic/s7661516.jpg"], "desc": ["Version Control with Git takes you step-by-step through ways to track, merge, ... "]}
+{"title": ["Python编程入门（第3版）"], "img": ["http://img5.douban.com/mpic/s27142477.jpg"], "desc": ["Python是一种解释型、面向对象、动态数据类型的高级程序设计语言，自20世纪90年代初诞生至今，逐渐被广泛应用于处理系统管理任务和Web编程。
+本书用通俗... "]}
+{"title": ["Pro Android 2"], "img": ["http://img3.douban.com/mpic/s4698312.jpg"], "desc": ["Pro Android 2 shows you how to build real-world and fun mobile applications us... "]}
+{"title": ["JAVA2核心技术，卷II"], "img": ["http://img5.douban.com/mpic/s1869399.jpg"], "desc": ["《Java2核心技术卷2:高级特性》是Java 2技术权威指南，全面覆盖Java 2技术的高级主题，包括：多线程、集合框架、网络API、数据库编程、分布式对... "]}
+{"title": ["C和C++安全编码"], "img": ["http://img3.douban.com/mpic/s6092813.jpg"], "desc": ["《C和C++安全编码》是关于C和C++安全编码的著作。《C和C++安全编码》介绍了C和C++程序中已经导致危险的、破坏性的基本编程错误，包括在字符串、指针、... "]}
+{"title": ["C++应用程序性能优化"], "img": ["http://img5.douban.com/mpic/s2340929.jpg"], "desc": ["本书主要针对的是C++程序的性能优化，深入介绍C++程序性能优化的方法和实例。
+全书由4个篇组成，第1篇介绍C++语言的对象模型，该篇是优化C++程序的基础... "]}
+{"title": ["80X86汇编语言程序设计教程"], "img": ["http://img3.douban.com/mpic/s1167520.jpg"], "desc": ["内容提要
+本书分为三部分。第一部分是基础部分，以8086/8088为背景，以DOS和PC兼容机为软硬件平台，
+以MASM和TASM为汇编器，介绍汇编语言的有... "]}
+{"title": ["正则表达式经典实例"], "img": ["http://img3.douban.com/mpic/s4391405.jpg"], "desc": ["《正则表达式经典实例》讲解了基于8种常用的编程语言使用正则表达式的经典实例。书中提供了上百种可以在实战中使用的实例，以帮助读者使用正则表达式来处理数据和文本... "]}
+{"title": ["Machine Learning in Action"], "img": ["http://img3.douban.com/mpic/s7060834.jpg"], "desc": ["It's been said that data is the new "dirt"—the raw material from which and on ... "]}
+{"title": ["The Reasoned Schemer"], "img": ["http://img5.douban.com/mpic/s2552408.jpg"], "desc": ["The goal of The Reasoned Schemer is to help the functional programmer think lo... "]}
+{"title": ["疯狂Java讲义"], "img": ["http://img3.douban.com/mpic/s27273703.jpg"], "desc": ["《疯狂Java讲义(附光盘第2版)》是《疯狂Java讲义》的第2版，第2版保持了第1版系统、全面、讲解浅显、细致的特性，全面介绍了新增的Java 7的新特性... "]}
+{"title": ["PHP与MySQL基础教程"], "img": ["http://img3.douban.com/mpic/s26278810.jpg"], "desc": ["《PHP与MySQL基础教程(第2版)》采用基于任务的方法来讲授PHP和MySQL，使用大量图片指导读者深入学习语言，并向读者展示了如何构造Web站点。用简... "]}
+{"title": ["Common LISP. The Language. Second Edition"], "img": ["http://img3.douban.com/mpic/s1810113.jpg"], "desc": ["The defacto standard - a must-have for all LISP programmers.
+In this greatly e... "]}
+{"title": ["Cognition in Practice"], "img": ["http://img5.douban.com/mpic/s3553308.jpg"], "desc": ["Most previous research on human cognition has focused on problem-solving, and ... "]}
+{"title": ["Introduction to Computation and Programming Using Python"], "img": ["http://img5.douban.com/mpic/s26845957.jpg"], "desc": ["This book introduces students with little or no prior programming experience t... "]}
+{"title": ["Cocoa Programming Developer's Handbook"], "img": ["http://img5.douban.com/mpic/s4248598.jpg"], "desc": ["The Cocoa programming environment--Apple's powerful set of clean, object-orien... "]}
+{"title": ["实用算法的分析与程序设计"], "img": ["http://img3.douban.com/mpic/s9001644.jpg"], "desc": ["简介:国际信息学奥林匹克竞赛指导   
+主题词:电子计算机(学科: 竞赛学科: 中学学科: 教学参考资料)    
+更多同类图书:文化、科学、教育、体育>教... "]}
+{"title": ["OpenGL Insights"], "img": ["http://img3.douban.com/mpic/s20460390.jpg"], "desc": ["Get Real-World Insight from Experienced Professionals in the OpenGL Community ... "]}
+{"title": ["Creative Code"], "img": ["http://img5.douban.com/mpic/s4722348.jpg"], "desc": ["The work of digital design guru John Maeda as an educator and director of the ... "]}
+{"title": ["Java语言程序设计"], "img": ["http://img3.douban.com/mpic/s6520571.jpg"], "desc": ["本书是Java语言的经典教材，畅销多年不衰。本书全面整合了Java的特性，采用“先讲基础”的教学方式，循序渐进地介绍了程序设计基础、面向对象程序设计、GUI... "]}
+{"title": ["The Ruby Way中文版"], "img": ["http://img5.douban.com/mpic/s2751057.jpg"], "desc": ["《The Ruby Way 第二版》中文版采用“如何解决问题”的方式阐述Ruby编程，书中包含400多个按主题分类的示例。每个示例都回答了“如何使用Ruby... "]}
+{"title": ["卓有成效的程序员"], "img": ["http://img3.douban.com/mpic/s6136425.jpg"], "desc": ["《卓有成效的程序员(影印版)》内容简介：任何一个以开发软件为生的人都需要掌握一种经过实践检验的方法，来使自己工作得更好、更快、更高效。《卓有成效的程序员》在... "]}
+{"title": ["21st Century C"], "img": ["http://img3.douban.com/mpic/s24945240.jpg"], "desc": ["Throw out your old ideas of C, and relearn a programming language that’s subst... "]}
+{"title": ["ASP.NET 4高级程序设计（第4版）"], "img": ["http://img3.douban.com/mpic/s6640674.jpg"], "desc": ["《ASP.NET 4高级程序设计(第4版)》，本书是ASP.NET领域的鸿篇巨制，全面讲解了ASP.NET4的各种特性及其背后的工作原理，并给出了许多针对如... "]}
+{"title": ["lucene in action中文版"], "img": ["http://img3.douban.com/mpic/s1991055.jpg"], "desc": ["本书深入浅出地介绍了Lucene——一个开源的使用Java语言编写的全文搜索引擎开发包。它通过浅显的语言、大量的图注、丰富的代码示例，以及清晰的结构为读者呈... "]}
+{"title": ["Beginning Android 4 Application Development"], "img": ["http://img3.douban.com/mpic/s7664180.jpg"], "desc": ["Understand Android OS for both smartphone and tablet programming  This fast-pa... "]}
+{"title": ["精通Perl"], "img": ["http://img3.douban.com/mpic/s3593460.jpg"], "desc": ["本书是O’Reilly出版社Perl系列教程的第3本图书，介绍了Perl独特的工作机理和编程思想，以及如何把前两本的所有知识综合到一起，让你能够随心所欲地使... "]}
+{"title": ["好学的C++（第2版）"], "img": ["http://img3.douban.com/mpic/s8889913.jpg"], "desc": ["奥弗兰编著的《好学的C++（第2版）》以C++为背景讲述计算机编程，用示例强化理解、条分缕析C++，给出了经验总结和各语言特性的缘由和技巧。内容包括C++编... "]}
+{"title": ["用AngularJS开发下一代Web应用"], "img": ["http://img3.douban.com/mpic/s27105731.jpg"], "desc": ["AngularJS是一款来自Google的前端JS框架，它的核心特性有：MVC、双向数据绑定、指令和语义化标签、模块化工具、依赖注入、HTML模板，以及对常... "]}
+{"title": ["我的第一本C++书"], "img": ["http://img3.douban.com/mpic/s4721752.jpg"], "desc": ["每一个渴望学习C++语言的初学者都希望能够有一本全面的，实用的，同时又是生动有趣的入门书。这本入门书可以告诉这些初学者，整个C++世界有哪些内容构成，应该按... "]}
+{"title": ["Java程序员，上班那点事儿"], "img": ["http://img5.douban.com/mpic/s6045588.jpg"], "desc": ["《Java程序员，上班那点事儿》对于即将从事Java职业或初步从业的程序员来说是一本难得的好书。从生存、制胜、发展三个方面入手，为大家展示出程序员求职与工作... "]}
+{"title": ["程序设计语言理论基础"], "img": ["http://img3.douban.com/mpic/s10431561.jpg"], "desc": ["本书提出了一个框架，用于分析程序设计语言的语法、操作和语义性质，该框架基于称为类型化λ演算的数学系统。λ演算的主要特色是对于函数和其他可计算的值的一种记法，... "]}
+{"title": ["PERL实例精解"], "img": ["http://img5.douban.com/mpic/s3403576.jpg"], "desc": ["《PERL实例精解(原书第4版)》不仅是一本初学者指导，而且是关于Perl的完整指南，它包含了Perl应用的很多方面，从正则表达式处理到格式化报表，再到进程... "]}
+{"title": ["Clojure Data Analysis Cookbook"], "img": ["http://img3.douban.com/mpic/s27350543.jpg"], "desc": ["Data's everywhere! And, as it has become more pervasive, our desire to use it ... "]}
+{"title": ["Windows网络编程"], "img": ["http://img3.douban.com/mpic/s1252981.jpg"], "desc": ["
+       "]}
+{"title": ["Pro Django"], "img": ["http://img5.douban.com/mpic/s4244189.jpg"], "desc": ["Django is the leading Python web application development framework. Learn how ... "]}
+{"title": ["小小黑客之路"], "img": ["http://img3.douban.com/mpic/s4596214.jpg"], "desc": ["《小小黑客之路:黑客工具、攻防及防火墙编程入门》适合于编程爱好者和信息安全相关专业学生阅读，让我们在学习的道路上结伴同行。信息安全是一面双扇的门，左边写着“... "]}
+{"title": ["C++编程调试秘笈"], "img": ["http://img5.douban.com/mpic/s25137537.jpg"], "desc": ["《C++编程调试秘笈》内容简介：当你使用C++进行编程时，很容易犯下各种各样的错误。有哪些常见的错误和陷阱？它们有什么一般的规律和特点？如何避免犯这样的错误... "]}
+{"title": ["Python for Unix and Linux System Administration"], "img": ["http://img3.douban.com/mpic/s3355252.jpg"], "desc": ["Python is an ideal language for solving problems, especially in Linux and Unix... "]}
+{"title": ["图形程序开发人员指南"], "img": ["http://img5.douban.com/mpic/s1449826.jpg"], "desc": ["Michael Abrash's classic Graphics Programming Black Book is a compilation of M... "]}
+{"title": ["现代编译原理-C语言描述"], "img": ["http://img5.douban.com/mpic/s1852496.jpg"], "desc": ["《现代编译原理:C语言描述》全面讲述了现代编译器的结构、编译算法和实现方法，是Andrew w．Apple的“虎书”——Modern Compiler Im... "]}
+{"title": ["Software for Data Analysis"], "img": ["http://img5.douban.com/mpic/s4192727.jpg"], "desc": [""R is nowadays the language used in programming for statistics. Most of the th... "]}
+{"title": ["C语言解惑"], "img": ["http://img5.douban.com/mpic/s2739227.jpg"], "desc": ["本书脱胎于作者在C语言的摇篮——贝尔实验室教授C语言的讲稿，几乎涵盖了C语言各个方面的难点，并包含了一些其他书籍很少分析到的问题。在每个谜题后面都有详尽的解... "]}
+{"title": ["Google Android揭秘"], "img": ["http://img3.douban.com/mpic/s4205363.jpg"], "desc": ["这是一本全面介绍Android 相关知识的图书，全书分为三个部分，由浅入深，从Android 初级知识，讲到一些关于核心编程的实用示例，最后还讨论了一些高级... "]}
+{"title": ["Smalltalk Best Practice Patterns"], "img": ["http://img3.douban.com/mpic/s3376021.jpg"], "desc": ["This classic book is the definitive real-world style guide for better Smalltal... "]}
+{"title": ["Core Java, Volume I--Fundamentals"], "img": ["http://img3.douban.com/mpic/s4252195.jpg"], "desc": ["Product Description
+This revised edition of the classic Core Java™, Volume I–F... "]}
+{"title": ["Simply Scheme - 2nd Edition"], "img": ["http://img3.douban.com/mpic/s2684463.jpg"], "desc": ["For anyone learning the Scheme programming language, the second edition of Sim... "]}
+{"title": ["MFC Windows程序设计"], "img": ["http://img3.douban.com/mpic/s1100453.jpg"], "desc": ["《MFC Windows程序设计》是对其极为经典的第1版的全面更新，书中不仅扩展了已被认为是权威的Microsoft用于Windows API的功能强大的C... "]}
+{"title": ["TCP Sockets编程"], "img": ["http://img3.douban.com/mpic/s27080790.jpg"], "desc": ["本书从最底层的概念开始，然后是高层的Ruby包装器，最后涉及到更复杂的内容。最初你会学到如何使用Ruby所提供的底层调用来创建套接字，随后将会看到服务器以及... "]}
+{"title": ["Python编程入门经典"], "img": ["http://img3.douban.com/mpic/s11309882.jpg"], "desc": ["作为一门面向对象的开源编程语言，python易于理解和扩展，并且使用起来非常方便。《python编程入门经典》涵盖了python的方方面面，通过学习本书，读... "]}
+{"title": ["Hadoop in Practice"], "img": ["http://img3.douban.com/mpic/s23110381.jpg"], "desc": []}
+{"title": ["jQuery"], "img": ["http://img5.douban.com/mpic/s9102877.jpg"], "desc": ["jQuery: Novice to Ninja is a compilation of best-practice jQuery solutions to ... "]}
+{"title": ["Intermediate Perl"], "img": ["http://img5.douban.com/mpic/s2975136.jpg"], "desc": ["Perl is a versatile, powerful programming language used in a variety of discip... "]}
+{"title": ["特别版MATHEMATICA全书"], "img": ["http://img3.douban.com/mpic/s3325572.jpg"], "desc": ["
+       "]}
+{"title": ["跨平台软件开发"], "img": ["http://img5.douban.com/mpic/s2962548.jpg"], "desc": ["本书主要内容：
+（1）如何在开始新项目时就避免常见的可移植性错误，以便在进行移植时能够节省时间；
+（2）如何重构无法移植的现有代码，使之能够很容易地移植到新... "]}
+{"title": ["An Introduction to Parallel Programming"], "img": ["http://img3.douban.com/mpic/s4668670.jpg"], "desc": ["Author Peter Pacheco uses a tutorial approach to show students how to develop ... "]}
+{"title": ["Design Concepts in Programming Languages"], "img": ["http://img3.douban.com/mpic/s3661263.jpg"], "desc": ["Hundreds of programming languages are in use today--scripting languages for In... "]}
+{"title": ["精通Matlab 7"], "img": ["http://img3.douban.com/mpic/s10040783.jpg"], "desc": ["《精通Matlab7》是基于Matlab 7编写的。与之前的版本相比，Matlab 7添加和修改了一些内核数值算法，能支持各种数据类型的数学运算，而不仅仅是... "]}
+{"title": ["Thinking Recursively"], "img": ["http://img3.douban.com/mpic/s3989554.jpg"], "desc": ["The process of solving large problems by breaking them down into smaller, more... "]}
+{"title": ["The Little Book on CoffeeScript"], "img": ["http://img3.douban.com/mpic/s24853523.jpg"], "desc": ["This little book shows JavaScript developers how to build superb web applicati... "]}
+{"title": ["Mathematica Cookbook"], "img": ["http://img3.douban.com/mpic/s3872704.jpg"], "desc": ["As the leading software application for symbolic mathematics, Mathematica is s... "]}
+{"title": ["PHP & MySQL Web数据库应用开发指南"], "img": ["http://img5.douban.com/mpic/s5793818.jpg"], "desc": ["《PHP & MySQL Web数据库应用开发指南》(第2版)详细反映实际程序的需求，仔细地探讨外部数据的验证(例如信用卡卡号的格式)、用户登录以及如何使用... "]}
+{"title": ["SQL入门经典"], "img": ["http://img5.douban.com/mpic/s10047217.jpg"], "desc": []}
+{"title": ["HTML5 Canvas"], "img": ["http://img3.douban.com/mpic/s6329945.jpg"], "desc": ["HTML5 is revolutionizing the way web applications are developed, and this prac... "]}
+{"title": ["Perl高效编程"], "img": ["http://img3.douban.com/mpic/s6476313.jpg"], "desc": ["《Perl高效编程(第2版)》，本书是Perl编程领域的“圣经级”著作。它提供了一百多个详实的应用案例，足以涵盖编程过程中经常遇到的方方面面，由此详细阐释出... "]}
+{"title": ["C程序设计题解与上机指导"], "img": ["http://img3.douban.com/mpic/s1554201.jpg"], "desc": ["本书是与谭浩强所著的《C程序设计》（第三版）（清华大学出版社2005年出版）配合使用的参考书。内容包括： （1）《C程序设计》（第三版）一书的习题和参考解答... "]}
+{"title": ["C程序设计教程"], "img": ["http://img3.douban.com/mpic/s1365554.jpg"], "desc": ["《C程序设计教程》是《计算机科学丛书》之一。《C程序设计教程》详细叙述了C程序设计语言，强调用结构化程序设计方法编写程序，自始至终用完整的程序输出范例来演示... "]}
+{"title": ["Java网络编程(中文版 第三版)(O＇Reilly Java系列)"], "img": ["http://img3.douban.com/mpic/s1455603.jpg"], "desc": ["《Java网络编程》第三版会为你介绍Java网络API的最新特性。本书讨论了JDK 1.4和1.5（现在已命名为J2SE 5）中所做的所有修改和增补。本书内... "]}
+{"title": ["Head First C#"], "img": ["http://img5.douban.com/mpic/s4237197.jpg"], "desc": ["Head First C# is a complete learning experience for object-oriented programmin... "]}
+{"title": ["Fundamental Networking in Java"], "img": ["http://img3.douban.com/mpic/s4618834.jpg"], "desc": []}
+{"title": ["C++ GUI Programming with Qt 4 (2nd Edition) (Prentice Hall Open Source Software Development Series)"], "img": ["http://img3.douban.com/mpic/s4194871.jpg"], "desc": ["The Only Official, Best-Practice Guide to Qt 4.3 Programming Using Trolltech's... "]}
+{"title": ["Using Swift with Cocoa and Objective-C"], "img": ["http://img5.douban.com/mpic/s27313106.jpg"], "desc": ["Swift is a new programming language for creating iOS and OS X apps. Swift buil... "]}
+{"title": ["Java语言程序设计基础篇"], "img": ["http://img3.douban.com/mpic/s5917525.jpg"], "desc": ["《Java语言程序设计:基础篇(原书第6版)》从Java语言的特点入手，介绍了语法结构、面向对象程序设计基础知识面向对象程序设计、图形用户界面设计、异常处理... "]}
+{"title": ["Advanced Bash Scripting Guide 5.3 Volume 2"], "img": ["http://img3.douban.com/mpic/s3536775.jpg"], "desc": []}
+{"title": ["算法基础"], "img": ["http://img5.douban.com/mpic/s2397247.jpg"], "desc": []}
+{"title": ["MATLAB GUI设计学习手记"], "img": ["http://img3.douban.com/mpic/s6293170.jpg"], "desc": ["《MATLAB GUI设计学习手记(第2版)》在第1版的基础上，完善了全书知识结构，突出了gui设计重点，对读者经常遇到的38个问题作了透彻的解答，并提炼出... "]}
+{"title": ["GPU精粹"], "img": ["http://img5.douban.com/mpic/s26756768.jpg"], "desc": ["《GPU精粹:实时图形编程的技术技巧和技艺》汇集了当今国际上前沿开发者们经多年研究和实践得出的实用的实时图形技术成果。《GPU精粹:实时图形编程的技术技巧和... "]}
+{"title": ["计算机的心智"], "img": ["http://img3.douban.com/mpic/s3742943.jpg"], "desc": ["【内容简介】
+本书集中精力对操作系统的核心内容进行分析，包括操作系统发展的历史背景、进程与线程、内存管理、文件系统、输入与输出、多核环境下的进程调度和操作系... "]}
+{"title": ["C# Primer Plus中文版"], "img": ["http://img5.douban.com/mpic/s1941447.jpg"], "desc": ["本书全面介绍了微软最新推出的编程语言C#.第1章介绍了学习C#必需的软,硬件概念.第2-5章介绍了C#的基本语言元素与结构.第6-9章讲解了进行C#编程的一... "]}
+{"title": ["Java Generics and Collections"], "img": ["http://img3.douban.com/mpic/s27083980.jpg"], "desc": ["This comprehensive guide shows you how to master the most important changes to... "]}
+{"title": ["Python Pocket Reference"], "img": ["http://img3.douban.com/mpic/s11104733.jpg"], "desc": ["This fourth edition of "Python Pocket Reference" has been thoroughly revised t... "]}
+{"title": ["Hadoop实战（第2版）"], "img": ["http://img3.douban.com/mpic/s24321021.jpg"], "desc": ["本书能满足读者全面学习最新的Hadoop技术及其相关技术（Hive、HBase等）的需求，是一本系统且极具实践指导意义的Hadoop工具书和参考书。第1版上... "]}
+{"title": ["魔兽世界编程宝典"], "img": ["http://img5.douban.com/mpic/s4556539.jpg"], "desc": ["《魔兽世界编程宝典:World of Warcraft Addons完全参考手册》可以为以下对象提供帮助：希望学习如何修改已有插件的新手插件用户，希望向作品... "]}
+{"title": ["深入理解C指针"], "img": ["http://img5.douban.com/mpic/s27218456.jpg"], "desc": ["深入理解C指针和内存管理，提升编程效率！这是一本实战型图书，通过它，读者可以掌握指针动态操控内存的机制、对数据结构的增强支持，以及访问硬件等技术。本书详细阐... "]}
+{"title": ["R for Everyone"], "img": ["http://img5.douban.com/mpic/s27374958.jpg"], "desc": ["Using the free, open source R language, scientists, financial analysts, public... "]}
+{"title": ["Ajax基础教程"], "img": ["http://img3.douban.com/mpic/s1559481.jpg"], "desc": ["Ajax技术可以提供高度交互的Web应用，给予用户更丰富的页面浏览体验。本书重点介绍Ajax及相关的工具和技术，主要内容包括XMLHttpRequest对象... "]}
+{"title": ["精通Android 3"], "img": ["http://img3.douban.com/mpic/s7650805.jpg"], "desc": ["《精通Android 3》在上一版的基础上进行了全面改进，增加了Android内部构件的相关知识，介绍了线程、进程、长期运行的服务、广播接收程序和闹钟管理器... "]}
+{"title": ["Multicore Application Programming"], "img": ["http://img3.douban.com/mpic/s7080391.jpg"], "desc": ["Write High-Performance, Highly Scalable Multicore Applications for Leading Pla... "]}
+{"title": ["版本控制之道"], "img": ["http://img5.douban.com/mpic/s4339237.jpg"], "desc": ["《程序员修炼三部曲》丛书包含了三个部分，旨在帮助程序员解决在日常工作中遇到的一些具体问题，内容覆盖了对于现代软件开发非常重要的基础知识。这套丛书展现了注重实... "]}
+{"title": ["LINQ实战"], "img": ["http://img3.douban.com/mpic/s3849825.jpg"], "desc": ["LINQ是微软.NET软件开发平台上的一项突破性创新技术，它在面向对象语言与各种数据源之间架设了一座高效的桥梁，大大降低了软件开发的复杂度。
+本书内容全面详... "]}
+{"title": ["JavaScript 艺术与科学"], "img": ["http://img5.douban.com/mpic/s4533877.jpg"], "desc": ["本书由七位JavaScript领域的专家合作撰写，图文并茂，理论与实践紧密结合，通过大量示例代码帮助读者更好地理解和掌握最前沿的JavaScript知识与技... "]}
+{"title": ["Netty权威指南"], "img": ["http://img3.douban.com/mpic/s27294185.jpg"], "desc": ["《Netty权威指南》是异步非阻塞通信领域的经典之作，基于最新版本Netty 5.0编写，是国内首本深入介绍Netty原理和架构的技术书籍，也是作者多年实战... "]}
+{"title": ["Text Processing in Python"], "img": ["http://img3.douban.com/mpic/s4304243.jpg"], "desc": ["Text Processing in Python describes techniques for manipulation of text using ... "]}
+{"title": ["Real World Instrumentation with Python"], "img": ["http://img3.douban.com/mpic/s27186442.jpg"], "desc": ["Learn how to develop your own applications to monitor or control instrumentati... "]}
+{"title": ["基于OpenCV的计算机视觉技术实现"], "img": ["http://img3.douban.com/mpic/s5903073.jpg"], "desc": ["《基于OpenCV的计算机视觉技术实现》介绍了大约200多个典型的技术问题，覆盖了基于OpenCV基础编程的主要内容，利用大量生动有趣的编程案例和编程技巧，... "]}
+{"title": ["iOS网络编程与云端应用最佳实践"], "img": ["http://img3.douban.com/mpic/s26560212.jpg"], "desc": ["《清华开发者书库:iOS网络编程与云端应用最佳实践》是介绍iOS 6网络编程和云端应用开发技术书籍，介绍了苹果网络、数据交换格式、Web Service、i... "]}
+{"title": ["面向对象编程C++和Java比较教程"], "img": ["http://img3.douban.com/mpic/s9892015.jpg"], "desc": ["C++和Java是目前两种主流的面向对象编程语言。本书从基本结构到如何进行应用层次的编程，对这两种语言进行比较和对照，具有重要的学术价值和现实意义。
+   ... "]}
+{"title": ["Qt Creator快速入门"], "img": ["http://img3.douban.com/mpic/s10298804.jpg"], "desc": ["《Qt Creator快速入门》作为全面介绍Qt、QtCreator和QtQuick的入门级教材，也是市面上第一套详细介绍QtCreator和QtQuick... "]}
+{"title": ["程序设计中实用的数据结构"], "img": ["http://img5.douban.com/mpic/s8861697.jpg"], "desc": ["《程序设计中实用的数据结构》按照数据结构知识的分类，以线性表、树型问题和图型问题为基本构件，介绍了几十种存储方式和相应算法，同时深入浅出地分析和证明了每一种... "]}
+{"title": ["The Rails 3 Way"], "img": ["http://img3.douban.com/mpic/s7080321.jpg"], "desc": ["The Rails(t) 3 Way is a comprehensive resource that digs into the new features... "]}
+{"title": ["零基础学C语言"], "img": ["http://img3.douban.com/mpic/s4516153.jpg"], "desc": ["《零基础学C语言》的特点是内容全面、翔实，通俗易懂，循序渐进地介绍了C语言各方面的知识，重点突出。《零基础学C语言》含有大量实例，代码短小精炼，紧扣所讲要点... "]}
+{"title": ["精通.NET互操作"], "img": ["http://img5.douban.com/mpic/s6008776.jpg"], "desc": ["《精通.NET互操作P/Invoke,C++Interop和COM Interop》介绍Windows平台上的托管代码与非托管代码之间进行互操作的各种技术，... "]}
+{"title": ["GNU Autoconf, Automake, and Libtool"], "img": ["http://img5.douban.com/mpic/s3593246.jpg"], "desc": ["If you are a developer and are looking to participate in the Open Source devel... "]}
+{"title": ["Engineering Software as a Service"], "img": ["http://img3.douban.com/mpic/s27226573.jpg"], "desc": []}
+{"title": ["Dependency Injection"], "img": ["http://img5.douban.com/mpic/s4244489.jpg"], "desc": ["Dependency Injection is an in-depth guide to the current best practices for us... "]}
+{"title": ["Head First Ajax（中文版）"], "img": ["http://img3.douban.com/mpic/s27254095.jpg"], "desc": ["Head First Ajax（中文版），ISBN：9787508387918，作者：（美）赖尔 等著，苏金国 等译 "]}
+{"title": ["深入浅出Ajax"], "img": ["http://img5.douban.com/mpic/s5659437.jpg"], "desc": ["本书将教会您如何在很短的时间内掌握使用JavaScript代码来向服务器提交异步请求？同时，您可以学习如何使用诸如动态HTML、XML、JSON、DOM等技... "]}
+{"title": ["你就是极客"], "img": ["http://img3.douban.com/mpic/s8860664.jpg"], "desc": ["《你就是极客！软件开发人员生存指南》是一本软件工程师的职场指南，以虚构的人物和情景描述了极客的日常工作，对他们常遇到的各类棘手问题给予了巧妙回答。作者罗普以... "]}
+{"title": ["C#程序设计语言"], "img": ["http://img5.douban.com/mpic/s4043799.jpg"], "desc": ["C#语言结合了快速应用开发语言的高效和C／C++语言的强大。现在C# 3．0又加入了函数式编程技术和语言集成查询(Language INtegrated Q... "]}
+{"title": ["Java入门1•2•3"], "img": ["http://img5.douban.com/mpic/s4364318.jpg"], "desc": ["Java入门1·2·3：一个老鸟的Java学习心得，ISBN：9787302217831，作者：臧萌 编著 "]}
+{"title": ["软件设计的艺术"], "img": ["http://img3.douban.com/mpic/s6628173.jpg"], "desc": ["本书是一本经典著作，由众多卓越的软件和设计专业人员的论文及访谈录组成。本书的作者从不同角度，通过大量生动的实例，说明了什么是设计，给出了所有设计领域中共同的... "]}
+{"title": ["C++程序设计教程"], "img": ["http://img3.douban.com/mpic/s5802545.jpg"], "desc": ["《C++程序设计教程》是《C++程序设计教程》的第二版。然而从指导思想、内容结构、写作特点等方面，都以全新的面貌呈现于读者。全书全部重新执笔，代码全部重写，... "]}
+{"title": ["论道HTML5"], "img": ["http://img5.douban.com/mpic/s9042118.jpg"], "desc": ["内容简介：
+本书先简要介绍了如何用HTML5 和CSS3 制作网站，然后全面介绍了API 和Canvas 2D，接着介绍了如何在手机浏览器上开发HTML5 ... "]}
+{"title": ["Verilog数字系统设计教程"], "img": ["http://img3.douban.com/mpic/s9826562.jpg"], "desc": ["《Verilog数字系统设计教程》可作为电子工程类、自动控制类、计算机类的大学本科高年级及研究生教学用书，亦可供其他工程人员自学与参考。 "]}
+{"title": ["Matplotlib for Python Developers"], "img": ["http://img3.douban.com/mpic/s4272120.jpg"], "desc": []}
+{"title": ["软件之道"], "img": ["http://img3.douban.com/mpic/s8950064.jpg"], "desc": ["相 信大家常常听说某些工具、技术和实践方法可以改进软件开发，但其中哪些说法是可被证实的，哪些仅仅是人们一厢情愿的想法？本书收录了Steve McConnel... "]}
+{"title": ["Programming C#中文版"], "img": ["http://img5.douban.com/mpic/s2764328.jpg"], "desc": ["《Programming C#》(中文版)(第4版)是经典C#语言书Programming c#的最新版第4版。著名作者Jesse Liberty为有经验的... "]}
+{"title": ["Introduction to Scientific Programming and Simulation Using R"], "img": ["http://img3.douban.com/mpic/s4208575.jpg"], "desc": ["Known for its versatility, the free programming language R is widely used for ... "]}
+{"title": ["数据结构编程实验"], "img": ["http://img5.douban.com/mpic/s9104319.jpg"], "desc": ["本书以知识体系结构和思维方式两个方面作为主线，分成四大篇14章介绍了基本能力的编程实验（基础）、线性数据结构的编程实验（线性表）、层次类非线性表的编程实验（... "]}
+{"title": ["WebGL"], "img": ["http://img3.douban.com/mpic/s24520870.jpg"], "desc": ["Get a quick introduction to WebGL, the new standard for 3D rendering on the we... "]}
+{"title": ["Head First Web Design"], "img": ["http://img3.douban.com/mpic/s3587371.jpg"], "desc": ["Want to know how to make your pages look beautiful, communicate your message e... "]}
+{"title": ["jQuery Mobile即学即用"], "img": ["http://img5.douban.com/mpic/s25672008.jpg"], "desc": ["《图灵程序设计丛书:jQuery Mobile即学即用》着眼于移动Web应用开发实战，从应用结构和导航开始，分门别类地介绍了jQueryMobile为开发人... "]}
+{"title": ["Pig编程指南"], "img": ["http://img5.douban.com/mpic/s27327616.jpg"], "desc": []}
+{"title": ["Java消息服务"], "img": ["http://img3.douban.com/mpic/s4112013.jpg"], "desc": ["本书深入浅出地讲解了JMS1.1规范的底层技术、Java类和接口、编程模型及其不同实现等Java消息服务（JMS）和消息传送机制关键技术。通过对支持点对点和... "]}
+{"title": ["Numerical Recipes in C"], "img": ["http://img3.douban.com/mpic/s4133150.jpg"], "desc": []}
+{"title": ["黑客攻防技术宝典"], "img": ["http://img3.douban.com/mpic/s6779762.jpg"], "desc": ["《黑客攻防技术宝典:系统实战篇(第2版)》由世界顶级安全专家亲自执笔，详细阐述了系统安全、应用程序安全、软件破解、加密解密等安全领域的核心问题，并用大量的实... "]}
+{"title": ["Dynamic HTML权威指南"], "img": ["http://img5.douban.com/mpic/s3780767.jpg"], "desc": ["本书涵盖了最新的Web规范和各种浏览器功能特性，如果您要使用HTML、XHTML、CSS、文档对象模型（DOM）和JavaScript进行开发，那么它正是您... "]}
+{"title": ["Unity 4.X 从入门到精通"], "img": ["http://img3.douban.com/mpic/s27197994.jpg"], "desc": ["本书由Unity Techndogies主编全书分为操作篇和开发篇两个部分。操作篇从初学者的角度来讲解Unity引擎的相关知识，详尽介绍了Unity编辑器的... "]}
+{"title": ["Java程序设计语言"], "img": ["http://img5.douban.com/mpic/s1921456.jpg"], "desc": ["《Java 程序设计语言(第4版)》主要讲授Java程序设计语言，系统地介绍Java的主要包（即java.lang.*、java.util和java.io）... "]}
+{"title": ["JavaScript入门经典"], "img": ["http://img3.douban.com/mpic/s6306423.jpg"], "desc": ["《JavaScript入门经典(第4版)》对上一版本做了。全面更新，使JavaScript代码适用于最新版本的IE、Firefox和Safari浏览器。Ja... "]}
+{"title": ["C语言深度解剖"], "img": ["http://img5.douban.com/mpic/s6500416.jpg"], "desc": ["《C语言深度解剖:解开程序员面试笔试的秘密》由作者结合自身多年嵌入式c语言开发经验和平时讲解C语言的心得体会整理而成，其中有很多作者独特的见解或看法。由于并... "]}
+{"title": ["Binary Hacks"], "img": ["http://img3.douban.com/mpic/s4573004.jpg"], "desc": ["《Binary Hacks:黑客秘笈100选》的主题是关于底层程序的技术。说到底层，就是和“原始的”计算机很接近的意思。软件的世界是一个抽象化的积累，逐步演... "]}
+{"title": ["COM原理与应用"], "img": ["http://img3.douban.com/mpic/s1205000.jpg"], "desc": ["内容简介
+本书不仅介绍了C0M的基本原理及其扩展知识，还讲述了MTS及COM＋的一些知识。全书分为三
+部分，第一部分为C0M基础，第二部分为C0M扩展，第三... "]}
+{"title": ["Python for Data Analysis"], "img": ["http://img3.douban.com/mpic/s27047760.jpg"], "desc": ["Finding great data analysts is difficult. Despite the explosive growth of data... "]}
+{"title": ["用TCP/IP进行网际互联"], "img": ["http://img3.douban.com/mpic/s10909872.jpg"], "desc": ["《国外计算机科学教材系列·用TCP/TP进行网际互联(第3卷):客户-服务器编程与应用(Linux.POSIX套接字版)》是一部关于计算机网络的经典教科书。... "]}
+{"title": ["C#图解教程"], "img": ["http://img3.douban.com/mpic/s10408565.jpg"], "desc": ["《C#图解教程》是一本广受赞誉的C#教程。它以图文并茂的形式，用朴实简洁的文字，并辅之以大量表格和代码示例，精炼而全面地阐述了最新版C# 语言的各种特性，使... "]}
+{"title": ["Verilog HDL高级数字设计"], "img": ["http://img5.douban.com/mpic/s1166878.jpg"], "desc": ["《Verilog HDL高级数字设计》结构清晰，内容组织合理、适合于计算机机、电子等相关专业本科高年级学生或研究生课程，同时也通用于学习VerilogHDL... "]}
+{"title": ["21天学通C语言"], "img": ["http://img5.douban.com/mpic/s1287296.jpg"], "desc": ["21天学通C语言，ISBN：9787115111449，作者：(美)Bradley L. Jones，(美)Peter Aitken著；信达工作室译 "]}
+{"title": ["游戏之巅"], "img": ["http://img3.douban.com/mpic/s26696061.jpg"], "desc": ["《游戏之巅：游戏背后的创业风云》精选了十几位成功的软件游戏公司创业者的创业成长经历，重点介绍他们在游戏行业创业和打拼的心得体会以及游戏行业的特点和风险，具体... "]}
+{"title": ["An Introduction to R"], "img": ["http://img3.douban.com/mpic/s4368591.jpg"], "desc": ["This manual provides an introduction to "R", a software package for statistica... "]}
+{"title": ["内核漏洞的利用与防范"], "img": ["http://img5.douban.com/mpic/s8933829.jpg"], "desc": ["本书系统地讲解内核级别漏洞利用所需的理论技术和方法，并将其应用于主流操作系统——UNIX家族、Mac OS X和 Windows。本书分4个部分：第一部分介... "]}
+{"title": ["Everyday Scripting with Ruby"], "img": ["http://img5.douban.com/mpic/s2808167.jpg"], "desc": ["Are you a tester who spends more time manually creating complex test data than... "]}
+{"title": ["Pro Android 4"], "img": ["http://img5.douban.com/mpic/s24394368.jpg"], "desc": ["Pro Android 4 shows you how to build real-world and fun mobile apps using the ... "]}
+{"title": ["Financial Instrument Pricing Using C++"], "img": ["http://img3.douban.com/mpic/s7091343.jpg"], "desc": ["One of the best languages for the development of financial engineering and ins... "]}
+{"title": ["一步步写嵌入式操作系统"], "img": ["http://img5.douban.com/mpic/s6262219.jpg"], "desc": ["《一步步写嵌入式操作系统:ARM编程的方法与实践》是一本介绍怎样去实际编写一款嵌入式操作系统的书，所涉及的内容包括操作系统基本原理以及这些原理在嵌入式平台中... "]}
+{"title": ["最优化方法及其Matlab程序设计"], "img": ["http://img3.douban.com/mpic/s6222190.jpg"], "desc": ["《最优化方法及其Matlab程序设计》较系统地介绍了非线性最优化问题的基本理论和算法，以及主要算法的Matlab程序设计，主要内容包括（精确或非精确）线搜索... "]}
+{"title": ["Getting Real"], "img": ["http://img5.douban.com/mpic/s4251117.jpg"], "desc": ["Everyone values honest communication, yet few people possess the requisite ski... "]}
+{"title": ["Android系统原理及开发要点详解"], "img": ["http://img3.douban.com/mpic/s6111260.jpg"], "desc": ["《Android系统原理及开发要点详解》全面介绍开放的移动电话平台Android系统，包括Android系统中的Linux驱动、本地框架、Java框架和Ja... "]}
+{"title": ["Core HTML5 Canvas"], "img": ["http://img3.douban.com/mpic/s24527090.jpg"], "desc": ["One of HTML5,s most exciting features, Canvas provides a powerful 2D graphics ... "]}
+{"title": ["Test-driven IOS Development"], "img": ["http://img5.douban.com/mpic/s9015918.jpg"], "desc": ["As iOS apps become increasingly complex and business-critical, iOS developers ... "]}
+{"title": ["Redis"], "img": ["http://img5.douban.com/mpic/s4650857.jpg"], "desc": ["Written by the Redis dream team-including its creator, key developers, and the... "]}
+{"title": ["算法设计技巧与分析"], "img": ["http://img3.douban.com/mpic/s1408354.jpg"], "desc": ["本书是国际著名算法专家李德财教授主编的系列丛书“Lecture Notes Series on Computing”中的一本。本书涵盖了绝大多数算法设计中的... "]}
+{"title": ["敏捷开发的艺术"], "img": ["http://img3.douban.com/mpic/s3980584.jpg"], "desc": ["本书为那些正在考虑应用敏捷开发来构建有价值软件的人们提供了实用的指导。现在已经有大量的书籍描述敏捷开发是什么或者为什么它能帮助软件项目成功，但很少有哪一本书... "]}
+{"title": ["The Well-Grounded Rubyist"], "img": ["http://img3.douban.com/mpic/s4226161.jpg"], "desc": ["HIGHLIGHT  The perfect introduction to Ruby, completely updated for Ruby 1.9. ... "]}
+{"title": ["XMPP高级编程"], "img": ["http://img3.douban.com/mpic/s6778732.jpg"], "desc": ["《XMPP高级编程:使用Java Script和jQuery》内容简介：XMPP是一个广泛用于即时通信、多用户聊天、语言和视频会议、协作空间、实时游戏、数据... "]}
+{"title": ["Introduction to Programming in Java"], "img": ["http://img3.douban.com/mpic/s3189664.jpg"], "desc": ["By emphasizing the application of computer  programming not only in success st... "]}
+{"title": ["C++编程艺术"], "img": ["http://img5.douban.com/mpic/s5721129.jpg"], "desc": ["本书揭示了C++程序员创建世界级软件的奥秘。程序设计大师Herbert Schildt通过将C++语言广泛应用于功能强大的编程任务中，全面展示了C++语言的... "]}
+{"title": ["Event-Based Programming"], "img": ["http://img3.douban.com/mpic/s23126414.jpg"], "desc": []}
+{"title": ["Concurrent Programming"], "img": ["http://img5.douban.com/mpic/s26251339.jpg"], "desc": ["The advent of new architectures and computing platforms mean that synchronizat... "]}
+{"title": ["Android内核剖析"], "img": ["http://img5.douban.com/mpic/s6937206.jpg"], "desc": ["由柯元旦编著的《Android内核剖析》详细分析了Android内核的内部机制，包括窗口管理系统、Activity管理系统、输入法框架、编译系统等，为And... "]}
+{"title": ["Learning Core Audio"], "img": ["http://img5.douban.com/mpic/s11155846.jpg"], "desc": ["Audio can affect the human brain in the most powerful and profound ways. Using... "]}
+{"title": ["疯狂的程序员"], "img": ["http://img5.douban.com/mpic/s3325997.jpg"], "desc": ["本书描写了绝影等程序员的成长之路，分为大学、工作、创业三部分。作者笔下以绝影、BOSS liu、Bug Yang等为代表的程序员是大多程序员成长的真实写照，... "]}
+{"title": ["PHP与MySQL程序设计"], "img": ["http://img5.douban.com/mpic/s3747918.jpg"], "desc": ["PHP语言和MySQL数据库这两种开源技术已经成为开发Web应用的最佳组合。Web 2.0为它们提供了更广阔的天地。
+本书是久负盛名的经典著作，以内容全面、... "]}
+{"title": ["Java I/O"], "img": ["http://img5.douban.com/mpic/s8033778.jpg"], "desc": ["All of Java's Input/Output (I/O) facilities are based on streams, which provid... "]}
+{"title": ["A Beginner's Guide to R"], "img": ["http://img3.douban.com/mpic/s8714963.jpg"], "desc": ["Based on their extensive experience with teaching R and statistics to applied ... "]}
+{"title": ["Hacking and Securing iOS Applications"], "img": ["http://img3.douban.com/mpic/s7411104.jpg"], "desc": ["Based on unique and previously undocumented research, this book by noted iOS e... "]}
+{"title": ["内存受限系统之软件开发"], "img": ["http://img3.douban.com/mpic/s5703541.jpg"], "desc": ["PDA软件市场不但巨大，而且持续成长。五年之内，全世界将有大量人口使用精明时髦，可上网的移动电话。每个家庭都有一台PC？！或许吧，但更可能每个人的口袋里都有... "]}
+{"title": ["3D数学基础"], "img": ["http://img3.douban.com/mpic/s1986494.jpg"], "desc": ["本书主要研究隐藏在3D几何世界背后的数学问题。3D数学是一门与计算几何相关的学科，计算几何则是研究怎样用数值方法解决几何问题的学科。3D数学和计算几何广泛应... "]}
+{"title": ["应用密码学"], "img": ["http://img5.douban.com/mpic/s1151069.jpg"], "desc": ["应用密码学：协议、算法与C源程序，ISBN：9787111075882，作者：（美）Bruce Schneier著；吴世忠 等译 "]}
+{"title": ["Struts2权威指南"], "img": ["http://img3.douban.com/mpic/s26030984.jpg"], "desc": ["《Struts2权威指南:基于WebWork核心的MVC开发》介绍的Struts 2已经完全超出了Struts 1框架原有的高度，Struts 2建立在St... "]}
+{"title": ["NSHipster"], "img": ["http://img3.douban.com/mpic/s27174172.jpg"], "desc": ["To be an NSHipster is to care deeply about the craft of writing code. In culti... "]}
+{"title": ["Perl Cookbook, Second Edition"], "img": ["http://img3.douban.com/mpic/s7715760.jpg"], "desc": [""Perl Cookbook" is a comprehensive collection of problems, solutions, and prac... "]}
+{"title": ["C#经典编程220例"], "img": ["http://img3.douban.com/mpic/s26692694.jpg"], "desc": ["《C#学习路线图•C#经典编程220例》以基础知识为框架，介绍各部分知识所对应的常用开发实例，并进行透彻地解析。内容包括c#语言及其开发环境、c#语言基础、... "]}
+{"title": ["Twisted Network Programming Essentials"], "img": ["http://img3.douban.com/mpic/s3832445.jpg"], "desc": ["Developing With Python's Event-driven Framework "]}
+{"title": ["C#高级编程(第4版)"], "img": ["http://img3.douban.com/mpic/s2008485.jpg"], "desc": ["C＃经典名著！也是Wrox红皮书中最畅销的品种之一，从第一版开始就名满天下；其第3版被中华读书报、CSDN、《程序员》等机构评选为2005年最权威的十大IT... "]}
+{"title": ["jQuery 技术内幕"], "img": ["http://img3.douban.com/mpic/s27215132.jpg"], "desc": ["本书首先通过“总体架构”梳理了各个模块的分类、功能和依赖关系，让大家对jQuery的工作原理有大致的印象；进而通过“构造 jQuery 对象”章节分析了构造... "]}
+{"title": ["学习R"], "img": ["http://img3.douban.com/mpic/s27266021.jpg"], "desc": ["本书分为上下两部分，旨在指导你如何使用R，并提供练习的机会。上半部分主要介绍R的技术细节和使用技巧。每章都简要介绍了一组不同的数据类型（例如第4章介绍向量、... "]}
+{"title": ["AppStore掘金"], "img": ["http://img5.douban.com/mpic/s4208426.jpg"], "desc": ["《AppStore掘金:iPhone SDK应用程序开发》全面概括了使用苹果公司官方SDK为iPhone/iPod Touch开发应用程序的方方面面，包括开... "]}
+{"title": ["Flash ActionScript 3.0 动画高级教程"], "img": ["http://img3.douban.com/mpic/s6104912.jpg"], "desc": ["《Flash ActionScript 3.0 动画高级教程》是介绍Flash 10 ActionScript动画高级技术的经典之作，是作者在这一领域中多年... "]}
+{"title": ["JavaScript & jQuery"], "img": ["http://img3.douban.com/mpic/s7278284.jpg"], "desc": ["You don't need programming experience to add interactive and visual effects to... "]}
+{"title": ["使用Perl实现系统管理自动化 第二版（中文版）"], "img": ["http://img3.douban.com/mpic/s9098464.jpg"], "desc": ["《使用Perl实现系统管理自动化(第2版)(中文版)》不仅提供了可用于工作的恰当工具，还给出了许多建议，帮助你解决特定问题以及安全地自动处理重复事务。这一版... "]}
+{"title": ["More Effective C#中文版"], "img": ["http://img5.douban.com/mpic/s4101126.jpg"], "desc": ["“作为C#设计组的成员，很少有书能够让我从中学到什么新东西，本书则是个例外，它很好地将特定的代码和深入的分析结合了起来。……这一富有洞察力的、充满远见的内容... "]}
+{"title": ["汇编语言的编程艺术"], "img": ["http://img5.douban.com/mpic/s7058839.jpg"], "desc": ["《汇编语言的编程艺术(第2版)》内容简介：汇编语言是一种低级编程语言，只比计算机本身的机器语言高一级。虽然汇编语言经常用于编写设备驱动程序、模拟器和视频游戏... "]}
+{"title": ["并行程序设计原理"], "img": ["http://img3.douban.com/mpic/s6051984.jpg"], "desc": ["《并行程序设计原理》内容新颖，涉及现代并行硬件和软件技术，包括多核体系结构及其并行程序设计技术。《并行程序设计原理》侧重论述并行程序设计的原理，并论述了并行... "]}
+{"title": ["疯狂Java"], "img": ["http://img3.douban.com/mpic/s8490944.jpg"], "desc": ["《疯狂Java：突破程序员基本功的16课(修订版)》是Java领域著名研究专家、Java语言培训导师、“疯狂Java”创始人李刚老师的又一倾心力作。
+在《疯... "]}
+{"title": ["Java夜未眠"], "img": ["http://img3.douban.com/mpic/s1403563.jpg"], "desc": ["本书是一本散文集。作为一名资深程序设计师，作者走笔清新面独特，简练俏皮的文字下，是作者对工作，对人生的理性思考。书中收录的文章内容贴近程序员的生活，能令读者... "]}
+{"title": ["Professional Java Development with the Spring Framework"], "img": ["http://img3.douban.com/mpic/s4268422.jpg"], "desc": ["The Spring Framework is a major open source application development framework ... "]}
+{"title": ["Hacking Vim"], "img": ["http://img5.douban.com/mpic/s2543738.jpg"], "desc": []}
+{"title": ["Debugging with Fiddler"], "img": ["http://img3.douban.com/mpic/s24546734.jpg"], "desc": []}
+{"title": ["The Node Beginner Book"], "img": ["http://img5.douban.com/mpic/s11160029.jpg"], "desc": []}
+{"title": ["领域驱动设计与模式实战"], "img": ["http://img3.douban.com/mpic/s3995623.jpg"], "desc": ["“本书向读者展示了如何将测试驱动设计、对象-关系映射和领域驱动设计等方法应用于.NET项目……书中介绍的技术在很多开发人员看来是未来软件开发的关键……随着技... "]}
+{"title": ["Python Programming"], "img": ["http://img3.douban.com/mpic/s27234143.jpg"], "desc": ["This is the second edition of John Zelle's Python Programming, updated for Pyt... "]}
+{"title": ["Python计算与编程实践"], "img": ["http://img3.douban.com/mpic/s10458143.jpg"], "desc": ["计算机程序设计课程往往是枯燥乏味的，而本书根据教育理论，开发了一种新的教学方法，介绍如何通过多媒体编程来学习计算机程序设计，将趣味性和实用性融于枯燥的编程课... "]}
+{"title": ["Implementing Functional Languages"], "img": ["http://img5.douban.com/mpic/s4822877.jpg"], "desc": []}
+{"title": ["Bash Cookbook"], "img": ["http://img3.douban.com/mpic/s3572313.jpg"], "desc": ["The key to mastering any Unix system, especially Linux and Mac OS X, is a thor... "]}
+{"title": ["The Annotated C++ Reference Manual"], "img": ["http://img5.douban.com/mpic/s3814949.jpg"], "desc": ["This book provides a complete reference for the C++ programming language. It c... "]}
+{"title": ["Code Generation in Action"], "img": ["http://img3.douban.com/mpic/s1511074.jpg"], "desc": ["Developers using code generation are producing higher quality code faster than... "]}
+{"title": ["Realm of Racket"], "img": ["http://img3.douban.com/mpic/s27116432.jpg"], "desc": ["Racket is the noble descendant of Lisp, a programming language renowned for it... "]}
+{"title": [".NET本质论第1卷"], "img": ["http://img5.douban.com/mpic/s9864419.jpg"], "desc": []}
+{"title": ["C++程序设计"], "img": ["http://img3.douban.com/mpic/s5924683.jpg"], "desc": ["《计算机科学丛书•C++程序设计》保持了Liang博士系列丛书中一贯的标志性的教与学的哲学：以实例教，由实践学。通过使用他所提出的已经经过实践检验的“基础先... "]}
+{"title": ["PC游戏编程"], "img": ["http://img5.douban.com/mpic/s26379808.jpg"], "desc": ["本书是一本专论机器搏奔的作品。详细披露了编写人机对奔程序的原理，技术和各种相关内容。包含一个完整的中国象棋人机对奔程序和一个完整的五子棋人机对奔程序实例。毫... "]}
+{"title": ["Introduction to Linear Optimization (Athena Scientific Series in Optimization and Neural Computation, 6)"], "img": ["http://img3.douban.com/mpic/s4106840.jpg"], "desc": []}
+{"title": ["火球"], "img": ["http://img5.douban.com/mpic/s8909588.jpg"], "desc": ["《火球:UML大战需求分析》融合UML、非UML、需求分析及需求管理等各方面的知识，帮助读者解决UML业界问题、需求分析及需求管理问题。全书主要介绍UML的... "]}
+{"title": ["并行编程模式"], "img": ["http://img5.douban.com/mpic/s10000056.jpg"], "desc": []}
+{"title": ["Ruby Cookbook"], "img": ["http://img5.douban.com/mpic/s10309789.jpg"], "desc": ["Do you want to push Ruby to its limits? The "Ruby Cookbook" is the most compre... "]}
+{"title": ["Python 3程序开发指南"], "img": ["http://img3.douban.com/mpic/s4622623.jpg"], "desc": ["编辑推荐
+在本书中，一流的Python程序员Mark Summerfield展示了如何充分利用Python 3的功能与特性来编写代码。与以前的版本相比。Py... "]}
+{"title": ["Hacking Secret Ciphers with Python"], "img": ["http://img3.douban.com/mpic/s26845964.jpg"], "desc": []}
+{"title": ["Oracle优化日记"], "img": ["http://img3.douban.com/mpic/s4399403.jpg"], "desc": ["本书是一本介绍Oracle数据库优化方法的书，以一个实际的大型优化项目为原型，用日记的形式记录了一个优化小组的DBA 如何从纷繁的头绪中找到突破口，进而完成... "]}
+{"title": ["PHP程序设计"], "img": ["http://img3.douban.com/mpic/s1395222.jpg"], "desc": ["本书涵盖了创建一个高效PHP Web应用程序所需要的所有技术，其内容包括：PHP语言基础的详细信息，包括数据类型、变量、操作符和流控制语句。用专门章节讨论关... "]}
+{"title": ["iPhone开发秘籍"], "img": ["http://img5.douban.com/mpic/s3849798.jpg"], "desc": ["iPhone和iPod touch吸引的不只是全世界数千万痴迷的用户，这个全新的开发平台也为成千上万锐意创新的程序员提供了一个平台，使他们得以为未来构建最酷... "]}
+{"title": ["Redis Cookbook"], "img": ["http://img3.douban.com/mpic/s6833933.jpg"], "desc": ["Redis is an open source, advanced key-value store. It is often referred to as ... "]}
+{"title": ["Web Application Development with R Using Shiny"], "img": ["http://img5.douban.com/mpic/s27114197.jpg"], "desc": ["【What you will learn from this book?】
+--Produce advanced analysis and graphics... "]}
+{"title": ["你必须知道的261个Java语言问题"], "img": ["http://img5.douban.com/mpic/s6094217.jpg"], "desc": ["《你必须知道的261个Java语言问题》以问答的形式组织内容，讨论了学习或使用Java语言的过程中经常遇到的一些问题。这些问题均是在经过充分调研的基础上，从... "]}
+{"title": ["黑莓"], "img": ["http://img3.douban.com/mpic/s4687130.jpg"], "desc": ["《黑莓(BlackBerry)开发从入门到精通》是为中国黑莓开发者设计的中文教程，是你开发黑莓平台应用程序的案头必备参考书。通过本书，你将会发现黑莓的开发平... "]}
+{"title": ["Windows环境下32位汇编语言程序设计"], "img": ["http://img3.douban.com/mpic/s26739400.jpg"], "desc": ["《Windows环境下32位汇编语言程序设计》从编写应用程序的角度，从“HelloWorld"这个简单的例子开始到编写多线程、注册表和网络通信等复杂的程序，... "]}
+{"title": ["C/C++嵌入式系统编程"], "img": ["http://img3.douban.com/mpic/s2386023.jpg"], "desc": ["本书内容包括：快速有效的测试存储器芯片，如何写入和擦除快闪存储器，设计和实现设备驱动，优化嵌入式软件等。 "]}
+{"title": ["Big C++中文版"], "img": ["http://img5.douban.com/mpic/s10104446.jpg"], "desc": ["本书是一本关于C++的优秀教材，南圣何塞州立大学知名教授Horstmann编写。全书深入探讨了C++的知识，并着重强调了安全的标准模板库；本书较厚，但它可用... "]}
+{"title": ["Windows图形编程"], "img": ["http://img3.douban.com/mpic/s1449101.jpg"], "desc": ["本书详细介绍Windows图形系统，包括Win32 GDI和 DirectDraw API的技术细节：设备环境、坐标空间和变换、像素、填充区域、位图、图像处... "]}
+{"title": ["构建高性能Web站点"], "img": ["http://img3.douban.com/mpic/s3935862.jpg"], "desc": ["本书围绕如何构建高性能Web站点，从多个方面、多个角度进行了全面的阐述，涵盖了Web站点性能优化的几乎所有内容，包括数据的网络传输、服务器并发处理能力、动态... "]}
+{"title": ["C语言经典编程282例"], "img": ["http://img5.douban.com/mpic/s8935239.jpg"], "desc": ["《C语言学习路线图•C语言经典编程282例》以基础知识为框架，介绍了各部分知识所对应的常用开发实例，并进行了透彻的解析。《C语言学习路线图•C语言经典编程2... "]}
+{"title": ["锋利的jQuery"], "img": ["http://img5.douban.com/mpic/s10170467.jpg"], "desc": ["《锋利的jQuery》循序渐进地对jQuery的各种函数和方法调用进行了介绍，读者可以系统地掌握jQuery的DOM操作、事件监听和动画、表单操作、AJAX... "]}
+{"title": ["Learning PHP & MySQL中文版"], "img": ["http://img3.douban.com/mpic/s10131985.jpg"], "desc": ["《Learning PHP & MySQL中文版》将介绍程序、模板和数据库的工作原理，讲述如何应对其中的挑战，并彻底地探索这些技术。 "]}
+{"title": ["C游戏编程从入门到精通"], "img": ["http://img5.douban.com/mpic/s26379499.jpg"], "desc": []}
+{"title": ["WCF服务编程"], "img": ["http://img3.douban.com/mpic/s5866870.jpg"], "desc": ["《WCF服务编程》是一本关于Windows Communication Foundation（WCF）的权威入门指南，WCF是微软用于开发面向服务的Wind... "]}
+{"title": ["超越 Java"], "img": ["http://img3.douban.com/mpic/s2361265.jpg"], "desc": ["Java的存在时间已经超过10年了，在这段时间里它的成就非凡，彻底改变了我们写软件的方法和想法。但是Java已显老态，该是时候让我们想想未来接班人是谁了。
+... "]}
+{"title": ["计算机程序设计艺术：第4卷 第3册（双语版）"], "img": ["http://img5.douban.com/mpic/s5747909.jpg"], "desc": ["关于算法分析的这多卷论著已经长期被公认为经典计算机科学的定义性描述。这一册以及刚刚出版的第4卷第2册揭开了人们急切等待的《计算机程序设计艺术第4卷组合算法》... "]}

@@ -1,0 +1,85 @@
+# -*- coding:utf-8 -*-
+
+# 过滤列表中具有指定属性的字典
+# filter函数会对指定序列执行过滤操作。
+
+"""
+filter + lambda
+"""
+
+dlist = []
+
+d1 = dict(name='zhangleid', id=1, age=20)
+d2 = dict(name='wangtp', id=2, age=33)
+d3 = dict(name='yanbc', id=3, age=23)
+
+dlist.append(d1)
+dlist.append(d2)
+dlist.append(d3)
+
+d = filter(lambda t: t['id'] == 1, dlist)
+print d
+
+d = filter(lambda t: t['age'] > 30, dlist)
+print d
+
+ports = [
+'10.162.200.5|dform|10100,10110',
+'10.162.200.6|dform|10100,10110',
+'10.162.200.7|dform|10100,10110',
+'10.162.200.8|dform|10100,10110',
+'10.162.200.9|dform|10100,10110',
+
+'10.162.200.5|kfweb|10150',
+'10.162.200.6|kfweb|10150',
+'10.162.200.7|kfweb|10150',
+'10.162.200.8|kfweb|10150',
+'10.162.200.9|kfweb|10150',
+
+'10.162.200.202|chnesb|52000,53000,54000,55000,56000,57000,60000,62000,63000',
+'10.162.200.203|chnesb|52000,53000,54000,55000,56000,57000,60000,62000,63000',
+'10.162.200.204|chnesb|52000,53000,54000,55000,56000,57000,60000,62000,63000',
+'10.162.200.205|chnesb|52000,53000,54000,55000,56000,57000,60000,62000,63000',
+'10.162.200.206|chnesb|52000,53000,54000,55000,56000,57000,60000,62000,63000',
+]
+
+
+d = filter(lambda t: t.split('|')[0]=='10.162.200.8' and t.split('|')[1]=='dform', ports)
+if d:
+    print d[0].split('|')[-1].split(',')
+else:
+    print []
+
+
+
+"""
+map + lambda
+"""
+# map函数会根据提供的函数对指定序列做映射
+
+# 一个序列
+d = map(lambda x: x ** 2, [1, 2, 3, 4, 5])
+print d
+
+# 多个序列
+d = map(lambda x, y: x + y, [1, 3, 5, 7, 9], [2, 4, 6, 8, 10])
+print d
+
+d = map(lambda x, y: (x, y), [1, 3, 5, 7, 9], [2, 4, 6, 8, 10])
+print d
+
+d = map(None, [1, 3, 5, 7, 9], [2, 4, 6, 8, 10])
+print d
+
+"""
+reduce + lambda
+"""
+# reduce函数，reduce函数会对参数序列中元素进行累积。
+d = reduce(lambda x, y: x + y, [2, 3, 4, 5, 6], 1)
+print d
+
+
+nums = [1,2,3]
+it = iter(nums)
+for i in it:
+    print i

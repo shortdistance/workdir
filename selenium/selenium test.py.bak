@@ -1,0 +1,36 @@
+#-*-coding:utf-8-*-
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+import time
+
+url1 = "https://sso.si-tech.com.cn/login?service=http%3A%2F%2Feip.si-tech.com.cn%2F"
+username1 = 'zhangleid'
+password1= '050505'
+
+def login (browser, url, username, password):
+    browser.get(url)
+    browser.add_cookie({'name':'username', 'value':username})
+    browser.add_cookie({'name':'password', 'value':password})
+    time.sleep(2)
+    
+    linkToMain = browser.find_element_by_id("overridelink")
+    if linkToMain:
+        print "认证"
+        linkToMain.click()
+    else:
+        print "无认证"
+
+    username_textctl = browser.find_element_by_id("username")
+    password_textctl = browser.find_element_by_id("password")
+    username_textctl.send_keys(username)
+    password_textctl.send_keys(password)
+    browser.find_element_by_id("login").submit()
+    if "员工门户" in browser.title:
+        return True
+    else:
+        return False
+
+
+if __name__ == '__main__':
+    browser1 = webdriver.Ie()
+    ret = login(browser1, url1, username1, password1)

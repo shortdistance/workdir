@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://www.w3.org/2004/02/skos/core#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://example.com/foo">
+    <rdfs:label>foo</rdfs:label>
+    <rdfs:label>bar</rdfs:label>
+    <ns1:prefLabel>bla</ns1:prefLabel>
+    <ns1:prefLabel xml:lang="en">blubb</ns1:prefLabel>
+  </rdf:Description>
+</rdf:RDF>

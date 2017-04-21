@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log xmlns="http://www.httpwatch.com/xml/log/5.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.httpwatch.com/xml/log/5.1 
+http://www.httpwatch.com/xml/log/5.1/log.xsd">
+<entry method="GET" URL="https://sso.teamshub.com/login?service=http%3A%2F%2Feip.si-tech.com.cn%2F">
+	<pageref idref="page_0" />
+	<started>00:00:00.000</started>
+	<startedDateTime>2015-06-10T18:47:18.046</startedDateTime>
+	<time>0.553</time>
+	<sent>474</sent>
+	<received>5109</received>	<result>200</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL https://sso.teamshub.com/login?service=http%3A%2F%2Feip.si-tech.com.cn%2F</action>
+		<action name="Started At" status="Completed">10-Jun-2015 18:47:18.046 (local time)</action>
+		<action name="DNS Lookup" status="Completed">Lookup of hostname &apos;sso.teamshub.com&apos;</action>
+		<action name="Connecting" status="Completed">Connecting to &apos;sso.teamshub.com&apos;</action>
+		<action name="Connected" status="Completed">Created HTTPS connection to IP address &apos;10.180.10.160:443&apos; from 172.21.212.139:64279</action>
+		<action name="HTTPS Request" status="Completed">Unconditional request sent for https://sso.teamshub.com/login?service=http%3A%2F%2Feip.si-tech.com.cn%2F</action>
+		<action name="HTTPS Response" status="Completed">Headers and content returned</action>
+	</overview>
+	<request>
+		<requestMethod>GET /login?service=http%3A%2F%2Feip.si-tech.com.cn%2F HTTP/1.1</requestMethod>
+		<cookies>
+			<cookie name="JSESSIONID" path="/" domain=".sso.teamshub.com">C36F98DEC1510D3ADD86757FBB808FD6</cookie>
+			<cookie name="username" path="/" domain=".sso.teamshub.com" expires="Mon, 15-Jun-2015 07:05:46 GMT">13681197396</cookie>
+		</cookies>
+		<headers>
+			<header name="Accept">text/html, application/xhtml+xml, */*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">zh-CN</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Cookie">username=13681197396; JSESSIONID=C36F98DEC1510D3ADD86757FBB808FD6</header>
+			<header name="Host">sso.teamshub.com</header>
+			<header name="User-Agent">Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko</header>
+			<header name="X-HttpWatch-RID">56415-10005</header>
+		</headers>
+		<queryString>
+			<parameter name="service">http://eip.si-tech.com.cn/</parameter>
+		</queryString>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 200 OK</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Cache-Control">no-cache</header>
+			<header name="Connection">keep-alive</header>
+			<header name="Content-Length">4823</header>
+			<header name="Content-Type">text/html;charset=UTF-8</header>
+			<header name="Date">Wed, 10 Jun 2015 10:47:39 GMT</header>
+			<header name="Expires">Thu, 01 Jan 1970 00:00:00 GMT</header>
+			<header name="Pragma">No-cache</header>
+			<header name="Server">nginx/1.2.6</header>
+		</headers>
+		<content>
+			<contentLength>4823</contentLength>
+			<text><![CDATA[
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">......................<html xmlns="http://www.w3.org/1999/xhtml">..<head>..<title>登录...</title>..<link rel="shortcut icon" type="image/x-icon" href="http://rs.teamshub.com/favicon.ico" media="screen" /> ..<link rel="stylesheet" href="nresources/default/css/basiCss/reset.css" />..<link rel="stylesheet" href="nresources/default/css/basiCss/common.css" />..<link rel="stylesheet" href="nresources/default/css/pageCss/login.css" />..<link type="text/css" rel="stylesheet" href="css/login.css">..</head>....<body>..<div class="w">..    <div id="logo">...    <b></b>..    </div>..</div>.. ..<form id="fm1" class="clearfix" action="/login?service=http%3A%2F%2Feip.si-tech.com.cn%2F" method="post"> ..       <div class=" w1" id="entry">..       <div class="mc " id="bgDiv">..            <div style="width: 511px; height: 455px; background-image:url(images/index/advert1.png); position: absolute; left: -44px; top: -44px; background-position: 0px 0px; background-repeat: no-repeat no-repeat; "> ..            </div>..            <div class="form ">..              ......<input type="hidden" id = "J_LoginTicket" name="lt" value="LT-199711-7Ij2C263UdvlPSdJK24f2lfKVr9chW" />......<input type="hidden" id = "execution" name="execution" value="e2s1" />......<input type="hidden" name="_eventId" value="submit" />....                <div class="item fore1">   <span>登录号（已绑定手机号）</span>..                    <div class="item-ifo">..                      . ........................<input id="username" name="username" class="required" tabindex="1" style="float: none;width: 282px;height: 24px;line-height: 24px;padding: 4px 20px 4px 3px;border: 1px solid #CCC;font-size: 14px;font-family: arial,&#39;宋体&#39;;" type="text" value="" size="16" autocomplete="false"/>..............  <div class="i-name ico"></div>..                    ...                    <input class="" id="orgNo" name="orgNo" type="hidden" value="" />...                    ...                 ...                  ..                    </div>..                    ..                </div>..                <div class="item fore2"> <span>密码</span>..                    <div class="item-ifo">..                        .<input  type="text" class="required" id="password1" size="16" tabindex="1"  style="float: none;width: 282px;height: 24px;line-height: 24px;padding: 4px 20px 4px 3px;border: 1px solid #CCC;font-size: 14px;font-family: arial,'宋体';" />..                ..<input id="password" name="password" class="required" style="display:none;float: none;width: 282px;height: 24px;line-height: 24px;padding: 4px 20px 4px 3px;border: 1px solid #CCC;font-size: 14px;font-family: arial,&#39;宋体&#39;;" type="password" value="" size="18" autocomplete="false"/> ........ <div class="i-pass ico"></div>..                    </div>..                  ..                 <span id="errorarea"  class="null" style="display:none;margin-top:20px"></span>..                </div>..               ..                 <div class="item fore4" id="autoentry" >..                    <div class="item-ifo">..                         <input type="checkbox" class="inp-chb" name = "rememberMe" value="true"><b class="b-chb"></b>7天免登录..                     ..                    ..                        <div style="float:left;" id="ctrlDiv">..                        ..                        ..                        </div>..                       <!--   &nbsp; &nbsp; &nbsp; &nbsp;<a href="javascript:void(0)" class="" clstag="passport|keycount|login|05">忘记密码?</a>..                        -->..                        &nbsp; &nbsp;<a href="http://eip.teamshub.com/reg" class="" clstag="passport|keycount|login|05">忘记密码?</a>..                        <div class="clr"></div>..                    </div>..                 </div>..                 <div class="item login-btn2013">...             <input type="button" class="btn-img btn-entry" id="login" value="登录" tabindex="8" clstag="passport|keycount|login|06">...            </div>..           ..        </div>..             <div class="form form1" style="display: none;overflow-y:scroll" id="formcomp" ><!--businessStart-->...                       <ul class="compy-name" id="comyName">...                       </ul>..             </div><!--businessEnd-->..    </div>..</div>..</form>...<div class="w1">..    <div id="mb-bg" class="mb"></div>..</div>..<div class="w">..    <div id="footer-2013">..        <div class="" >Copyright @ 1996-2013 on-con 黑ICP备12002079号-7</div>..    </div>..</div>....</body>..</html>..<script src="js/jquery-1.7.2.min.js"></script>..<script src="js/ui.js"></script>..<script src="js/login0912.js" ></script>..
+]]></text>
+			<mimeType>text/html;charset=UTF-8</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>false</URLInCache>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>false</URLInCache>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.004</blocked>
+		<dns_lookup started="0.004">0.012</dns_lookup>
+		<connect started="0.016">0.062</connect>
+		<ssl_handshake started="0.078">0.221</ssl_handshake>
+		<send started="0.299">0.000</send>
+		<wait started="0.299">0.253</wait>
+		<receive started="0.552">0.001</receive>
+		<ttfb started="0.004">0.548</ttfb>
+		<network started="0.004">0.549</network>
+	</timings>
+</entry>
+<entry method="GET" URL="https://sso.teamshub.com/nresources/default/css/basiCss/reset.css">
+	<pageref idref="page_0" />
+	<started>00:00:00.564</started>
+	<startedDateTime>2015-06-10T18:47:18.610</startedDateTime>
+	<time>0.118</time>
+	<sent>618</sent>
+	<received>181</received>	<result>304</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL https://sso.teamshub.com/nresources/default/css/basiCss/reset.css</action>
+		<action name="Started At" status="Completed">10-Jun-2015 18:47:18.610 (local time)</action>
+		<action name="Connection Reuse" status="Completed">An existing HTTPS connection 172.21.212.139:64279 was reused</action>
+		<action name="HTTPS Request" status="Completed">Check if modified since &apos;Mon, 30 Mar 2015 03:04:32 GMT&apos;</action>
+		<action name="HTTPS Response" status="Completed">Only headers returned as content has not changed</action>
+		<action name="Read Cache" status="Completed">Content read from browser cache</action>
+	</overview>
+	<request>
+		<requestMethod>GET /nresources/default/css/basiCss/reset.css HTTP/1.1</requestMethod>
+		<cookies>
+			<cookie name="JSESSIONID" path="/" domain=".sso.teamshub.com">C36F98DEC1510D3ADD86757FBB808FD6</cookie>
+			<cookie name="username" path="/" domain=".sso.teamshub.com" expires="Mon, 15-Jun-2015 07:05:46 GMT">13681197396</cookie>
+		</cookies>
+		<headers>
+			<header name="Accept">text/css, */*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">zh-CN</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Cookie">username=13681197396; JSESSIONID=C36F98DEC1510D3ADD86757FBB808FD6</header>
+			<header name="Host">sso.teamshub.com</header>
+			<header name="If-Modified-Since">Mon, 30 Mar 2015 03:04:32 GMT</header>
+			<header name="If-None-Match">W/&quot;719-1427684672000&quot;</header>
+			<header name="Referer">https://sso.teamshub.com/login?service=http%3A%2F%2Feip.si-tech.com.cn%2F</header>
+			<header name="User-Agent">Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko</header>
+			<header name="X-HttpWatch-RID">56415-10006</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 304 Not Modified</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Connection">keep-alive</header>
+			<header name="Date">Wed, 10 Jun 2015 10:47:39 GMT</header>
+			<header name="ETag">W/&quot;719-1427684672000&quot;</header>
+			<header name="Server">nginx/1.2.6</header>
+		</headers>
+		<content>
+			<contentLength>719</contentLength>
+			<mimeType>text/css;charset=UTF-8</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2015-03-30T03:04:32</lastModification>
+			<lastCacheUpdate>2015-06-10T10:46:15.044</lastCacheUpdate>
+			<lastAccess>2015-06-10T10:46:15.044</lastAccess>
+			<eTag>W/&quot;719-1427684672000&quot;</eTag>
+			<hitCount>1</hitCount>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2015-03-30T03:04:32</lastModification>
+			<lastCacheUpdate>2015-06-10T10:47:18.726</lastCacheUpdate>
+			<lastAccess>2015-06-10T10:47:18.618</lastAccess>
+			<eTag>W/&quot;719-1427684672000&quot;</eTag>
+			<hitCount>2</hitCount>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.011</blocked>
+		<send started="0.011">0.001</send>
+		<wait started="0.012">0.103</wait>
+		<receive started="0.115">0.000</receive>
+		<cache_read started="0.115">0.003</cache_read>
+		<ttfb started="0.011">0.104</ttfb>
+		<network started="0.011">0.104</network>
+	</timings>
+</entry>
+<entry method="GET" URL="https://sso.teamshub.com/nresources/default/css/basiCss/common.css">
+	<pageref idref="page_0" />
+	<started>00:00:00.573</started>
+	<startedDateTime>2015-06-10T18:47:18.619</startedDateTime>
+	<time>0.341</time>
+	<sent>618</sent>
+	<received>181</received>	<result>304</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL https://sso.teamshub.com/nresources/default/css/basiCss/common.css</action>
+		<action name="Started At" status="Completed">10-Jun-2015 18:47:18.619 (local time)</action>
+		<action name="Connecting" status="Completed">Connecting to &apos;sso.teamshub.com&apos;</action>
+		<action name="Connected" status="Completed">Created HTTPS connection to IP address &apos;10.180.10.160:443&apos; from 172.21.212.139:64281</action>
+		<action name="HTTPS Request" status="Completed">Check if modified since &apos;Mon, 30 Mar 2015 03:04:32 GMT&apos;</action>
+		<action name="HTTPS Response" status="Completed">Only headers returned as content has not changed</action>
+		<action name="Read Cache" status="Completed">Content read from browser cache</action>
+	</overview>
+	<request>
+		<requestMethod>GET /nresources/default/css/basiCss/common.css HTTP/1.1</requestMethod>
+		<cookies>
+			<cookie name="JSESSIONID" path="/" domain=".sso.teamshub.com">C36F98DEC1510D3ADD86757FBB808FD6</cookie>
+			<cookie name="username" path="/" domain=".sso.teamshub.com" expires="Mon, 15-Jun-2015 07:05:46 GMT">13681197396</cookie>
+		</cookies>
+		<headers>
+			<header name="Accept">text/css, */*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">zh-CN</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Cookie">username=13681197396; JSESSIONID=C36F98DEC1510D3ADD86757FBB808FD6</header>
+			<header name="Host">sso.teamshub.com</header>
+			<header name="If-Modified-Since">Mon, 30 Mar 2015 03:04:32 GMT</header>
+			<header name="If-None-Match">W/&quot;5308-1427684672000&quot;</header>
+			<header name="Referer">https://sso.teamshub.com/login?service=http%3A%2F%2Feip.si-tech.com.cn%2F</header>
+			<header name="User-Agent">Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko</header>
+			<header name="X-HttpWatch-RID">56415-10007</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 304 Not Modified</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Connection">keep-alive</header>
+			<header name="Date">Wed, 10 Jun 2015 10:47:40 GMT</header>
+			<header name="ETag">W/&quot;5308-1427684672000&quot;</header>
+			<header name="Server">nginx/1.2.6</header>
+		</headers>
+		<content>
+			<contentLength>5308</contentLength>
+			<mimeType>text/css;charset=UTF-8</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2015-03-30T03:04:32</lastModification>
+			<lastCacheUpdate>2015-06-10T10:46:15.399</lastCacheUpdate>
+			<lastAccess>2015-06-10T10:46:15.399</lastAccess>
+			<eTag>W/&quot;5308-1427684672000&quot;</eTag>
+			<hitCount>1</hitCount>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2015-03-30T03:04:32</lastModification>
+			<lastCacheUpdate>2015-06-10T10:47:18.959</lastCacheUpdate>
+			<lastAccess>2015-06-10T10:47:18.625</lastAccess>
+			<eTag>W/&quot;5308-1427684672000&quot;</eTag>
+			<hitCount>2</hitCount>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.008</blocked>
+		<connect started="0.008">0.047</connect>
+		<ssl_handshake started="0.055">0.195</ssl_handshake>
+		<send started="0.250">0.000</send>
+		<wait started="0.250">0.090</wait>
+		<receive started="0.340">0.000</receive>
+		<cache_read started="0.340">0.001</cache_read>
+		<ttfb started="0.008">0.332</ttfb>
+		<network started="0.008">0.332</network>
+	</timings>
+</entry>
+<entry method="GET" URL="https://sso.teamshub.com/nresources/default/css/pageCss/login.css">
+	<pageref idref="page_0" />
+	<started>00:00:00.580</started>
+	<startedDateTime>2015-06-10T18:47:18.626</startedDateTime>
+	<time>0.379</time>
+	<sent>618</sent>
+	<received>181</received>	<result>304</result>
+	<overview>
+		<action name="Display URL" status="Completed">Normal browser lookup of URL https://sso.teamshub.com/nresources/default/css/pageCss/login.css</action>
+		<action name="Started At" status="Completed">10-Jun-2015 18:47:18.626 (local time)</action>
+		<action name="Connecting" status="Completed">Connecting to &apos;sso.teamshub.com&apos;</action>
+		<action name="Connected" status="Completed">Created HTTPS connection to IP address &apos;10.180.10.160:443&apos; from 172.21.212.139:64282</action>
+		<action name="HTTPS Request" status="Completed">Check if modified since &apos;Mon, 30 Mar 2015 03:04:32 GMT&apos;</action>
+		<action name="HTTPS Response" status="Completed">Only headers returned as content has not changed</action>
+		<action name="Read Cache" status="Completed">Content read from browser cache</action>
+	</overview>
+	<request>
+		<requestMethod>GET /nresources/default/css/pageCss/login.css HTTP/1.1</requestMethod>
+		<cookies>
+			<cookie name="JSESSIONID" path="/" domain=".sso.teamshub.com">C36F98DEC1510D3ADD86757FBB808FD6</cookie>
+			<cookie name="username" path="/" domain=".sso.teamshub.com" expires="Mon, 15-Jun-2015 07:05:46 GMT">13681197396</cookie>
+		</cookies>
+		<headers>
+			<header name="Accept">text/css, */*</header>
+			<header name="Accept-Encoding">gzip, deflate</header>
+			<header name="Accept-Language">zh-CN</header>
+			<header name="Connection">Keep-Alive</header>
+			<header name="Cookie">username=13681197396; JSESSIONID=C36F98DEC1510D3ADD86757FBB808FD6</header>
+			<header name="Host">sso.teamshub.com</header>
+			<header name="If-Modified-Since">Mon, 30 Mar 2015 03:04:32 GMT</header>
+			<header name="If-None-Match">W/&quot;7190-1427684672000&quot;</header>
+			<header name="Referer">https://sso.teamshub.com/login?service=http%3A%2F%2Feip.si-tech.com.cn%2F</header>
+			<header name="User-Agent">Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko</header>
+			<header name="X-HttpWatch-RID">56415-10008</header>
+		</headers>
+	</request>
+	<response>
+		<responseStatus>HTTP/1.1 304 Not Modified</responseStatus>
+		<cookies></cookies>
+		<headers>
+			<header name="Connection">keep-alive</header>
+			<header name="Date">Wed, 10 Jun 2015 10:47:40 GMT</header>
+			<header name="ETag">W/&quot;7190-1427684672000&quot;</header>
+			<header name="Server">nginx/1.2.6</header>
+		</headers>
+		<content>
+			<contentLength>7190</contentLength>
+			<mimeType>text/css;charset=UTF-8</mimeType>
+		</content>
+	</response>
+	<cache>
+		<beforeRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2015-03-30T03:04:32</lastModification>
+			<lastCacheUpdate>2015-06-10T10:46:15.464</lastCacheUpdate>
+			<lastAccess>2015-06-10T10:46:15.464</lastAccess>
+			<eTag>W/&quot;7190-1427684672000&quot;</eTag>
+			<hitCount>1</hitCount>
+		</beforeRequest>
+		<afterRequest>
+			<URLInCache>true</URLInCache>
+			<lastModification>2015-03-30T03:04:32</lastModification>
+			<lastCacheUpdate>2015-06-10T10:47:19.003</lastCacheUpdate>
+			<lastAccess>2015-06-10T10:47:18.644</lastAccess>
+			<eTag>W/&quot;7190-1427684672000&quot;</eTag>
+			<hitCount>2</hitCount>
+		</afterRequest>
+	</cache>
+	<timings>
+		<blocked started="0.000">0.019</blocked>
+		<connect started="0.019">0.078</connect>
+		<ssl_handshake started="0.097">0.181</ssl_handshake>
+		<send started="0.278">0.000</send>
+		<wait started="0.278">0.098</wait>
+		<receive started="0.376">0.001</receive>
+		<cache_read started="0.377">0.002</cache_read>
+		<ttfb started="0.019">0.357</ttfb>
+		<network started="0.019">0.358</network>
+	</timings>
+</entry>
+</log>
